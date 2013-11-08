@@ -6,7 +6,7 @@ dnl Initialize
 dnl ==========
 AC_PREREQ([2.59])
 AC_INIT([mlplayer-plugins], [3.2.4])
-AC_COPYRIGHT([(C) 2005-2012 MLPlayer Team])
+AC_COPYRIGHT([(C) 2013 MLPlayer Team])
 
 AC_SUBST([PACKAGE], [AC_PACKAGE_TARNAME])
 AC_SUBST([VERSION], [AC_PACKAGE_VERSION])

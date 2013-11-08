@@ -1,6 +1,7 @@
 /*
  * MLPlayer: Cross platform multimedia player
- * Copyright (c) 2009 MLPlayer Team
+ * Copyright (c) 2013 MLPlayer Team
+ * Copyright (c) 2009 Audacious Team
  *
  * Driver for Game_Music_Emu library. See details at:
  * http://www.slack.net/~ant/libs/

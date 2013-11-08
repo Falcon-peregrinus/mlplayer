@@ -1,6 +1,6 @@
 /*
  * MLPlayer: A cross-platform multimedia player.
- * Copyright (c) 2005  MLPlayer Team
+ * Copyright (c) 2005  Audacious Team
  */
 #include "config.h"
 

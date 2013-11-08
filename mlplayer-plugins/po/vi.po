@@ -961,7 +961,7 @@ msgstr ""
 
 #: src/cdaudio-ng/cdaudio-ng.c:242
 msgid ""
-"Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The MLPlayer Team.\n"
+"Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The Audacious Team.\n"
 "\n"
 "Many thanks to libcdio developers <http://www.gnu.org/software/libcdio/>\n"
 "\tand to libcddb developers <http://libcddb.sourceforge.net/>.\n"
@@ -3328,7 +3328,7 @@ msgstr ""
 
 #: src/streambrowser/streambrowser.c:331
 msgid ""
-"Copyright (c) 2008, by Calin Crisan <ccrisan@gmail.com> and The MLPlayer Team.\n"
+"Copyright (c) 2008, by Calin Crisan <ccrisan@gmail.com> and The Audacious Team.\n"
 "\n"
 "This is a simple stream browser that includes the most popular streaming directories.\n"
 "Many thanks to the Streamtuner developers <http://www.nongnu.org/streamtuner>,\n"

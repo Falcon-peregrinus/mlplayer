@@ -924,7 +924,7 @@ msgstr "Informazioni sul plugin CD Audio"
 
 #: src/cdaudio-ng/cdaudio-ng.c:243
 msgid ""
-"Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The MLPlayer Team.\n"
+"Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The Audacious Team.\n"
 "\n"
 "Many thanks to libcdio developers <http://www.gnu.org/software/libcdio/>\n"
 "\tand to libcddb developers <http://libcddb.sourceforge.net/>.\n"

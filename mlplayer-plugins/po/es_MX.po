@@ -923,7 +923,7 @@ msgstr "Acerca del plugin Audio CD"
 
 #: src/cdaudio-ng/cdaudio-ng.c:243
 msgid ""
-"Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The MLPlayer Team.\n"
+"Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The Audacious Team.\n"
 "\n"
 "Many thanks to libcdio developers <http://www.gnu.org/software/libcdio/>\n"
 "\tand to libcddb developers <http://libcddb.sourceforge.net/>.\n"
@@ -933,7 +933,7 @@ msgid ""
 "This was a Google Summer of Code 2007 project.\n"
 "\n"
 "Copyright 2009 John Lindgren"
-msgstr "Copyright (c) 2007, por Calin Crisan <ccrisan@gmail.com> y el MLPlayer Team.\n\nMuchas gracias a los desarroladores de libcdio <http://www.gnu.org/software/libcdio/>\n\ty a los desarolladores de libcddb <http://libcddb.sourceforge.net/>.\n\nGracias también a Tony Vroon por ser mi mentor y guiarme.\n\nEste fue un proyecto de Google Summer of Code 2007.\n\nCopyright 2009 John Lindgren"
+msgstr "Copyright (c) 2007, por Calin Crisan <ccrisan@gmail.com> y el Audacious Team.\n\nMuchas gracias a los desarroladores de libcdio <http://www.gnu.org/software/libcdio/>\n\ty a los desarolladores de libcddb <http://libcddb.sourceforge.net/>.\n\nGracias también a Tony Vroon por ser mi mentor y guiarme.\n\nEste fue un proyecto de Google Summer of Code 2007.\n\nCopyright 2009 John Lindgren"
 
 #: src/cdaudio-ng/cdaudio-ng.c:552
 msgid "Audio CD"

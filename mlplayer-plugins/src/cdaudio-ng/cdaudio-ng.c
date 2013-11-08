@@ -254,7 +254,7 @@ static void cdaudio_about (void)
 
     mlpgui_simple_message (& about_window, GTK_MESSAGE_INFO,
      _("About Audio CD Plugin"),
-     _("Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The MLPlayer Team.\n\n"
+     _("Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The Audacious Team.\n\n"
      "Many thanks to libcdio developers <http://www.gnu.org/software/libcdio/>\n"
      "\tand to libcddb developers <http://libcddb.sourceforge.net/>.\n\n"
      "Also thank you Tony Vroon for mentoring & guiding me.\n\n"

@@ -1,5 +1,8 @@
 /*  MLPlayer - Cross-platform multimedia player
  *  Copyright (C) 2005-2009  MLPlayer Team
+ * 
+ *  Based on Audacious:
+ *  Copyright (C) 2005-2009  Audacious Team
  *
  *  Based on BMP:
  *  Copyright (C) 2003-2004  BMP development team
@@ -31,7 +34,8 @@
 
 static const char * mlplayer_brief =
  "<big><b>MLPlayer %s</b></big>\n"
- "Copyright (C) 2005-2012 MLPlayer Team";
+ "Copyright (C) 2005-2012 Audacious Team\n"
+ "Copyright (C) 2013 MLPlayer Team";
 
 static const char * const credit_text[] = {
     N_("Core developers:"),

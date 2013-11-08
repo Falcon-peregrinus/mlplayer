@@ -925,7 +925,7 @@ msgstr "Apie Audio CD Plugin"
 
 #: src/cdaudio-ng/cdaudio-ng.c:243
 msgid ""
-"Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The MLPlayer Team.\n"
+"Copyright (c) 2007, by Calin Crisan <ccrisan@gmail.com> and The Audacious Team.\n"
 "\n"
 "Many thanks to libcdio developers <http://www.gnu.org/software/libcdio/>\n"
 "\tand to libcddb developers <http://libcddb.sourceforge.net/>.\n"
@@ -935,7 +935,7 @@ msgid ""
 "This was a Google Summer of Code 2007 project.\n"
 "\n"
 "Copyright 2009 John Lindgren"
-msgstr "Autorinės teisės (c) 2007, sukūrė Calin Crisan <ccrisan@gmail.com> ir The MLPlayer Team.\n\nDidelis dėkui libcdio kūrėjams <http://www.gnu.org/software/libcdio/>\n\tir libcddb kūrėjams <http://libcddb.sourceforge.net/>.\n\nBeto dėkui Tony Vroon už pamokymus ir užvedimą ant kelio.\n\nČia buvo Google Summer Code 2007 projektas.\n\nAutorinės teisės 2009 John Lindgren"
+msgstr "Autorinės teisės (c) 2007, sukūrė Calin Crisan <ccrisan@gmail.com> ir The Audacious Team.\n\nDidelis dėkui libcdio kūrėjams <http://www.gnu.org/software/libcdio/>\n\tir libcddb kūrėjams <http://libcddb.sourceforge.net/>.\n\nBeto dėkui Tony Vroon už pamokymus ir užvedimą ant kelio.\n\nČia buvo Google Summer Code 2007 projektas.\n\nAutorinės teisės 2009 John Lindgren"
 
 #: src/cdaudio-ng/cdaudio-ng.c:552
 msgid "Audio CD"
