@@ -1,0 +1,1238 @@
+# Hungarian translation for MLPlayer
+# Copyright (C) MLPlayer translators
+# This file is distributed under the same license as the MLPlayer package.
+#
+# Translators:
+# Laszlo Dvornik <dvornik@gnome.hu>, 2006.
+# Peter Polonkai <polesz@nedudu.hu>, 2010.
+# Péter Polonkai <polesz@nedudu.hu>, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: MLPlayer\n"
+"Report-Msgid-Bugs-To: http://redmine.mlplayer-media-player.org/\n"
+"POT-Creation-Date: 2012-01-11 08:54-0500\n"
+"PO-Revision-Date: 2012-01-12 06:38+0000\n"
+"Last-Translator: Péter Polonkai <polesz@nedudu.hu>\n"
+"Language-Team: Hungarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: src/mlplayer/adder.c:77
+msgid "Searching ..."
+msgstr "Keresés ..."
+
+#: src/mlplayer/adder.c:113
+#, c-format
+msgid "%d file found"
+msgid_plural "%d files found"
+msgstr[0] "%d fájl található"
+msgstr[1] "%d fájl található"
+
+#: src/mlplayer/chardet.c:39
+msgid "  (invalid UTF-8)"
+msgstr "  (érvénytelen UTF-8)"
+
+#: src/mlplayer/credits.c:37
+msgid "Core developers:"
+msgstr "Fő fejlesztők:"
+
+#: src/mlplayer/credits.c:51
+msgid "Graphics:"
+msgstr "Grafika:"
+
+#: src/mlplayer/credits.c:56
+msgid "Default skin:"
+msgstr "Alapértelmezett bőr:"
+
+#: src/mlplayer/credits.c:62
+msgid "Plugin development:"
+msgstr "Bővítmény fejlesztés:"
+
+#: src/mlplayer/credits.c:85
+msgid "Patch authors:"
+msgstr "Patch készítők:"
+
+#: src/mlplayer/credits.c:131
+msgid "1.x developers:"
+msgstr "1.x fejlesztői:"
+
+#: src/mlplayer/credits.c:153
+msgid "BMP Developers:"
+msgstr "BMP-fejlesztők:"
+
+#: src/mlplayer/credits.c:185
+msgid "Belarusian:"
+msgstr "Belorusz"
+
+#: src/mlplayer/credits.c:188
+msgid "Basque:"
+msgstr "Baszk:"
+
+#: src/mlplayer/credits.c:191
+msgid "Brazilian Portuguese:"
+msgstr "Brazil portugál:"
+
+#: src/mlplayer/credits.c:196
+msgid "Breton:"
+msgstr "Breton:"
+
+#: src/mlplayer/credits.c:199
+msgid "Bulgarian:"
+msgstr "Bolgár"
+
+#: src/mlplayer/credits.c:202
+msgid "Catalan:"
+msgstr "Katalán"
+
+#: src/mlplayer/credits.c:206
+msgid "Chinese:"
+msgstr "Kínai:"
+
+#: src/mlplayer/credits.c:209
+msgid "Croatian:"
+msgstr "Horvát"
+
+#: src/mlplayer/credits.c:212
+msgid "Czech:"
+msgstr "Cseh:"
+
+#: src/mlplayer/credits.c:215
+msgid "Dutch:"
+msgstr "Holland:"
+
+#: src/mlplayer/credits.c:219
+msgid "Estonian:"
+msgstr "Észt"
+
+#: src/mlplayer/credits.c:222
+msgid "Finnish:"
+msgstr "Finn:"
+
+#: src/mlplayer/credits.c:227
+msgid "French:"
+msgstr "Francia:"
+
+#: src/mlplayer/credits.c:233
+msgid "German:"
+msgstr "Német:"
+
+#: src/mlplayer/credits.c:240
+msgid "Georgian:"
+msgstr "Grúz"
+
+#: src/mlplayer/credits.c:243
+msgid "Greek:"
+msgstr "Görög:"
+
+#: src/mlplayer/credits.c:248
+msgid "Hindi:"
+msgstr "Hindi:"
+
+#: src/mlplayer/credits.c:251
+msgid "Hungarian:"
+msgstr "Magyar:"
+
+#: src/mlplayer/credits.c:255
+msgid "Italian:"
+msgstr "Olasz:"
+
+#: src/mlplayer/credits.c:260
+msgid "Japanese:"
+msgstr "Japán:"
+
+#: src/mlplayer/credits.c:263
+msgid "Korean:"
+msgstr "Koreai:"
+
+#: src/mlplayer/credits.c:266
+msgid "Latvian:"
+msgstr "Lett:"
+
+#: src/mlplayer/credits.c:269
+msgid "Lithuanian:"
+msgstr "Litván:"
+
+#: src/mlplayer/credits.c:274
+msgid "Macedonian:"
+msgstr "Macedón:"
+
+#: src/mlplayer/credits.c:277
+msgid "Mexican Spanish:"
+msgstr "Mexikói spanyol:"
+
+#: src/mlplayer/credits.c:280
+msgid "Polish:"
+msgstr "Lengyel:"
+
+#: src/mlplayer/credits.c:287
+msgid "Portuguese:"
+msgstr "Portugál:"
+
+#: src/mlplayer/credits.c:290
+msgid "Romanian:"
+msgstr "Román:"
+
+#: src/mlplayer/credits.c:294
+msgid "Russian:"
+msgstr "Orosz:"
+
+#: src/mlplayer/credits.c:298
+msgid "Serbian (Latin):"
+msgstr "Szerb (Latin):"
+
+#: src/mlplayer/credits.c:301
+msgid "Serbian (Cyrillic):"
+msgstr "Szerb (Cirill):"
+
+#: src/mlplayer/credits.c:305
+msgid "Simplified Chinese:"
+msgstr "Egyszerűsített kínai:"
+
+#: src/mlplayer/credits.c:308
+msgid "Slovak:"
+msgstr "Szlovák:"
+
+#: src/mlplayer/credits.c:312
+msgid "Spanish:"
+msgstr "Spanyol:"
+
+#: src/mlplayer/credits.c:320
+msgid "Swedish:"
+msgstr "Svéd:"
+
+#: src/mlplayer/credits.c:323
+msgid "Traditional Chinese:"
+msgstr "Hagyományos kínai:"
+
+#: src/mlplayer/credits.c:329
+msgid "Turkish:"
+msgstr "Török:"
+
+#: src/mlplayer/credits.c:333
+msgid "Ukrainian:"
+msgstr "Ukrán:"
+
+#: src/mlplayer/credits.c:338
+msgid "Vietnamese:"
+msgstr "Vietnami:"
+
+#: src/mlplayer/credits.c:341
+msgid "Welsh:"
+msgstr "Walesi:"
+
+#: src/mlplayer/equalizer_preset.c:180
+#, c-format
+msgid "Error importing Winamp EQF file '%s'"
+msgstr "Hiba a Winamp EQF fájl '%s' importálásakor"
+
+#: src/mlplayer/main.c:243
+msgid "Skip backwards in playlist"
+msgstr "Visszalépés a lejátszólistában"
+
+#: src/mlplayer/main.c:244
+msgid "Start playing current playlist"
+msgstr "Jelenlegi lejátszólista lejátszásának elkezdése"
+
+#: src/mlplayer/main.c:245
+msgid "Pause current song"
+msgstr "Jelenlegi szám szüneteltetése"
+
+#: src/mlplayer/main.c:246
+msgid "Stop current song"
+msgstr "Jelenlegi szám leállítása"
+
+#: src/mlplayer/main.c:247
+msgid "Pause if playing, play otherwise"
+msgstr "Lejátszás esetén szüneteltetés, különben lejátszás"
+
+#: src/mlplayer/main.c:248
+msgid "Skip forward in playlist"
+msgstr "Előrelépés a lejátszólistában"
+
+#: src/mlplayer/main.c:249
+msgid "Display Jump to File dialog"
+msgstr "Ugrás fájlra párbeszédablak megjelenítése"
+
+#: src/mlplayer/main.c:250
+msgid "Add files to the playlist"
+msgstr "Fájlok hozzáadása a lejátszó listához"
+
+#: src/mlplayer/main.c:251
+msgid "Add new files to a temporary playlist"
+msgstr "Új fájlok hozzáadása az ideiglenes lejátszólistához"
+
+#: src/mlplayer/main.c:252
+msgid "Display the main window"
+msgstr "Főablak megjelenítése"
+
+#: src/mlplayer/main.c:253
+msgid "Show version"
+msgstr "Verzió mutatása"
+
+#: src/mlplayer/main.c:254
+msgid "Print debugging messages"
+msgstr "Hibakereső üzenetek kiírása"
+
+#: src/mlplayer/main.c:255
+msgid "Headless mode (beta)"
+msgstr "Headless mód (béta)"
+
+#: src/mlplayer/main.c:256
+msgid "FILE..."
+msgstr "Fájl..."
+
+#: src/mlplayer/main.c:268
+msgid "- play multimedia files"
+msgstr "- multimédia fájlok lejátszása"
+
+#: src/mlplayer/main.c:278
+#, c-format
+msgid ""
+"%s: %s\n"
+"Try `%s --help' for more information.\n"
+msgstr ""
+"%s: %s\n"
+"Próbája a `%s --help' további információkért.\n"
+
+#: src/mlplayer/main.c:573
+msgid "MLPlayer"
+msgstr "MLPlayer"
+
+#: src/mlplayer/playback.c:307
+#, c-format
+msgid "No decoder found for %s."
+msgstr "Dekóder nem található ehhez %s."
+
+#: src/mlplayer/playlist-files.c:53
+#, c-format
+msgid "Cannot %s %s: unsupported file extension."
+msgstr "Nem lehetséges %s %s: nem támogatott fájl kiterjesztés."
+
+#: src/mlplayer/playlist-files.c:54
+msgid "save"
+msgstr "mentés"
+
+#: src/mlplayer/playlist-files.c:54
+msgid "load"
+msgstr "betöltés'"
+
+#: src/mlplayer/playlist-new.c:131
+msgid "New Playlist"
+msgstr "Új lejátszólista"
+
+#: src/mlplayer/playlist-new.c:132
+msgid "Now Playing"
+msgstr "Most játszott"
+
+#: src/mlplayer/playlist-new.c:1630
+msgid ""
+"The playlist cannot be sorted because metadata scanning is still in progress"
+" (or has been disabled)."
+msgstr ""
+"A lejátszási listát nem lehet rendezni, mert a metaadatok keresése még "
+"folyamatban van (vagy le van tiltva)."
+
+#: src/mlplayer/ui_preferences.c:85
+msgid "Audio"
+msgstr "Hang"
+
+#: src/mlplayer/ui_preferences.c:86
+msgid "Network"
+msgstr "Hálózat"
+
+#: src/mlplayer/ui_preferences.c:87 src/mlplayer/ui_preferences.c:1603
+msgid "Playlist"
+msgstr "Lejátszólista"
+
+#: src/mlplayer/ui_preferences.c:88
+msgid "Plugins"
+msgstr "Bővítmények"
+
+#: src/mlplayer/ui_preferences.c:94 src/libmlpgui/infopopup.c:199
+msgid "Artist"
+msgstr "Előadó"
+
+#: src/mlplayer/ui_preferences.c:95 src/libmlpgui/infopopup.c:201
+msgid "Album"
+msgstr "Album"
+
+#: src/mlplayer/ui_preferences.c:96 src/libmlpgui/infopopup.c:197
+#: src/libmlpgui/ui_playlist_manager.c:279
+msgid "Title"
+msgstr "Cím"
+
+#: src/mlplayer/ui_preferences.c:97
+msgid "Tracknumber"
+msgstr "Szám sorszáma"
+
+#: src/mlplayer/ui_preferences.c:98 src/libmlpgui/infopopup.c:203
+msgid "Genre"
+msgstr "Műfaj"
+
+#: src/mlplayer/ui_preferences.c:99
+msgid "Filename"
+msgstr "Fájlnév"
+
+#: src/mlplayer/ui_preferences.c:100
+msgid "Filepath"
+msgstr "Fájlútvonal"
+
+#: src/mlplayer/ui_preferences.c:101
+msgid "Date"
+msgstr "Dátum"
+
+#: src/mlplayer/ui_preferences.c:102 src/libmlpgui/infopopup.c:205
+msgid "Year"
+msgstr "Év"
+
+#: src/mlplayer/ui_preferences.c:103
+msgid "Comment"
+msgstr "Megjegyzés"
+
+#: src/mlplayer/ui_preferences.c:104
+msgid "Codec"
+msgstr "Kodek"
+
+#: src/mlplayer/ui_preferences.c:105
+msgid "Quality"
+msgstr "Minőség"
+
+#: src/mlplayer/ui_preferences.c:111
+msgid "None"
+msgstr "Nincs"
+
+#: src/mlplayer/ui_preferences.c:112
+msgid "Arabic"
+msgstr "Arab"
+
+#: src/mlplayer/ui_preferences.c:113
+msgid "Baltic"
+msgstr "Balti"
+
+#: src/mlplayer/ui_preferences.c:114
+msgid "Chinese"
+msgstr "Kínai"
+
+#: src/mlplayer/ui_preferences.c:115
+msgid "Greek"
+msgstr "Görög"
+
+#: src/mlplayer/ui_preferences.c:116
+msgid "Hebrew"
+msgstr "Héber"
+
+#: src/mlplayer/ui_preferences.c:117
+msgid "Japanese"
+msgstr "Japán"
+
+#: src/mlplayer/ui_preferences.c:118
+msgid "Korean"
+msgstr "Koreai"
+
+#: src/mlplayer/ui_preferences.c:119
+msgid "Polish"
+msgstr "Lengyel"
+
+#: src/mlplayer/ui_preferences.c:120
+msgid "Russian"
+msgstr "Orosz"
+
+#: src/mlplayer/ui_preferences.c:121
+msgid "Taiwanese"
+msgstr "Tajvani"
+
+#: src/mlplayer/ui_preferences.c:122
+msgid "Turkish"
+msgstr "Török"
+
+#: src/mlplayer/ui_preferences.c:144
+msgid "Album mode"
+msgstr "Album mód"
+
+#: src/mlplayer/ui_preferences.c:147
+msgid "<b>Output Settings</b>"
+msgstr "<b>Kimeneti beállítások</b>"
+
+#: src/mlplayer/ui_preferences.c:149
+msgid "Bit depth:"
+msgstr "Bit mélység:"
+
+#: src/mlplayer/ui_preferences.c:152
+msgid "Buffer size:"
+msgstr "Pufferméret:"
+
+#: src/mlplayer/ui_preferences.c:154
+msgid "ms"
+msgstr "ms"
+
+#: src/mlplayer/ui_preferences.c:155
+msgid "Use software volume control (not recommended)"
+msgstr "Szoftveres hangerő-szabályozás használata (nem ajánlott)"
+
+#: src/mlplayer/ui_preferences.c:157
+msgid "<b>Replay Gain</b>"
+msgstr "<b>Replay Gain</b>"
+
+#: src/mlplayer/ui_preferences.c:158
+msgid "Enable Replay Gain"
+msgstr "Lejátszási erősítés engedélyezése"
+
+#: src/mlplayer/ui_preferences.c:161
+msgid "Prevent clipping (recommended)"
+msgstr "Vágás megakadályozása (ajánlott)"
+
+#: src/mlplayer/ui_preferences.c:163
+msgid "<b>Adjust Levels</b>"
+msgstr "<b>Szintek állítása</b>"
+
+#: src/mlplayer/ui_preferences.c:164
+msgid "Amplify all files:"
+msgstr "Amplify all files:"
+
+#: src/mlplayer/ui_preferences.c:166 src/mlplayer/ui_preferences.c:169
+msgid "dB"
+msgstr "dB"
+
+#: src/mlplayer/ui_preferences.c:167
+msgid "Amplify untagged files:"
+msgstr "Címkézetlen fájlok kiegészítése:"
+
+#: src/mlplayer/ui_preferences.c:172
+msgid "Proxy hostname:"
+msgstr "Proxy gépnév:"
+
+#: src/mlplayer/ui_preferences.c:173
+msgid "Proxy port:"
+msgstr "Proxy port:"
+
+#: src/mlplayer/ui_preferences.c:176
+msgid "Proxy username:"
+msgstr "Proxy felhasználónév:"
+
+#: src/mlplayer/ui_preferences.c:177
+msgid "Proxy password:"
+msgstr "Proxy jelszó:"
+
+#: src/mlplayer/ui_preferences.c:181
+msgid "<b>Proxy Configuration</b>"
+msgstr "<b>Proxy beállítása</b>"
+
+#: src/mlplayer/ui_preferences.c:182
+msgid "Enable proxy usage"
+msgstr "Proxyhasználat bekapcsolása"
+
+#: src/mlplayer/ui_preferences.c:185
+msgid "Use authentication with proxy"
+msgstr "Hitelesítés használata proxyval"
+
+#: src/mlplayer/ui_preferences.c:193
+msgid "Auto character encoding detector for:"
+msgstr "Automatikus karakterkódolás felismerés ennél:"
+
+#: src/mlplayer/ui_preferences.c:198
+msgid "Fallback character encodings:"
+msgstr "Tartalék karakterkódolások:"
+
+#: src/mlplayer/ui_preferences.c:202
+msgid "<b>Behavior</b>"
+msgstr "<b>Viselkedés</b>"
+
+#: src/mlplayer/ui_preferences.c:203
+msgid "Continue playback on startup"
+msgstr "Lejátszás folytatása induláskor"
+
+#: src/mlplayer/ui_preferences.c:205
+msgid "Advance when the current song is deleted"
+msgstr "Ajánlott amikor a jelenlegi zeneszám törlésre kerül"
+
+#: src/mlplayer/ui_preferences.c:207
+msgid "Clear the playlist when opening files"
+msgstr "Lejátszólista törlése fájlok megnyitásakor"
+
+#: src/mlplayer/ui_preferences.c:209
+msgid "Open files in a temporary playlist"
+msgstr "Fájlok megnyitása az ideiglenes lejátszólistában"
+
+#: src/mlplayer/ui_preferences.c:211
+msgid "<b>Metadata</b>"
+msgstr "<b>Metaadat</b>"
+
+#: src/mlplayer/ui_preferences.c:212
+msgid "Do not load metadata for songs until played"
+msgstr "Ne töltse be a metaadatokat amíg játssza a dalt"
+
+#: src/mlplayer/ui_preferences.c:230
+msgid "TITLE"
+msgstr "CÍM"
+
+#: src/mlplayer/ui_preferences.c:231
+msgid "ARTIST - TITLE"
+msgstr "ELŐADÓ - CÍM"
+
+#: src/mlplayer/ui_preferences.c:232
+msgid "ARTIST - ALBUM - TITLE"
+msgstr "ELŐADÓ - ALBUM - CÍM"
+
+#: src/mlplayer/ui_preferences.c:233
+msgid "ARTIST - ALBUM - TRACK. TITLE"
+msgstr "ELŐADÓ - ALBUM - SÁV. CÍM"
+
+#: src/mlplayer/ui_preferences.c:234
+msgid "ARTIST [ ALBUM ] - TRACK. TITLE"
+msgstr "ELŐADÓ [ ALBUM] - SÁV. CÍM"
+
+#: src/mlplayer/ui_preferences.c:235
+msgid "ALBUM - TITLE"
+msgstr "ALBUM - CÍM"
+
+#: src/mlplayer/ui_preferences.c:556
+msgid "Category"
+msgstr "Kategória"
+
+#: src/mlplayer/ui_preferences.c:780
+msgid "Popup Information Settings"
+msgstr "Felbukkanó információ beállításai"
+
+#: src/mlplayer/ui_preferences.c:789
+msgid "<b>Cover image retrieve</b>"
+msgstr "<b>Borítókép letöltése</b>"
+
+#: src/mlplayer/ui_preferences.c:794
+msgid ""
+"While searching for the album's cover, MLPlayer looks for certain words in "
+"the filename. You can specify those words in the lists below, separated "
+"using commas."
+msgstr ""
+"Albumborító keresése közben az MLPlayer bizonyos szavakat keres a "
+"fájlnévben. Megadhatja ezeket a szavakat az alábbi listában, vesszővel "
+"elválasztva."
+
+#: src/mlplayer/ui_preferences.c:811
+msgid "Exclude:"
+msgstr "Kihagyja:"
+
+#: src/mlplayer/ui_preferences.c:818
+msgid "Include:"
+msgstr "Beletartozzon:"
+
+#: src/mlplayer/ui_preferences.c:835
+msgid "Recursively search for cover"
+msgstr "Borító keresése rekurzívan"
+
+#: src/mlplayer/ui_preferences.c:845
+msgid "Search depth: "
+msgstr "Keresési mélység: "
+
+#: src/mlplayer/ui_preferences.c:859
+msgid "Use per-file cover"
+msgstr "Fájlonkénti borító használata"
+
+#: src/mlplayer/ui_preferences.c:862
+msgid "<b>Miscellaneous</b>"
+msgstr "<b>Egyéb</b>"
+
+#: src/mlplayer/ui_preferences.c:871
+msgid "Show Progress bar for the current track"
+msgstr "Folyamatjelző mutatása az aktuális számhoz"
+
+#: src/mlplayer/ui_preferences.c:881
+msgid "Delay until filepopup comes up: "
+msgstr "Késleltetés a file popup ablak megnyitásakor:"
+
+#: src/mlplayer/ui_preferences.c:1309
+msgid "Custom"
+msgstr "Egyéni"
+
+#: src/mlplayer/ui_preferences.c:1352
+msgid "<b>Song Display</b>"
+msgstr "<b>Szám megjelenítése</b>"
+
+#: src/mlplayer/ui_preferences.c:1361
+msgid "Show song numbers"
+msgstr "A dalok számának mutatása"
+
+#: src/mlplayer/ui_preferences.c:1372
+msgid "Show leading zeroes (02:00 instead of 2:00)"
+msgstr "Vezető nullák mutatása (2:00 helyett 02:00)"
+
+#: src/mlplayer/ui_preferences.c:1394
+msgid "Show information about titlestring format"
+msgstr "Információ megjelenítése a cím-karakterlánc formátumáról"
+
+#: src/mlplayer/ui_preferences.c:1410
+msgid "Custom string:"
+msgstr "Egyéni karakterlánc:"
+
+#: src/mlplayer/ui_preferences.c:1417
+msgid "Title format:"
+msgstr "Címformátum:"
+
+#: src/mlplayer/ui_preferences.c:1428
+msgid "<b>Popup Information</b>"
+msgstr "<b>Felbukkanó információ</b>"
+
+#: src/mlplayer/ui_preferences.c:1443
+msgid "Show popup information for playlist entries"
+msgstr "Felbukkanó információ megjelenítése a lejátszólista bejegyzéseknél"
+
+#: src/mlplayer/ui_preferences.c:1444
+msgid ""
+"Toggles popup information window for the pointed entry in the playlist. The "
+"window shows title of song, name of album, genre, year of publish, track "
+"number, track length, and artwork."
+msgstr ""
+"Megjelenjen-e a lejátszólistában a kiválasztott bejegyzésnél egy felbukkanó "
+"információs ablak. Az ablak megjeleníti a szám címét, az album nevét, a "
+"műfaját, a megjelenés évét, a szám sorszámát, a szám hosszát és az "
+"albumborítót."
+
+#: src/mlplayer/ui_preferences.c:1455
+msgid "Edit settings for popup information"
+msgstr "Felbukkanó információ beállításainak szerkesztése"
+
+#: src/mlplayer/ui_preferences.c:1544
+msgid "Output plugin:"
+msgstr "Kimeneti bővítmény:"
+
+#: src/mlplayer/ui_preferences.c:1603
+msgid "Transport"
+msgstr "Átvitel"
+
+#: src/mlplayer/ui_preferences.c:1603
+msgid "Input"
+msgstr "Bemenet"
+
+#: src/mlplayer/ui_preferences.c:1604
+msgid "Effect"
+msgstr "Effekt"
+
+#: src/mlplayer/ui_preferences.c:1604
+msgid "Visualization"
+msgstr "Megjelenítés"
+
+#: src/mlplayer/ui_preferences.c:1604
+msgid "General"
+msgstr "Általános"
+
+#: src/mlplayer/ui_preferences.c:1644
+msgid "MLPlayer Preferences"
+msgstr "MLPlayer beállításai"
+
+#: src/mlplayer/util.c:120
+#, c-format
+msgid "Could not create directory (%s): %s\n"
+msgstr "Nem lehet létrehozni a könyvtárat (%s): %s\n"
+
+#: src/mlptool/handlers_playlist.c:273
+msgid "Position not found."
+msgstr "Pozíció nem található."
+
+#: src/mlptool/handlers_vitals.c:63
+msgid "No song playing."
+msgstr "Nincs lejátszott dal."
+
+#: src/libmlpcore/mlpstrings.c:199
+#, c-format
+msgid "Audio CD, track %s"
+msgstr "Audio CD, sáv %s"
+
+#: src/libmlpcore/tuple.c:536
+msgid "Mono"
+msgstr "Monó"
+
+#: src/libmlpcore/tuple.c:538
+msgid "Stereo"
+msgstr "Sztereó"
+
+#: src/libmlpcore/tuple.c:540
+#, c-format
+msgid "%d channel"
+msgid_plural "%d channels"
+msgstr[0] "%d csatorna"
+msgstr[1] "%d csatorna"
+
+#: src/libmlpgui/about.c:52 src/libmlpgui/about.c:115
+msgid "Credits"
+msgstr "Köszönet"
+
+#: src/libmlpgui/about.c:52
+msgid "Translators"
+msgstr "Fordítók"
+
+#: src/libmlpgui/about.c:91
+msgid "About MLPlayer"
+msgstr "MLPlayer névjegye"
+
+#: src/libmlpgui/confirm.c:76
+#, c-format
+msgid ""
+"Are you sure you want to close %s?  If you do, any changes made since the "
+"playlist was exported will be lost."
+msgstr ""
+"Valóban be akarja zárni ezt a fájlt %s? Ha igen, akkor bármilyen változás "
+"történt a lejátszólistán az el fog veszni."
+
+#: src/libmlpgui/confirm.c:89
+msgid "_Don't show this message again"
+msgstr "_Ne mutassa többé ezt a figyelmeztetést"
+
+#: src/libmlpgui/confirm.c:126
+msgid "Rename Playlist"
+msgstr "Lejátszólista átnevezése"
+
+#: src/libmlpgui/effects-menu.c:74
+msgid "settings ..."
+msgstr "beállítások ..."
+
+#: src/libmlpgui/equalizer.c:51
+msgid "_Enable"
+msgstr "_Engedélyezve"
+
+#: src/libmlpgui/equalizer.c:123
+msgid "31 Hz"
+msgstr "31 Hz"
+
+#: src/libmlpgui/equalizer.c:123
+msgid "63 Hz"
+msgstr "63 Hz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "125 Hz"
+msgstr "125 Hz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "250 Hz"
+msgstr "250 Hz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "500 Hz"
+msgstr "500 Hz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "1 kHz"
+msgstr "1 kHz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "2 kHz"
+msgstr "2 kHz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "4 kHz"
+msgstr "4 kHz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "8 kHz"
+msgstr "8 kHz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "16 kHz"
+msgstr "16 kHz"
+
+#: src/libmlpgui/equalizer.c:130
+msgid "Equalizer"
+msgstr "Equalizer"
+
+#: src/libmlpgui/equalizer.c:146
+msgid "Preamp"
+msgstr "Preamp"
+
+#: src/libmlpgui/infopopup.c:207
+msgid "Track Number"
+msgstr "Szám sorszáma"
+
+#: src/libmlpgui/infopopup.c:209
+msgid "Track Length"
+msgstr "Szám hossza"
+
+#: src/libmlpgui/infowin.c:75
+msgid "Acid Jazz"
+msgstr "Acid Jazz"
+
+#: src/libmlpgui/infowin.c:76
+msgid "Acid Rock"
+msgstr "Acid rock"
+
+#: src/libmlpgui/infowin.c:77
+msgid "Ambient"
+msgstr "Ambient"
+
+#: src/libmlpgui/infowin.c:78
+msgid "Bebop"
+msgstr "Bebop"
+
+#: src/libmlpgui/infowin.c:79
+msgid "Bluegrass"
+msgstr "Bluegrass"
+
+#: src/libmlpgui/infowin.c:80
+msgid "Blues"
+msgstr "Blues"
+
+#: src/libmlpgui/infowin.c:81
+msgid "Chamber Music"
+msgstr "Chamber Music"
+
+#: src/libmlpgui/infowin.c:82
+msgid "Classical"
+msgstr "Klasszikus"
+
+#: src/libmlpgui/infowin.c:83
+msgid "Country"
+msgstr "Country"
+
+#: src/libmlpgui/infowin.c:84
+msgid "Death Metal"
+msgstr "Death Metal"
+
+#: src/libmlpgui/infowin.c:85
+msgid "Disco"
+msgstr "Diszkó"
+
+#: src/libmlpgui/infowin.c:86
+msgid "Easy Listening"
+msgstr "Easy Listening"
+
+#: src/libmlpgui/infowin.c:87
+msgid "Folk"
+msgstr "Folk"
+
+#: src/libmlpgui/infowin.c:88
+msgid "Funk"
+msgstr "Funk"
+
+#: src/libmlpgui/infowin.c:89
+msgid "Gangsta Rap"
+msgstr "Gengszter Rap"
+
+#: src/libmlpgui/infowin.c:90
+msgid "Gospel"
+msgstr "Gospel"
+
+#: src/libmlpgui/infowin.c:91
+msgid "Grunge"
+msgstr "Grunge"
+
+#: src/libmlpgui/infowin.c:92
+msgid "Hard Rock"
+msgstr "Kemény Rock"
+
+#: src/libmlpgui/infowin.c:93
+msgid "Heavy Metal"
+msgstr "Heavy Metal"
+
+#: src/libmlpgui/infowin.c:94
+msgid "Hip-hop"
+msgstr "Hip-hop"
+
+#: src/libmlpgui/infowin.c:95
+msgid "House"
+msgstr "House"
+
+#: src/libmlpgui/infowin.c:96
+msgid "Jazz"
+msgstr "Jazz"
+
+#: src/libmlpgui/infowin.c:97
+msgid "Jungle"
+msgstr "Jungle"
+
+#: src/libmlpgui/infowin.c:98
+msgid "Metal"
+msgstr "Metal"
+
+#: src/libmlpgui/infowin.c:99
+msgid "New Age"
+msgstr "New Age"
+
+#: src/libmlpgui/infowin.c:100
+msgid "New Wave"
+msgstr "Új Hullám"
+
+#: src/libmlpgui/infowin.c:101
+msgid "Noise"
+msgstr "Noise"
+
+#: src/libmlpgui/infowin.c:102
+msgid "Pop"
+msgstr "Pop"
+
+#: src/libmlpgui/infowin.c:103
+msgid "Punk Rock"
+msgstr "Punk Rock"
+
+#: src/libmlpgui/infowin.c:104
+msgid "Rap"
+msgstr "Rap"
+
+#: src/libmlpgui/infowin.c:105
+msgid "Reggae"
+msgstr "Reggae"
+
+#: src/libmlpgui/infowin.c:106
+msgid "Rock"
+msgstr "Rock"
+
+#: src/libmlpgui/infowin.c:107
+msgid "Rock and Roll"
+msgstr "Rock and Roll"
+
+#: src/libmlpgui/infowin.c:108
+msgid "Rhythm and Blues"
+msgstr "Rhythm and Blues"
+
+#: src/libmlpgui/infowin.c:109
+msgid "Ska"
+msgstr "Ska"
+
+#: src/libmlpgui/infowin.c:110
+msgid "Soul"
+msgstr "Soul"
+
+#: src/libmlpgui/infowin.c:111
+msgid "Swing"
+msgstr "Szving"
+
+#: src/libmlpgui/infowin.c:112
+msgid "Techno"
+msgstr "Techno"
+
+#: src/libmlpgui/infowin.c:113
+msgid "Trip-hop"
+msgstr "Trip-hop"
+
+#: src/libmlpgui/infowin.c:177 src/libmlpgui/infowin.c:363
+#: src/libmlpgui/infowin.c:366 src/libmlpgui/infowin.c:369
+msgid "<span size=\"small\">n/a</span>"
+msgstr "<span size=\"small\">n/a</span>"
+
+#: src/libmlpgui/infowin.c:267
+msgid "Metadata updated successfully"
+msgstr "Metaadat frissítés sikeres"
+
+#: src/libmlpgui/infowin.c:272
+msgid "Metadata updating failed"
+msgstr "Metaadat frissítés sikertelen"
+
+#: src/libmlpgui/infowin.c:320
+msgid "Track Information"
+msgstr "Száminformáció"
+
+#: src/libmlpgui/infowin.c:352
+msgid "<span size=\"small\">Format:</span>"
+msgstr "<span size=\"small\">Formátum:</span>"
+
+#: src/libmlpgui/infowin.c:356
+msgid "<span size=\"small\">Quality:</span>"
+msgstr "<span size=\"small\">Minőség:</span>"
+
+#: src/libmlpgui/infowin.c:359
+msgid "<span size=\"small\">Bitrate:</span>"
+msgstr "<span size=\"small\">Bitráta:</span>"
+
+#: src/libmlpgui/infowin.c:389
+msgid "<span size=\"small\">Title</span>"
+msgstr "<span size=\"small\">Cím</span>"
+
+#: src/libmlpgui/infowin.c:401
+msgid "<span size=\"small\">Artist</span>"
+msgstr "<span size=\"small\">Előadó</span>"
+
+#: src/libmlpgui/infowin.c:413
+msgid "<span size=\"small\">Album</span>"
+msgstr "<span size=\"small\">Album</span>"
+
+#: src/libmlpgui/infowin.c:425
+msgid "<span size=\"small\">Comment</span>"
+msgstr "<span size=\"small\">Megjegyzés</span>"
+
+#: src/libmlpgui/infowin.c:437
+msgid "<span size=\"small\">Genre</span>"
+msgstr "<span size=\"small\">Műfaj</span>"
+
+#: src/libmlpgui/infowin.c:458
+msgid "<span size=\"small\">Year</span>"
+msgstr "<span size=\"small\">Év</span>"
+
+#: src/libmlpgui/infowin.c:469
+msgid "<span size=\"small\">Track Number</span>"
+msgstr "<span size=\"small\">Szám sorszáma</span>"
+
+#: src/libmlpgui/infowin.c:548
+#, c-format
+msgid "%d kb/s"
+msgstr "%d kb/s"
+
+#: src/libmlpgui/infowin.c:575
+#, c-format
+msgid "No info available for %s.\n"
+msgstr "Nincs ehhez információ %s.\n"
+
+#: src/libmlpgui/jump-to-time.c:72
+msgid "Jump to Time"
+msgstr "Ugrás időpontra"
+
+#: src/libmlpgui/jump-to-time.c:87
+msgid "mm:ss"
+msgstr "mm:ss"
+
+#: src/libmlpgui/playlists.c:33
+msgid "Export Playlist"
+msgstr "Lejátszólista exportálása"
+
+#: src/libmlpgui/playlists.c:33
+msgid "Import Playlist"
+msgstr "Lejátszólista importálása"
+
+#: src/libmlpgui/playlists.c:66
+#, c-format
+msgid "Overwrite %s?"
+msgstr "Felülírja %s?"
+
+#: src/libmlpgui/queue-manager.c:196
+msgid "Queue Manager"
+msgstr "Várakozási sor menedzser"
+
+#: src/libmlpgui/ui_fileopener.c:109
+msgid "Open Files"
+msgstr "Fájlok megnyitása"
+
+#: src/libmlpgui/ui_fileopener.c:109
+msgid "Add Files"
+msgstr "Fájlok hozzáadása"
+
+#: src/libmlpgui/ui_fileopener.c:111
+msgid "Close dialog on Open"
+msgstr "Párbeszédablak bezárása megnyitás után"
+
+#: src/libmlpgui/ui_fileopener.c:111
+msgid "Close dialog on Add"
+msgstr "Párbeszédablak bezárása hozzáadás után"
+
+#: src/libmlpgui/ui_jumptotrack.c:109 src/libmlpgui/ui_jumptotrack.c:117
+#: src/libmlpgui/ui_jumptotrack.c:326
+msgid "_Queue"
+msgstr "_Sorba állítás"
+
+#: src/libmlpgui/ui_jumptotrack.c:115
+msgid "Un_queue"
+msgstr "_Kiszedés a sorból"
+
+#: src/libmlpgui/ui_jumptotrack.c:258
+msgid "Jump to Song"
+msgstr "Ugrás a számra"
+
+#: src/libmlpgui/ui_jumptotrack.c:281
+msgid "Filter: "
+msgstr "Szűrő: "
+
+#: src/libmlpgui/ui_jumptotrack.c:282
+msgid "_Filter:"
+msgstr "_Szűrő: "
+
+#: src/libmlpgui/ui_jumptotrack.c:292
+msgid "Remember"
+msgstr "Megjegyzés"
+
+#: src/libmlpgui/ui_jumptotrack.c:299
+msgid "Clea_r"
+msgstr "Tö_rlés"
+
+#: src/libmlpgui/ui_jumptotrack.c:319
+msgid "Close on Jump"
+msgstr "Bezárás ugrás után"
+
+#: src/libmlpgui/ui_playlist_manager.c:253
+msgid "Playlist Manager"
+msgstr "Lejátszólista kezelő"
+
+#: src/libmlpgui/ui_playlist_manager.c:280
+msgid "Entries"
+msgstr "Elemek"
+
+#: src/libmlpgui/ui_playlist_manager.c:301
+msgid "_Rename"
+msgstr "Át_nevezés"
+
+#: src/libmlpgui/ui_playlist_manager.c:325
+msgid "_Close dialog on activating playlist"
+msgstr "_Párbeszédablak bezárása a lejátszólista aktíválása után"
+
+#: src/libmlpgui/ui_urlopener.c:48
+msgid "Open URL"
+msgstr "URL megnyitása"
+
+#: src/libmlpgui/ui_urlopener.c:48
+msgid "Add URL"
+msgstr "URL hozzáadása"
+
+#: src/libmlpgui/util.c:95
+msgid ""
+"\n"
+"(Further messages have been hidden.)"
+msgstr ""
+"\n"
+"(További üzenetek el vannak rejtve.)"
+
+#: src/libeggsmclient/eggdesktopfile.c:165
+msgid "File is not a valid .desktop file"
+msgstr "A fájl nem valós .desktop fájl"
+
+#: src/libeggsmclient/eggdesktopfile.c:191
+#, c-format
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "Ismeretlen desktop fájl verzió '%s'"
+
+#: src/libeggsmclient/eggdesktopfile.c:974
+#, c-format
+msgid "Starting %s"
+msgstr "Indítás %s"
+
+#: src/libeggsmclient/eggdesktopfile.c:1116
+msgid "Application does not accept documents on command line"
+msgstr "Az alkalmazás nem fog el dokumentumokat a parancssorban"
+
+#: src/libeggsmclient/eggdesktopfile.c:1184
+#, c-format
+msgid "Unrecognized launch option: %d"
+msgstr "Ismeretlen futtatási opció: %d"
+
+#: src/libeggsmclient/eggdesktopfile.c:1391
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "Nem adja át a dokumentum URI a 'Type=Link' desktop értéket"
+
+#: src/libeggsmclient/eggdesktopfile.c:1412
+msgid "Not a launchable item"
+msgstr "Nincs futtatható elem"
+
+#: src/libeggsmclient/eggsmclient.c:226
+msgid "Disable connection to session manager"
+msgstr "Munkamenet-kezelőhöz kapcsolódás tiltása"
+
+#: src/libeggsmclient/eggsmclient.c:229
+msgid "Specify file containing saved configuration"
+msgstr "Adja meg a fájlt amibe menteni szeretné a beállításokat"
+
+#: src/libeggsmclient/eggsmclient.c:229
+msgid "FILE"
+msgstr "FÁJL"
+
+#: src/libeggsmclient/eggsmclient.c:232
+msgid "Specify session management ID"
+msgstr "Megadott munkamenet-kezelő ID"
+
+#: src/libeggsmclient/eggsmclient.c:232
+msgid "ID"
+msgstr "ID"
+
+#: src/libeggsmclient/eggsmclient.c:253
+msgid "Session management options:"
+msgstr "Munkamenet kezelési lehetőségek:"
+
+#: src/libeggsmclient/eggsmclient.c:254
+msgid "Show session management options"
+msgstr "Munkamenet kezelési lehetőségek mutatása"
+
+

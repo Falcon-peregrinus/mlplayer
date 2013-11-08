@@ -1,0 +1,2594 @@
+# translation of mlpi-temel.po to
+# translation of tr.po to
+# translation of mlplayer-tr.po to
+# translation of mlplayer.po to
+# Copyright (C) YEAR Translator <translator@invalid>
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Murat Şenel <muratasenel@gmail.com>, 2007.
+# Murat Senel <muratasenel@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: mlpi-temel\n"
+"Report-Msgid-Bugs-To: http://jira.atheme.org/\n"
+"POT-Creation-Date: 2011-07-05 22:45+0200\n"
+"PO-Revision-Date: 2007-12-23 00:26+0200\n"
+"Last-Translator: Murat Senel <muratasenel@gmail.com>\n"
+"Language-Team:  <tr@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: src/mlplayer/adder.c:71
+msgid "Searching ..."
+msgstr ""
+
+#: src/mlplayer/adder.c:99
+#, c-format
+msgid "%d file found"
+msgid_plural "%d files found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/mlplayer/chardet.c:37
+msgid "  (invalid UTF-8)"
+msgstr "  (geçersiz UTF-8)"
+
+#: src/mlplayer/credits.c:35
+#, fuzzy
+msgid "Core developers:"
+msgstr "0.1.x geliştiricileri:"
+
+#: src/mlplayer/credits.c:49
+msgid "Graphics:"
+msgstr "Grafik:"
+
+#: src/mlplayer/credits.c:54
+msgid "Default skin:"
+msgstr "Varsayılan kabuk:"
+
+#: src/mlplayer/credits.c:60
+msgid "Plugin development:"
+msgstr "Eklenti geliştirme:"
+
+#: src/mlplayer/credits.c:83
+msgid "Patch authors:"
+msgstr "Yama yazarları:"
+
+#: src/mlplayer/credits.c:126
+#, fuzzy
+msgid "1.x developers:"
+msgstr "0.1.x geliştiricileri:"
+
+#: src/mlplayer/credits.c:148
+msgid "BMP Developers:"
+msgstr "BMP Geliştiricileri:"
+
+#: src/mlplayer/credits.c:180
+#, fuzzy
+msgid "Belarusian:"
+msgstr "Bulgarca:"
+
+#: src/mlplayer/credits.c:183
+msgid "Basque:"
+msgstr ""
+
+#: src/mlplayer/credits.c:186
+msgid "Brazilian Portuguese:"
+msgstr "Brezilya Portekizcesi:"
+
+#: src/mlplayer/credits.c:190
+msgid "Breton:"
+msgstr "Bretonca:"
+
+#: src/mlplayer/credits.c:193
+msgid "Bulgarian:"
+msgstr "Bulgarca:"
+
+#: src/mlplayer/credits.c:196
+msgid "Catalan:"
+msgstr "Katalanca:"
+
+#: src/mlplayer/credits.c:199
+#, fuzzy
+msgid "Chinese:"
+msgstr "Çince"
+
+#: src/mlplayer/credits.c:202
+msgid "Croatian:"
+msgstr "Hırvatça:"
+
+#: src/mlplayer/credits.c:205
+msgid "Czech:"
+msgstr "Çekçe:"
+
+#: src/mlplayer/credits.c:208
+msgid "Dutch:"
+msgstr "Hollandaca:"
+
+#: src/mlplayer/credits.c:212
+msgid "Estonian:"
+msgstr "Estonyaca:"
+
+#: src/mlplayer/credits.c:215
+msgid "Finnish:"
+msgstr "Fince:"
+
+#: src/mlplayer/credits.c:220
+msgid "French:"
+msgstr "Fransızca:"
+
+#: src/mlplayer/credits.c:226
+msgid "German:"
+msgstr "Almanca:"
+
+#: src/mlplayer/credits.c:233
+msgid "Georgian:"
+msgstr "Gürcüce:"
+
+#: src/mlplayer/credits.c:236
+msgid "Greek:"
+msgstr "Yunanca:"
+
+#: src/mlplayer/credits.c:241
+msgid "Hindi:"
+msgstr "Hintçe:"
+
+#: src/mlplayer/credits.c:244
+msgid "Hungarian:"
+msgstr "Macarca:"
+
+#: src/mlplayer/credits.c:248
+msgid "Italian:"
+msgstr "İtalyanca:"
+
+#: src/mlplayer/credits.c:252
+msgid "Japanese:"
+msgstr "Japonca:"
+
+#: src/mlplayer/credits.c:255
+msgid "Korean:"
+msgstr "Korece:"
+
+#: src/mlplayer/credits.c:258
+#, fuzzy
+msgid "Latvian:"
+msgstr "Hırvatça:"
+
+#: src/mlplayer/credits.c:261
+msgid "Lithuanian:"
+msgstr "Litvanyaca:"
+
+#: src/mlplayer/credits.c:265
+msgid "Macedonian:"
+msgstr "Makedonca:"
+
+#: src/mlplayer/credits.c:268
+msgid "Polish:"
+msgstr "Lehçe:"
+
+#: src/mlplayer/credits.c:274
+#, fuzzy
+msgid "Portuguese:"
+msgstr "Brezilya Portekizcesi:"
+
+#: src/mlplayer/credits.c:277
+msgid "Romanian:"
+msgstr "Romanca:"
+
+#: src/mlplayer/credits.c:281
+msgid "Russian:"
+msgstr "Rusça:"
+
+#: src/mlplayer/credits.c:285
+msgid "Serbian (Latin):"
+msgstr "Sırpça (Latin):"
+
+#: src/mlplayer/credits.c:288
+msgid "Serbian (Cyrillic):"
+msgstr "Sırpça (Kiril):"
+
+#: src/mlplayer/credits.c:291
+msgid "Simplified Chinese:"
+msgstr "Basitleştirilmiş Çince:"
+
+#: src/mlplayer/credits.c:294
+msgid "Slovak:"
+msgstr "Slovakça:"
+
+#: src/mlplayer/credits.c:297
+msgid "Spanish:"
+msgstr "İspanyolca:"
+
+#: src/mlplayer/credits.c:304
+msgid "Swedish:"
+msgstr "İsveçce:"
+
+#: src/mlplayer/credits.c:307
+msgid "Traditional Chinese:"
+msgstr "Geleneksel Çince:"
+
+#: src/mlplayer/credits.c:312
+msgid "Turkish:"
+msgstr "Türkçe:"
+
+#: src/mlplayer/credits.c:316
+msgid "Ukrainian:"
+msgstr "Ukraynaca:"
+
+#: src/mlplayer/credits.c:319
+msgid "Welsh:"
+msgstr "Galce:"
+
+#: src/mlplayer/drct.c:256
+#, fuzzy
+msgid "Temporary Playlist"
+msgstr "Parça Listesi Yükle"
+
+#: src/mlplayer/equalizer_preset.c:186
+#, c-format
+msgid "Error importing Winamp EQF file '%s'"
+msgstr ""
+
+#: src/mlplayer/main.c:256
+msgid "Skip backwards in playlist"
+msgstr "Parça listesinde geri git"
+
+#: src/mlplayer/main.c:257
+msgid "Start playing current playlist"
+msgstr "Mevcut parça listesini çal"
+
+#: src/mlplayer/main.c:258
+msgid "Pause current song"
+msgstr "Çalan şarkıyı beklet"
+
+#: src/mlplayer/main.c:259
+msgid "Stop current song"
+msgstr "Çalan şarkıyı durdur"
+
+#: src/mlplayer/main.c:260
+msgid "Pause if playing, play otherwise"
+msgstr "Çalıyorsa beklet, değilse çal"
+
+#: src/mlplayer/main.c:261
+msgid "Skip forward in playlist"
+msgstr "Parça listesinde ileri git"
+
+#: src/mlplayer/main.c:262
+msgid "Display Jump to File dialog"
+msgstr "Dosya Atla penceresini göster"
+
+#: src/mlplayer/main.c:263
+#, fuzzy
+msgid "Add files to the playlist"
+msgstr "Parça listesine dosya ekle."
+
+#: src/mlplayer/main.c:264
+msgid "Add new files to a temporary playlist"
+msgstr "Geçici parça listesine yeni dosya ekle"
+
+#: src/mlplayer/main.c:265
+msgid "Display the main window"
+msgstr "Ana pencereyi göster"
+
+#: src/mlplayer/main.c:266
+#, fuzzy
+msgid "Show version"
+msgstr "Oynatıcıyı Göster"
+
+#: src/mlplayer/main.c:267
+msgid "Print debugging messages"
+msgstr ""
+
+#: src/mlplayer/main.c:268
+msgid "FILE..."
+msgstr "DOSYA..."
+
+#: src/mlplayer/main.c:280
+msgid "- play multimedia files"
+msgstr "- çoklu ortam dosyalarını çal"
+
+#: src/mlplayer/main.c:290
+#, c-format
+msgid ""
+"%s: %s\n"
+"Try `%s --help' for more information.\n"
+msgstr ""
+"%s: %s\n"
+"Daha fazla bilgi için `%s --help' komutunu kullanın.\n"
+
+#: src/mlplayer/main.c:407
+msgid ""
+"MLPlayer seems to be already running but is not responding.  You can start "
+"another instance of the program, but please be warned that this can cause "
+"data loss.  If MLPlayer is not running, you can safely ignore this "
+"message.  Press OK to start MLPlayer or Cancel to quit."
+msgstr ""
+
+#: src/mlplayer/main.c:572
+msgid "MLPlayer"
+msgstr "MLPlayer"
+
+#: src/mlplayer/playback.c:381
+#, c-format
+msgid "No decoder found for %s."
+msgstr ""
+
+#: src/mlplayer/playback.c:531
+msgid "Buffering ..."
+msgstr ""
+
+#: src/mlplayer/playlist-new.c:303
+#, fuzzy
+msgid "Untitled Playlist"
+msgstr "Yeni Parça Listesi"
+
+#: src/mlplayer/ui_preferences.c:87
+msgid "Audio"
+msgstr "Ses"
+
+#: src/mlplayer/ui_preferences.c:88
+msgid "Network"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:89 src/mlplayer/ui_preferences.c:1556
+msgid "Playlist"
+msgstr "Parça Listesi"
+
+#: src/mlplayer/ui_preferences.c:90
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: src/mlplayer/ui_preferences.c:96 src/libmlpgui/infopopup.c:204
+msgid "Artist"
+msgstr "Sanatçı"
+
+#: src/mlplayer/ui_preferences.c:97 src/libmlpgui/infopopup.c:206
+msgid "Album"
+msgstr "Albüm"
+
+#: src/mlplayer/ui_preferences.c:98 src/libmlpgui/infopopup.c:202
+#: src/libmlpgui/ui_playlist_manager.c:263
+msgid "Title"
+msgstr "Başlık"
+
+#: src/mlplayer/ui_preferences.c:99
+msgid "Tracknumber"
+msgstr "Parça numarası"
+
+#: src/mlplayer/ui_preferences.c:100 src/libmlpgui/infopopup.c:208
+msgid "Genre"
+msgstr "Tür"
+
+#: src/mlplayer/ui_preferences.c:101
+msgid "Filename"
+msgstr "Dosya adı"
+
+#: src/mlplayer/ui_preferences.c:102
+msgid "Filepath"
+msgstr "Dosya yolu"
+
+#: src/mlplayer/ui_preferences.c:103
+msgid "Date"
+msgstr "Tarih"
+
+#: src/mlplayer/ui_preferences.c:104 src/libmlpgui/infopopup.c:210
+msgid "Year"
+msgstr "Yıl"
+
+#: src/mlplayer/ui_preferences.c:105
+msgid "Comment"
+msgstr "Yorum"
+
+#: src/mlplayer/ui_preferences.c:106
+msgid "Codec"
+msgstr "Kodlayıcı"
+
+#: src/mlplayer/ui_preferences.c:107
+msgid "Quality"
+msgstr "Kalite"
+
+#: src/mlplayer/ui_preferences.c:112
+msgid "None"
+msgstr "Hiçbiri"
+
+#: src/mlplayer/ui_preferences.c:113
+msgid "Japanese"
+msgstr "Japonca"
+
+#: src/mlplayer/ui_preferences.c:114
+msgid "Taiwanese"
+msgstr "Tayvanca"
+
+#: src/mlplayer/ui_preferences.c:115
+msgid "Chinese"
+msgstr "Çince"
+
+#: src/mlplayer/ui_preferences.c:116
+msgid "Korean"
+msgstr "Korece"
+
+#: src/mlplayer/ui_preferences.c:117
+msgid "Russian"
+msgstr "Rusça"
+
+#: src/mlplayer/ui_preferences.c:118
+msgid "Greek"
+msgstr "Yunanca"
+
+#: src/mlplayer/ui_preferences.c:119
+msgid "Hebrew"
+msgstr "İbranice"
+
+#: src/mlplayer/ui_preferences.c:120
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: src/mlplayer/ui_preferences.c:121
+msgid "Arabic"
+msgstr "Arapça"
+
+#: src/mlplayer/ui_preferences.c:122
+#, fuzzy
+msgid "Polish"
+msgstr "Lehçe:"
+
+#: src/mlplayer/ui_preferences.c:123
+msgid "Baltic"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:124
+msgid "Universal"
+msgstr "Evrensel"
+
+#: src/mlplayer/ui_preferences.c:146
+#, fuzzy
+msgid "Single track mode"
+msgstr "Parça bilgilerini göster"
+
+#: src/mlplayer/ui_preferences.c:147
+#, fuzzy
+msgid "Album mode"
+msgstr "Albüm: "
+
+#: src/mlplayer/ui_preferences.c:150
+#, fuzzy
+msgid "<b>Output Settings</b>"
+msgstr "<b>Biçim Tanıma</b>"
+
+#: src/mlplayer/ui_preferences.c:152
+#, fuzzy
+msgid "Bit depth:"
+msgstr "<b>Biçim Tanıma</b>"
+
+#: src/mlplayer/ui_preferences.c:155
+msgid "Buffer size:"
+msgstr "Tampon büyüklüğü:"
+
+#: src/mlplayer/ui_preferences.c:157
+msgid "ms"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:158
+#, fuzzy
+msgid "Use software volume control (not recommended)"
+msgstr "Yazılımın ses kontrolünü kullan"
+
+#: src/mlplayer/ui_preferences.c:160
+#, fuzzy
+msgid "<b>Replay Gain</b>"
+msgstr "<b>Vekil Sunucu Seçenekleri</b>"
+
+#: src/mlplayer/ui_preferences.c:161
+#, fuzzy
+msgid "Enable Replay Gain"
+msgstr "Vekil sunucu kullanımını etkinleştir"
+
+#: src/mlplayer/ui_preferences.c:164
+msgid "Prevent clipping (recommended)"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:166
+#, fuzzy
+msgid "<b>Adjust Levels</b>"
+msgstr "<b>Fare tekerleği</b>"
+
+#: src/mlplayer/ui_preferences.c:167
+msgid "Amplify all files:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:169 src/mlplayer/ui_preferences.c:172
+msgid "dB"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:170
+#, fuzzy
+msgid "Amplify untagged files:"
+msgstr "- çoklu ortam dosyalarını çal"
+
+#: src/mlplayer/ui_preferences.c:175
+msgid "Proxy hostname:"
+msgstr "Vekil sunucu makine adı:"
+
+#: src/mlplayer/ui_preferences.c:176
+msgid "Proxy port:"
+msgstr "Vekil sunucu portu:"
+
+#: src/mlplayer/ui_preferences.c:179
+msgid "Proxy username:"
+msgstr "Vekil sunucu kullanıcı adı:"
+
+#: src/mlplayer/ui_preferences.c:180
+msgid "Proxy password:"
+msgstr "Vekil sunucu parolası:"
+
+#: src/mlplayer/ui_preferences.c:184
+msgid "<b>Proxy Configuration</b>"
+msgstr "<b>Vekil Sunucu Seçenekleri</b>"
+
+#: src/mlplayer/ui_preferences.c:185
+msgid "Enable proxy usage"
+msgstr "Vekil sunucu kullanımını etkinleştir"
+
+#: src/mlplayer/ui_preferences.c:187
+msgid "Use authentication with proxy"
+msgstr "Vekil sunucu ile yetkilendirme kullan"
+
+#: src/mlplayer/ui_preferences.c:189
+msgid ""
+"<span size=\"small\">Changing these settings will require a restart of "
+"MLPlayer.</span>"
+msgstr ""
+"<span size=\"small\">Bu ayarların değiştirilmesi MLPlayer'un yeniden "
+"başlatılmasını gerektirecektir.</span>"
+
+#: src/mlplayer/ui_preferences.c:193
+msgid "Auto character encoding detector for:"
+msgstr "Otomatik karakter kodlama bulucu:"
+
+#: src/mlplayer/ui_preferences.c:201
+msgid "Fallback character encodings:"
+msgstr "Geri düşüm karakter kodlaması:"
+
+#: src/mlplayer/ui_preferences.c:201
+msgid ""
+"List of character encodings used for fall back conversion of metadata. If "
+"automatic character encoding detector failed or has been disabled, encodings "
+"in this list would be treated as candidates of the encoding of metadata, and "
+"fall back conversion from these encodings to UTF-8 would be attempted."
+msgstr ""
+"Parça bilgisinin geri düşüm dönüşümü için kullanılan karakter kodlama "
+"listesi. Eğer, otomatik karakter kodlama denetleyicisi başarısızlığa uğrarsa "
+"veya etkin değilse, bu listedeki kodlamalar parça bilgisi kodlaması olarak "
+"varsayılır ve bu kodlamalardan UTF-8'e geri düşüm dönüşümü denenir."
+
+#: src/mlplayer/ui_preferences.c:205
+#, fuzzy
+msgid "<b>Behavior</b>"
+msgstr "<b>Biçim Tanıma</b>"
+
+#: src/mlplayer/ui_preferences.c:206
+msgid "Continue playback on startup"
+msgstr "Başlatıldığında parçayı kaldığı yerden oynat"
+
+#: src/mlplayer/ui_preferences.c:208
+msgid "Advance when the current song is deleted"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:210
+#, fuzzy
+msgid "Clear the playlist when opening files"
+msgstr "Eşleşen girdilerle yeni bir parça listesi oluştur"
+
+#: src/mlplayer/ui_preferences.c:212
+#, fuzzy
+msgid "Open files in a temporary playlist"
+msgstr "Geçici parça listesine yeni dosya ekle"
+
+#: src/mlplayer/ui_preferences.c:214
+msgid "<b>Metadata</b>"
+msgstr "<b>Parça Bilgisi</b>"
+
+#: src/mlplayer/ui_preferences.c:454
+msgid "Category"
+msgstr "Kategori"
+
+#: src/mlplayer/ui_preferences.c:682
+msgid "Popup Information Settings"
+msgstr "Açılır Pencere Bilgisi Ayarları"
+
+#: src/mlplayer/ui_preferences.c:691
+msgid "<b>Cover image retrieve</b>"
+msgstr "<b>Kapak resmi getirme</b>"
+
+#: src/mlplayer/ui_preferences.c:696
+msgid ""
+"While searching for the album's cover, MLPlayer looks for certain words in "
+"the filename. You can specify those words in the lists below, separated "
+"using commas."
+msgstr ""
+"Albüm kapakları için ararken, MLPlayer dosya ismindeki belirli kelimeleri "
+"kullanır. Bu kelimeleri, altta virgülle ayrılmış listede belirtebilirsiniz."
+
+#: src/mlplayer/ui_preferences.c:713
+msgid "Exclude:"
+msgstr "Dahil etme:"
+
+#: src/mlplayer/ui_preferences.c:720
+msgid "Include:"
+msgstr "Dahil et:"
+
+#: src/mlplayer/ui_preferences.c:737
+msgid "Recursively search for cover"
+msgstr "Kapak için özyinelemeli olarak ara"
+
+#: src/mlplayer/ui_preferences.c:747
+msgid "Search depth: "
+msgstr "Derinliği araştır:"
+
+#: src/mlplayer/ui_preferences.c:761
+msgid "Use per-file cover"
+msgstr "Her dosya için kapak kullan"
+
+#: src/mlplayer/ui_preferences.c:764
+msgid "<b>Miscellaneous</b>"
+msgstr "<b>Çeşitli</b>"
+
+#: src/mlplayer/ui_preferences.c:773
+msgid "Show Progress bar for the current track"
+msgstr "Şuan çalan parça için İlerleme Çubuğunu göster"
+
+#: src/mlplayer/ui_preferences.c:783
+msgid "Delay until filepopup comes up: "
+msgstr "Açılır pencere açılana kadar bekle: "
+
+#: src/mlplayer/ui_preferences.c:1283
+msgid "<b>Song Display</b>"
+msgstr "<b>Parça Gösterimi</b>"
+
+#: src/mlplayer/ui_preferences.c:1292
+msgid "Show song numbers"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1303
+msgid "Show leading zeroes (02:00 instead of 2:00)"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1325
+msgid "Show information about titlestring format"
+msgstr "Başlık dizisi biçimi hakkında bilgi göster"
+
+#: src/mlplayer/ui_preferences.c:1339
+msgid "TITLE"
+msgstr "BAŞLIK"
+
+#: src/mlplayer/ui_preferences.c:1340
+msgid "ARTIST - TITLE"
+msgstr "SANATÇI - BAŞLIK"
+
+#: src/mlplayer/ui_preferences.c:1341
+msgid "ARTIST - ALBUM - TITLE"
+msgstr "SANATÇI - ALBÜM - BAŞLIK"
+
+#: src/mlplayer/ui_preferences.c:1342
+msgid "ARTIST - ALBUM - TRACK. TITLE"
+msgstr "SANATÇI - ALBÜM - PARÇA - BAŞLIK"
+
+#: src/mlplayer/ui_preferences.c:1343
+msgid "ARTIST [ ALBUM ] - TRACK. TITLE"
+msgstr "SANATÇI [ ALBÜM ] - PARÇA - BAŞLIK"
+
+#: src/mlplayer/ui_preferences.c:1344
+msgid "ALBUM - TITLE"
+msgstr "ALBÜM - BAŞLIK"
+
+#: src/mlplayer/ui_preferences.c:1345
+msgid "Custom"
+msgstr "Özel"
+
+#: src/mlplayer/ui_preferences.c:1354
+msgid "Custom string:"
+msgstr "Özel dizi:"
+
+#: src/mlplayer/ui_preferences.c:1361
+msgid "Title format:"
+msgstr "Başlık biçimi:"
+
+#: src/mlplayer/ui_preferences.c:1372
+msgid "<b>Popup Information</b>"
+msgstr "<b>Açılır Pencere Bilgisi</b>"
+
+#: src/mlplayer/ui_preferences.c:1387
+msgid "Show popup information for playlist entries"
+msgstr "Parça listesi girdileri için açılır pencere bilgisini göster"
+
+#: src/mlplayer/ui_preferences.c:1388
+msgid ""
+"Toggles popup information window for the pointed entry in the playlist. The "
+"window shows title of song, name of album, genre, year of publish, track "
+"number, track length, and artwork."
+msgstr ""
+"Çalma listesindeki seçili giriş için açılır pencere bilgisini değiştirir. "
+"Pencere, şarkı başlığını, albüm adını, türünü, yayınlanma yılını, parça, "
+"parça numarasını, uzunluğunu ve resimi gösterir."
+
+#: src/mlplayer/ui_preferences.c:1397
+msgid "Edit settings for popup information"
+msgstr "Açılır pencere bilgisi için ayarları düzenle"
+
+#: src/mlplayer/ui_preferences.c:1497
+#, fuzzy
+msgid "Output plugin:"
+msgstr "Giriş eklentisi: %s"
+
+#: src/mlplayer/ui_preferences.c:1556
+#, fuzzy
+msgid "Transport"
+msgstr "Çevirmenler"
+
+#: src/mlplayer/ui_preferences.c:1556
+msgid "Input"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1557
+#, fuzzy
+msgid "Effect"
+msgstr "<b>Efektler</b>"
+
+#: src/mlplayer/ui_preferences.c:1557
+msgid "Visualization"
+msgstr "Canlandırma"
+
+#: src/mlplayer/ui_preferences.c:1557
+msgid "General"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1597
+msgid "MLPlayer Preferences"
+msgstr "MLPlayer Seçenekleri"
+
+#: src/mlplayer/util.c:155
+#, c-format
+msgid "Could not create directory (%s): %s\n"
+msgstr "Dizin oluşturulamadı (%s): %s\n"
+
+#: src/mlptool/handlers_playlist.c:264
+msgid "Position not found."
+msgstr ""
+
+#: src/mlptool/handlers_vitals.c:64
+msgid "No song playing."
+msgstr ""
+
+#: src/libmlpcore/tuple.c:685
+msgid "Mono"
+msgstr ""
+
+#: src/libmlpcore/tuple.c:687
+#, fuzzy
+msgid "Stereo"
+msgstr "stereo"
+
+#: src/libmlpcore/tuple.c:689
+#, c-format
+msgid "%d channel"
+msgid_plural "%d channels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/libmlpgui/confirm.c:73
+#, c-format
+msgid ""
+"Are you sure you want to close %s?  If you do, any changes made since the "
+"playlist was exported will be lost."
+msgstr ""
+
+#: src/libmlpgui/confirm.c:86
+#, fuzzy
+msgid "_Don't show this message again"
+msgstr "Bu uyarıyı bir daha gösterme"
+
+#: src/libmlpgui/confirm.c:124
+#, fuzzy
+msgid "Rename Playlist"
+msgstr "Parça Listesini Kaydet"
+
+#: src/libmlpgui/effects-menu.c:76
+msgid "settings ..."
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:68
+#, fuzzy
+msgid "_Enable"
+msgstr "Etkinleştirildi"
+
+#: src/libmlpgui/equalizer.c:140
+msgid "31 Hz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:140
+msgid "63 Hz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:141
+msgid "125 Hz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:141
+msgid "250 Hz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:141
+msgid "500 Hz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:141
+msgid "1 kHz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:141
+msgid "2 kHz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:142
+msgid "4 kHz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:142
+msgid "8 kHz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:142
+msgid "16 kHz"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:147
+#, fuzzy
+msgid "Equalizer"
+msgstr "Ekolayzırı Göster"
+
+#: src/libmlpgui/equalizer.c:163
+msgid "Preamp"
+msgstr ""
+
+#: src/libmlpgui/infopopup.c:212
+msgid "Track Number"
+msgstr "Parça Numarası"
+
+#: src/libmlpgui/infopopup.c:214
+msgid "Track Length"
+msgstr "Parça Uzunluğu"
+
+#: src/libmlpgui/infowin.c:77
+msgid "Acid Jazz"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:78
+msgid "Acid Rock"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:79
+msgid "Ambient"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:80
+msgid "Bebop"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:81
+#, fuzzy
+msgid "Bluegrass"
+msgstr "Mavi"
+
+#: src/libmlpgui/infowin.c:82
+#, fuzzy
+msgid "Blues"
+msgstr "Mavi"
+
+#: src/libmlpgui/infowin.c:83
+msgid "Chamber Music"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:84
+msgid "Classical"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:85
+msgid "Country"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:86
+msgid "Death Metal"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:87
+msgid "Disco"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:88
+msgid "Easy Listening"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:89
+msgid "Folk"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:90
+msgid "Funk"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:91
+msgid "Gangsta Rap"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:92
+msgid "Gospel"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:93
+msgid "Grunge"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:94
+msgid "Hard Rock"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:95
+msgid "Heavy Metal"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:96
+msgid "Hip-hop"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:97
+#, fuzzy
+msgid "House"
+msgstr "Fare"
+
+#: src/libmlpgui/infowin.c:98
+msgid "Jazz"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:99
+msgid "Jungle"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:100
+msgid "Metal"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:101
+msgid "New Age"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:102
+msgid "New Wave"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:103
+#, fuzzy
+msgid "Noise"
+msgstr "Hiçbiri"
+
+#: src/libmlpgui/infowin.c:104
+msgid "Pop"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:105
+msgid "Punk Rock"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:106
+msgid "Rap"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:107
+#, fuzzy
+msgid "Reggae"
+msgstr "_Yeniden adlandır"
+
+#: src/libmlpgui/infowin.c:108
+msgid "Rock"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:109
+msgid "Rock and Roll"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:110
+msgid "Rhythm and Blues"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:111
+msgid "Ska"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:112
+msgid "Soul"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:113
+msgid "Swing"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:114
+msgid "Techno"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:115
+msgid "Trip-hop"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:175 src/libmlpgui/infowin.c:361
+#: src/libmlpgui/infowin.c:364 src/libmlpgui/infowin.c:367
+msgid "<span size=\"small\">n/a</span>"
+msgstr "<span size=\"small\">yok</span>"
+
+#: src/libmlpgui/infowin.c:265
+msgid "Metadata updated successfully"
+msgstr "Parça bilgisi başarılı şekilde güncellendi"
+
+#: src/libmlpgui/infowin.c:270
+msgid "Metadata updating failed"
+msgstr "Parça bilgisi güncellenemedi"
+
+#: src/libmlpgui/infowin.c:318
+msgid "Track Information"
+msgstr "Parça Bilgisi"
+
+#: src/libmlpgui/infowin.c:350
+msgid "<span size=\"small\">Format:</span>"
+msgstr "<span size=\"small\">Biçim:</span>"
+
+#: src/libmlpgui/infowin.c:354
+msgid "<span size=\"small\">Quality:</span>"
+msgstr "<span size=\"small\">Kalite:</span>"
+
+#: src/libmlpgui/infowin.c:357
+msgid "<span size=\"small\">Bitrate:</span>"
+msgstr "<span size=\"small\">Bit Oranı:</span>"
+
+#: src/libmlpgui/infowin.c:387
+msgid "<span size=\"small\">Title</span>"
+msgstr "<span size=\"small\">Başlık</span>"
+
+#: src/libmlpgui/infowin.c:399
+msgid "<span size=\"small\">Artist</span>"
+msgstr "<span size=\"small\">Sanatçı</span>"
+
+#: src/libmlpgui/infowin.c:411
+msgid "<span size=\"small\">Album</span>"
+msgstr "<span size=\"small\">Albüm</span>"
+
+#: src/libmlpgui/infowin.c:423
+msgid "<span size=\"small\">Comment</span>"
+msgstr "<span size=\"small\">Yorum</span>"
+
+#: src/libmlpgui/infowin.c:435
+msgid "<span size=\"small\">Genre</span>"
+msgstr "<span size=\"small\">Tür</span>"
+
+#: src/libmlpgui/infowin.c:456
+msgid "<span size=\"small\">Year</span>"
+msgstr "<span size=\"small\">Yıl</span>"
+
+#: src/libmlpgui/infowin.c:467
+msgid "<span size=\"small\">Track Number</span>"
+msgstr "<span size=\"small\">Parça Numarası</span>"
+
+#: src/libmlpgui/infowin.c:549
+#, c-format
+msgid "%d kb/s"
+msgstr "%d kb/s"
+
+#: src/libmlpgui/infowin.c:579
+#, c-format
+msgid "No info available for %s.\n"
+msgstr ""
+
+#: src/libmlpgui/jump-to-time.c:75
+msgid "Jump to Time"
+msgstr "Zamana Atla"
+
+#: src/libmlpgui/jump-to-time.c:90
+msgid "mm:ss"
+msgstr ""
+
+#: src/libmlpgui/playlists.c:39
+#, fuzzy
+msgid "Export Playlist"
+msgstr "Parça Listesi Yükle"
+
+#: src/libmlpgui/playlists.c:39
+#, fuzzy
+msgid "Import Playlist"
+msgstr "Parça Listesi Yükle"
+
+#: src/libmlpgui/playlists.c:71
+#, c-format
+msgid "Overwrite %s?"
+msgstr ""
+
+#: src/libmlpgui/ui_about.c:71
+msgid "About MLPlayer"
+msgstr "MLPlayer Hakkında"
+
+#: src/libmlpgui/ui_about.c:93 src/libmlpgui/ui_credits.c:122
+msgid "Credits"
+msgstr "Yazarlar"
+
+#: src/libmlpgui/ui_credits.c:126
+msgid "Translators"
+msgstr "Çevirmenler"
+
+#: src/libmlpgui/ui_fileopener.c:108
+msgid "Open Files"
+msgstr "Dosyaları Aç"
+
+#: src/libmlpgui/ui_fileopener.c:108
+msgid "Add Files"
+msgstr "Dosyaları Ekle"
+
+#: src/libmlpgui/ui_fileopener.c:110
+msgid "Close dialog on Open"
+msgstr "Açtıktan sonra pencereyi kapat"
+
+#: src/libmlpgui/ui_fileopener.c:110
+msgid "Close dialog on Add"
+msgstr "Ekledikten sonra pencereyi kapat"
+
+#: src/libmlpgui/ui_jumptotrack.c:133
+msgid "Un_queue"
+msgstr "K_uyruktan çıkar"
+
+#: src/libmlpgui/ui_jumptotrack.c:135 src/libmlpgui/ui_jumptotrack.c:512
+msgid "_Queue"
+msgstr "_Kuyruk"
+
+#: src/libmlpgui/ui_jumptotrack.c:399
+msgid "Jump to Track"
+msgstr "Parçaya Atla"
+
+#: src/libmlpgui/ui_jumptotrack.c:442
+msgid "Filter: "
+msgstr "Süzgeç: "
+
+#: src/libmlpgui/ui_jumptotrack.c:443
+msgid "_Filter:"
+msgstr "_Süzgeç:"
+
+#: src/libmlpgui/ui_jumptotrack.c:461
+msgid "Remember"
+msgstr ""
+
+#: src/libmlpgui/ui_jumptotrack.c:470
+#, fuzzy
+msgid "Clea_r"
+msgstr "A-B Temizle"
+
+#: src/libmlpgui/ui_jumptotrack.c:504
+msgid "Close on Jump"
+msgstr "Geçişten sonra kapat"
+
+#: src/libmlpgui/ui_playlist_manager.c:240
+msgid "Playlist Manager"
+msgstr "Parça Listesi Yöneticisi"
+
+#: src/libmlpgui/ui_playlist_manager.c:264
+msgid "Entries"
+msgstr "Girdiler"
+
+#: src/libmlpgui/ui_playlist_manager.c:285
+msgid "_Rename"
+msgstr "_Yeniden adlandır"
+
+#: src/libmlpgui/ui_playlist_manager.c:309
+#, fuzzy
+msgid "_Close dialog on activating playlist"
+msgstr "Açtıktan sonra pencereyi kapat"
+
+#: src/libmlpgui/ui_urlopener.c:58
+msgid "Open URL"
+msgstr ""
+
+#: src/libmlpgui/ui_urlopener.c:58
+msgid "Add URL"
+msgstr ""
+
+#: src/libmlpgui/util.c:95
+msgid ""
+"\n"
+"(Further messages have been hidden.)"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:165
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:188
+#, c-format
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:967
+#, c-format
+msgid "Starting %s"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:1108
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:1176
+#, c-format
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:1375
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:1396
+msgid "Not a launchable item"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:226
+msgid "Disable connection to session manager"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:229
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:229
+#, fuzzy
+msgid "FILE"
+msgstr "DOSYA..."
+
+#: src/libeggsmclient/eggsmclient.c:232
+msgid "Specify session management ID"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:232
+msgid "ID"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:253
+#, fuzzy
+msgid "Session management options:"
+msgstr "Pencere yöneticisi dekorasyonunu göster"
+
+#: src/libeggsmclient/eggsmclient.c:254
+#, fuzzy
+msgid "Show session management options"
+msgstr "Pencere yöneticisi dekorasyonunu göster"
+
+#, fuzzy
+#~ msgid ""
+#~ "All streams will be converted to this bit depth.\n"
+#~ "This should be the max supported bit depth of\n"
+#~ "the sound card or output plugin."
+#~ msgstr ""
+#~ "<span size=\"small\">Tüm müzik yayınları, bu örnekleme oranına "
+#~ "dönüştürülecek.\n"
+#~ "Bu, ses kartının veya çıktı eklentisinin desteklediği\n"
+#~ "azami örnekleme oranı olacaktır.</span>"
+
+#~ msgid "<b>Volume Control</b>"
+#~ msgstr "<b>Ses Kontrolü</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "Use software volume control. This may be useful for situations where your "
+#~ "audio system does not support controlling the playback volume."
+#~ msgstr ""
+#~ "Yazılımın ses kontrolünü kullan. Bu, ses sisteminizin sesi kontrol "
+#~ "edemediği durumlarda kullanışlı olacaktır."
+
+#, fuzzy
+#~ msgid "<b>Mode</b>"
+#~ msgstr "<b>Parça Bilgisi</b>"
+
+#, fuzzy
+#~ msgid "<b>Clipping Prevention</b>"
+#~ msgstr "<b>Açılır Pencere Bilgisi</b>"
+
+#~ msgid "<b>Audio System</b>"
+#~ msgstr "<b>Ses Sistemi</b>"
+
+#~ msgid "Current output plugin:"
+#~ msgstr "Mevcut çıkış eklentisi:"
+
+#~ msgid "Display all open MLPlayer windows"
+#~ msgstr "Açık olan tüm MLPlayer pencerelerini göster"
+
+#~ msgid "%s: Unable to open display, exiting.\n"
+#~ msgstr "%s: Görüntü açılamıyor, çıkıyor.\n"
+
+#, fuzzy
+#~ msgid "Default gain:"
+#~ msgstr "Varsayılan kabuk:"
+
+#, fuzzy
+#~ msgid "Dance"
+#~ msgstr "Tarih"
+
+#, fuzzy
+#~ msgid "Oldies"
+#~ msgstr "satırlar"
+
+#, fuzzy
+#~ msgid "Pranks"
+#~ msgstr "Zayıflama"
+
+#, fuzzy
+#~ msgid "Fusion"
+#~ msgstr "Rusça"
+
+#, fuzzy
+#~ msgid "Trance"
+#~ msgstr "Görünüm"
+
+#, fuzzy
+#~ msgid "Bass"
+#~ msgstr "Çubuklar"
+
+#, fuzzy
+#~ msgid "Space"
+#~ msgstr "Kaydet"
+
+#, fuzzy
+#~ msgid "Comedy"
+#~ msgstr "Yorum"
+
+#, fuzzy
+#~ msgid "Cult"
+#~ msgstr "Özel"
+
+#, fuzzy
+#~ msgid "Rave"
+#~ msgstr "Kaydet"
+
+#, fuzzy
+#~ msgid "Showtunes"
+#~ msgstr "En yavaş"
+
+#, fuzzy
+#~ msgid "Trailer"
+#~ msgstr "Başlık"
+
+#, fuzzy
+#~ msgid "Polka"
+#~ msgstr "Çal"
+
+#, fuzzy
+#~ msgid "Retro"
+#~ msgstr "Sıfır"
+
+#, fuzzy
+#~ msgid "Latin"
+#~ msgstr "Çizgiler"
+
+#, fuzzy
+#~ msgid "Slow Rock"
+#~ msgstr "Yavaş"
+
+#, fuzzy
+#~ msgid "Primus"
+#~ msgstr "Önceki"
+
+#, fuzzy
+#~ msgid "Satire"
+#~ msgstr "Ateş"
+
+#, fuzzy
+#~ msgid "Slow Jam"
+#~ msgstr "Yavaş"
+
+#, fuzzy
+#~ msgid "Duet"
+#~ msgstr "Hollandaca:"
+
+#, fuzzy
+#~ msgid "Terror"
+#~ msgstr "Sıfır"
+
+#, fuzzy
+#~ msgid "Indie"
+#~ msgstr "Dahil et:"
+
+#, fuzzy
+#~ msgid "Beat"
+#~ msgstr "Tekrarla"
+
+#, fuzzy
+#~ msgid "Synthpop"
+#~ msgstr "Durdur"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>MLPlayer %s</b></big>\n"
+#~ "An audio player for many platforms.\n"
+#~ "Copyright (C) 2005-2011 MLPlayer Development Team"
+#~ msgstr ""
+#~ "<big><b>MLPlayer %s</b></big>\n"
+#~ "Bir çok platform için çoklu ortam oynatıcısı.\n"
+#~ "\n"
+#~ "Telif Hakkı (C) 2005-2007 MLPlayer Geliştirme Ekibi\n"
+
+#~ msgid "Unable to create log file (%s)!\n"
+#~ msgstr "Günlük dosyası oluşturulamıyor (%s)!\n"
+
+#~ msgid "Print all errors and warnings to stdout"
+#~ msgstr "Tüm hata ve uyarıları stdout'a bas"
+
+#, fuzzy
+#~ msgid "MLPlayer - Unsupported Version Warning"
+#~ msgstr "MLPlayer - bozuk GTK motoru kullanımı uyarısı"
+
+#~ msgid "Playback"
+#~ msgstr "Oynat"
+
+#~ msgid "<b>Playback</b>"
+#~ msgstr "<b>Oynatma</b>"
+
+#~ msgid ""
+#~ "When MLPlayer starts, automatically begin playing from the point where "
+#~ "we stopped before."
+#~ msgstr ""
+#~ "MLPlayer başlatıldığında, en son kaldığı yerden parçayı oynatmaya devam "
+#~ "eder."
+
+#~ msgid "Don't advance in the playlist"
+#~ msgstr "Çalma listesinde ilerleme"
+
+#~ msgid ""
+#~ "When finished playing a song, don't automatically advance to the next."
+#~ msgstr ""
+#~ "Bir şarkının çalınması sonlandığında, otomati olarak bir sonraki şarkıya "
+#~ "geçme."
+
+#~ msgid "Enabled"
+#~ msgstr "Etkinleştirildi"
+
+#~ msgid "Description"
+#~ msgstr "Açıklama"
+
+#~ msgid "Output Plugin Preferences"
+#~ msgstr "Çıkış Eklentisi Seçenekleri"
+
+#~ msgid "Output Plugin Information"
+#~ msgstr "Çıkış Eklentisi Bilgisi"
+
+#~ msgid "_Decoder list:"
+#~ msgstr "_Çözümleyici listesi:"
+
+#~ msgid "<span size=\"medium\"><b>Decoders</b></span>"
+#~ msgstr "<span size=\"medium\"><b>Çözümleyiciler</b></span>"
+
+#~ msgid "_General plugin list:"
+#~ msgstr "_Genel eklenti listesi:"
+
+#~ msgid "<span size=\"medium\"><b>General</b></span>"
+#~ msgstr "<span size=\"medium\"><b>Genel</b></span>"
+
+#~ msgid "_Visualization plugin list:"
+#~ msgstr "_Canlandırma eklenti listesi:"
+
+#~ msgid "<b>Visualization</b>"
+#~ msgstr "<b>Canlandırma</b>"
+
+#, fuzzy
+#~ msgid "Effect plugins:"
+#~ msgstr "_Efekt eklenti listesi:"
+
+#~ msgid "<span size=\"small\">General</span>"
+#~ msgstr "<span size=\"small\">Genel</span>"
+
+#~ msgid "<span size=\"small\">Location</span>"
+#~ msgstr "<span size=\"small\">Konum</span>"
+
+#, fuzzy
+#~ msgid "<span size=\"small\">Raw Metadata</span>"
+#~ msgstr "<span size=\"small\">Yıl</span>"
+
+#, fuzzy
+#~ msgid "Value"
+#~ msgstr "Mavi"
+
+#, fuzzy
+#~ msgid "Available Plugin Preferences:\n"
+#~ msgstr "Çıkış Eklentisi Seçenekleri"
+
+#~ msgid "Add/Open URL Dialog"
+#~ msgstr "URL penceresini Ekle/Aç"
+
+#~ msgid "Enter location to play:"
+#~ msgstr "Çalmak için konum girin:"
+
+#~ msgid "Don't clear the playlist"
+#~ msgstr "Parça listesini temizleme"
+
+#~ msgid "mlplayer: %s"
+#~ msgstr "mlplayer: %s"
+
+#~ msgid "Filename:"
+#~ msgstr "Dosya adı:"
+
+#~ msgid "No input plugin recognized this file"
+#~ msgstr "Hiç bir giriş eklentisi bu dosyayı tanıyamadı"
+
+#~ msgid ""
+#~ "<b><big>No output plugin selected.</big></b>\n"
+#~ "You have not selected an output plugin."
+#~ msgstr ""
+#~ "<b><big>Hiçbir çıkış eklentisi seçilmedi.</big></b>\n"
+#~ "Hiçbir çıktı eklentisi seçmediniz."
+
+#~ msgid "Connectivity"
+#~ msgstr "Bağlantı"
+
+#~ msgid "Best Sinc Interpolation"
+#~ msgstr "En İyi Sinc Hesaplama"
+
+#~ msgid "Medium Sinc Interpolation"
+#~ msgstr "Orta Sinc Hesaplama"
+
+#~ msgid "Fastest Sinc Interpolation"
+#~ msgstr "En Hızlı Sinc Hesaplama"
+
+#~ msgid "ZOH Interpolation"
+#~ msgstr "ZOH Hesaplama"
+
+#~ msgid "Linear Interpolation"
+#~ msgstr "Doğrusal Hesaplama"
+
+#~ msgid "Sampling Rate [Hz]:"
+#~ msgstr "Örnekleme Oranı [Hz]:"
+
+#~ msgid "Interpolation Engine:"
+#~ msgstr "Hesaplama Motoru:"
+
+#~ msgid ""
+#~ "<span size=\"small\">All streams will be converted to this sampling "
+#~ "rate.\n"
+#~ "This should be the max supported sampling rate of\n"
+#~ "the sound card or output plugin.</span>"
+#~ msgstr ""
+#~ "<span size=\"small\">Tüm müzik yayınları, bu örnekleme oranına "
+#~ "dönüştürülecek.\n"
+#~ "Bu, ses kartının veya çıktı eklentisinin desteklediği\n"
+#~ "azami örnekleme oranı olacaktır.</span>"
+
+#~ msgid "Detect file formats by extension."
+#~ msgstr "Uzantıya göre dosya biçimini belirle"
+
+#~ msgid ""
+#~ "When checked, MLPlayer will detect file formats based by extension. Only "
+#~ "files with extensions of supported formats will be loaded."
+#~ msgstr ""
+#~ "İşaretlendiğinde, MLPlayer, dosya biçimlerini uzantıya göre tespit "
+#~ "edecektir. Sadece, desteklenen dosya biçimleri yüklenecektir."
+
+#~ msgid "<b>Sampling Rate Converter</b>"
+#~ msgstr "<b>Örnekleme Oranı Dönüştürücüsü</b>"
+
+#~ msgid "Enable Sampling Rate Converter"
+#~ msgstr "Örnekleme Oranı Dönüştürücüsünü Etkinleştir"
+
+#, fuzzy
+#~ msgid "<b>Advanced</b>"
+#~ msgstr "<b>Oynatma</b>"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "MLPlayer has caught signal 11 (SIGSEGV).\n"
+#~ "\n"
+#~ "We apologize for the inconvenience, but MLPlayer has crashed.\n"
+#~ "This is a bug in the program, and should never happen under normal "
+#~ "circumstances.\n"
+#~ "Your current configuration has been saved and should not be damaged.\n"
+#~ "\n"
+#~ "You can help improve the quality of MLPlayer by filing a bug at http://"
+#~ "jira.atheme.org/\n"
+#~ "Please include the entire text of this message and a description of what "
+#~ "you were doing when\n"
+#~ "this crash occured in order to quickly expedite the handling of your bug "
+#~ "report:\n"
+#~ "\n"
+#~ msgstr ""
+#~ "\n"
+#~ "MLPlayer, 11 (SIGSEGV) sinyali aldı.\n"
+#~ "\n"
+#~ "Rahatsızlık için özür dileriz, fakat MLPlayer programı çöktü.\n"
+#~ "Bu, programda bulunan bir hatadan kaynaklanmaktadır ve normal şartlarda "
+#~ "olmaması gerekir.\n"
+#~ "Mevcut ayarlarınız kaydedilmiştir ve hasar görmemiş olması "
+#~ "gerekmektedir.\n"
+#~ "\n"
+#~ "http://bugs.pardus.org.tr adresine hata kaydı açarak MLPlayer "
+#~ "programının kalitesini arttırmasına yardımcı olabilirsiniz.\n"
+#~ "Hatanın hızlı çözümü için, bu mesajın tümünü ve programın çökmesi "
+#~ "esnasında neler yaptığınızı açıklayan mesajınızı da \n"
+#~ "hata raporuna ekleyiniz:\n"
+#~ "\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "Bugs can be reported at http://jira.atheme.org/ against the MLPlayer or "
+#~ "MLPlayer Plugins product.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "MLPlayer paketi ile ilgili hataları http://bugs.pardus.org.tr adresine "
+#~ "iletebilirsiniz.\n"
+
+#~ msgid ""
+#~ "Your signaling implementation is broken.\n"
+#~ "Expect unusable crash reports.\n"
+#~ msgstr ""
+#~ "Sinyalleme uygulamanız bozuk.\n"
+#~ "Kullanışsız hata raporu.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "<big><b>MLPlayer %s</b></big>\n"
+#~ "\n"
+#~ "Copyright (C) 2005-2009 MLPlayer Development Team"
+#~ msgstr ""
+#~ "<big><b>MLPlayer %s</b></big>\n"
+#~ "\n"
+#~ "Telif Hakkı (C) 2005-2006 MLPlayer Geliştirme Ekibi"
+
+#~ msgid "Detect file formats on demand, instead of immediately."
+#~ msgstr "Dosya biçimlerini hemen saptamak yerine isteğe göre tespit et."
+
+#~ msgid ""
+#~ "When checked, MLPlayer will detect file formats on demand. This can "
+#~ "result in a messier playlist, but delivers a major speed benefit."
+#~ msgstr ""
+#~ "İşaretlendiğinde, MLPlayer, dosya formatlarını isteğe göre tespit "
+#~ "edecektir. Bu hatalı bir parça listesine sebep olabilir. Fakat, hız "
+#~ "açısından büyük yarar sağlar."
+
+#~ msgid "Load metadata from playlists and files"
+#~ msgstr "Parça bilgisini parça listelerinden ve dosyalardan yükle"
+
+#~ msgid "Load metadata (tag information) from music files."
+#~ msgstr "Parça bilgisini (etiket bilgisi) müzik dosyalarından yükle"
+
+#~ msgid "minutes:seconds"
+#~ msgstr "dakika:saniye"
+
+#~ msgid "Track length:"
+#~ msgstr "Parça uzunluğu:"
+
+#~ msgid "Save as Static Playlist"
+#~ msgstr "Sabit Parça Listesi Olarak Kaydet"
+
+#~ msgid "Use Relative Path"
+#~ msgstr "Dosya Konumlarını Dizine Göre Yaz"
+
+#~ msgid "Error writing playlist \"%s\": %s"
+#~ msgstr "\"%s\" parça listesinin yazımında hata: %s"
+
+#~ msgid "%s already exist. Continue?"
+#~ msgstr "%s zaten mevcut. Devam edilsin mi?"
+
+#~ msgid ""
+#~ "<b><big>Unable to save playlist.</big></b>\n"
+#~ "\n"
+#~ "Unknown file type for '%s'.\n"
+#~ msgstr ""
+#~ "<b><big>Parça listesi kaydedilemiyor.</big></b>\n"
+#~ "\n"
+#~ "%s dosya türü bilinmiyor.\n"
+
+#~ msgid "Presets"
+#~ msgstr "Ayarlar"
+
+#~ msgid "Mouse"
+#~ msgstr "Fare"
+
+#~ msgid "Pause between songs"
+#~ msgstr "Şarkılar arasında beklet"
+
+#~ msgid "Pause for"
+#~ msgstr "beklet"
+
+#~ msgid "seconds"
+#~ msgstr "saniye"
+
+#~ msgid "<b>Filename</b>"
+#~ msgstr "<b>Dosya Adı</b>"
+
+#~ msgid "Convert underscores to blanks"
+#~ msgstr "Alt çizgileri boşluklara çevir"
+
+#~ msgid "Convert %20 to blanks"
+#~ msgstr "%20 karakterlerini boşluklara çevir"
+
+#~ msgid "Convert backslash '\\' to forward slash '/'"
+#~ msgstr "Ters bölüyü '\\', bölü '/' olarak çevir"
+
+#~ msgid "<b>File Dialog</b>"
+#~ msgstr "<b>Dosya Penceresi</b>"
+
+#~ msgid "Always refresh directory when opening file dialog"
+#~ msgstr "Dosya penceresi açıldığında her zaman dizini yenile"
+
+#~ msgid ""
+#~ "Always refresh the file dialog (this will slow opening the dialog on "
+#~ "large directories, and Gnome VFS should handle automatically)."
+#~ msgstr ""
+#~ "Dosya penceresini her zaman yenile (bu büyük klasörleri açarken yavaş "
+#~ "çalışacak ve Gnome VFS otomatik olarak algılamalı)"
+
+#~ msgid "Changes volume by"
+#~ msgstr "Sesi değiştirir"
+
+#~ msgid "percent"
+#~ msgstr "yüzde"
+
+#~ msgid "Scrolls playlist by"
+#~ msgstr "Parça listesini kaydırır"
+
+#~ msgid "lines"
+#~ msgstr "satırlar"
+
+#~ msgid "Stop after Current Song"
+#~ msgstr "Çalan Parçadan Sonra Durdur"
+
+#~ msgid "Peaks"
+#~ msgstr "Zayıflama"
+
+#~ msgid "Repeat"
+#~ msgstr "Tekrarla"
+
+#~ msgid "Shuffle"
+#~ msgstr "Karıştır"
+
+#~ msgid "No Playlist Advance"
+#~ msgstr "Parça Listesinde İlerleme"
+
+#~ msgid "Play"
+#~ msgstr "Çal"
+
+#~ msgid "Pause"
+#~ msgstr "Beklet"
+
+#~ msgid "Stop"
+#~ msgstr "Durdur"
+
+#~ msgid "Previous"
+#~ msgstr "Önceki"
+
+#~ msgid "Next"
+#~ msgstr "Sonraki"
+
+#~ msgid "Visualization Mode"
+#~ msgstr "Canlandırma Kipi"
+
+#~ msgid "Analyzer Mode"
+#~ msgstr "Çözümleyici Kipi"
+
+#~ msgid "Scope Mode"
+#~ msgstr "Alan Kipi"
+
+#~ msgid "Voiceprint Mode"
+#~ msgstr "Ses İzi Kipi"
+
+#~ msgid "WindowShade VU Mode"
+#~ msgstr "Pencere Gölgesi VU Kipi"
+
+#~ msgid "Refresh Rate"
+#~ msgstr "Tazeleme Oranı"
+
+#~ msgid "Analyzer Falloff"
+#~ msgstr "Analizci Azalması"
+
+#~ msgid "Peaks Falloff"
+#~ msgstr "Zayıflama Azalması"
+
+#~ msgid "New Playlist"
+#~ msgstr "Yeni Parça Listesi"
+
+#~ msgid "Select Next Playlist"
+#~ msgstr "Soraki Parça Listesini Seç"
+
+#~ msgid "Select Previous Playlist"
+#~ msgstr "Önceki Parça Listesini Seç"
+
+#~ msgid "Delete Playlist"
+#~ msgstr "Parça Listesini Sil"
+
+#~ msgid "Load List"
+#~ msgstr "Liste Yükle"
+
+#~ msgid "Loads a playlist file into the selected playlist."
+#~ msgstr "Seçili parça listesine, bir parça listesi dosyası yükler."
+
+#~ msgid "Save List"
+#~ msgstr "Listeyi Kaydet"
+
+#~ msgid "Saves the selected playlist."
+#~ msgstr "Seçili parça listesini kaydeder."
+
+#~ msgid "Save Default List"
+#~ msgstr "Öntanımlı Listeyi Kaydet"
+
+#~ msgid "Saves the selected playlist to the default location."
+#~ msgstr "Seçili parça listesini öntanımlı konuma kaydeder."
+
+#~ msgid "Refresh List"
+#~ msgstr "Listeyi Tazele"
+
+#~ msgid "Refreshes metadata associated with a playlist entry."
+#~ msgstr "Bir parça listesi giridisi ile eşleşmiş parça bilgisini yeniler."
+
+#~ msgid "List Manager"
+#~ msgstr "Liste Yöneticisi"
+
+#~ msgid "Opens the playlist manager."
+#~ msgstr "Parça listesi yöneticisini açar."
+
+#~ msgid "View"
+#~ msgstr "Görünüm"
+
+#~ msgid "Add Internet Address..."
+#~ msgstr "İnternet Adresi Ekle..."
+
+#~ msgid "Adds a remote track to the playlist."
+#~ msgstr "Uzaktaki parçayı parça listesine ekler."
+
+#~ msgid "Add Files..."
+#~ msgstr "Dosya Ekle..."
+
+#~ msgid "Search and Select"
+#~ msgstr "Ara ve Seç"
+
+#~ msgid ""
+#~ "Searches the playlist and selects playlist entries based on specific "
+#~ "criteria."
+#~ msgstr ""
+#~ "Belirli kriterlere göre parça listesini araştırır ve parça listesi "
+#~ "girişlerini seçer."
+
+#~ msgid "Invert Selection"
+#~ msgstr "Seçeneği Ters Çevir"
+
+#~ msgid "Inverts the selected and unselected entries."
+#~ msgstr "Seçilmiş ve seçilmemiş girdileri ters çevirir."
+
+#~ msgid "Select All"
+#~ msgstr "Hepsini Seç"
+
+#~ msgid "Selects all of the playlist entries."
+#~ msgstr "Tüm parça listesi girdilerini seçer."
+
+#~ msgid "Select None"
+#~ msgstr "Hiçbirşey Seçme"
+
+#~ msgid "Deselects all of the playlist entries."
+#~ msgstr "Parça listesindeki tüm girdileri seçilmemiş yapar."
+
+#~ msgid "Remove All"
+#~ msgstr "Hepsini Kaldır"
+
+#~ msgid "Removes all entries from the playlist."
+#~ msgstr "Parça listesindeki tüm girdileri kaldırır."
+
+#~ msgid "Clear Queue"
+#~ msgstr "Kuyruğu Temizle"
+
+#~ msgid "Clears the queue associated with this playlist."
+#~ msgstr "Bu parça listesi ile eşleşmiş kuyruğu temizler."
+
+#~ msgid "Remove Unavailable Files"
+#~ msgstr "Olmayan Dosyaları Kaldır"
+
+#~ msgid "Removes unavailable files from the playlist."
+#~ msgstr "Parça listesinden olmayan dosyaları kaldırır."
+
+#~ msgid "Remove Duplicates"
+#~ msgstr "Aynı Dosyaları Kaldır"
+
+#~ msgid "By Title"
+#~ msgstr "Başlığa Göre"
+
+#~ msgid "Removes duplicate entries from the playlist by title."
+#~ msgstr "Başlıkları aynı olan girdileri parça listesinde kaldırır."
+
+#~ msgid "By Filename"
+#~ msgstr "Dosya Adına Göre"
+
+#~ msgid "Removes duplicate entries from the playlist by filename."
+#~ msgstr "Dosya adı aynı olan girdileri parça listesinden kaldırır."
+
+#~ msgid "By Path + Filename"
+#~ msgstr "Yol + Dosya adına göre"
+
+#~ msgid "Removes duplicate entries from the playlist by their full path."
+#~ msgstr "Tam yolu aynı olan girdileri parça listesinden kaldırır."
+
+#~ msgid "Remove Unselected"
+#~ msgstr "Seçilmeyeni Kaldır"
+
+#~ msgid "Remove unselected entries from the playlist."
+#~ msgstr "Çalma listesinden seçili olmayanları kaldır."
+
+#~ msgid "Remove Selected"
+#~ msgstr "Seçileni Kaldır"
+
+#~ msgid "Remove selected entries from the playlist."
+#~ msgstr "Çalma listesinde seçili olanları kaldır."
+
+#~ msgid "Randomize List"
+#~ msgstr "Listeyi Karıştır"
+
+#~ msgid "Randomizes the playlist."
+#~ msgstr "Parça listesini karıştırır."
+
+#~ msgid "Reverse List"
+#~ msgstr "Listeyi Ters Çevir"
+
+#~ msgid "Reverses the playlist."
+#~ msgstr "Parça listesini ters çevirir."
+
+#~ msgid "Sort List"
+#~ msgstr "Listeyi Sırala"
+
+#~ msgid "Sorts the list by title."
+#~ msgstr "Listeyi başlığa göre sıralar."
+
+#, fuzzy
+#~ msgid "By Album"
+#~ msgstr "Albüm"
+
+#, fuzzy
+#~ msgid "Sorts the list by album."
+#~ msgstr "Listeyi başlığa göre sıralar."
+
+#~ msgid "By Artist"
+#~ msgstr "Sanatçıya göre"
+
+#~ msgid "Sorts the list by artist."
+#~ msgstr "Listeyi sanatçıya göre sıralar."
+
+#~ msgid "Sorts the list by filename."
+#~ msgstr "Listeyi dosya ismine göre sıralar."
+
+#~ msgid "Sorts the list by full pathname."
+#~ msgstr "Tam dosya yoluna göre listeyi sıralar."
+
+#~ msgid "By Date"
+#~ msgstr "Tarihe Göre"
+
+#~ msgid "Sorts the list by modification time."
+#~ msgstr "Düzenleme zamanına göre listeyi sıralar."
+
+#~ msgid "By Track Number"
+#~ msgstr "Parça Numarasına Göre"
+
+#~ msgid "Sorts the list by track number."
+#~ msgstr "Listeyi parça numarasına göre sıralar."
+
+#~ msgid "By Playlist Entry"
+#~ msgstr "Parça Listesine Göre"
+
+#~ msgid "Sorts the list by playlist entry."
+#~ msgstr "Listeyi parça listesi girdisine göre sıralar."
+
+#~ msgid "Sort Selected"
+#~ msgstr "Seçimi Sırala"
+
+#~ msgid "File"
+#~ msgstr "Dosya"
+
+#~ msgid "Help"
+#~ msgstr "Yardım"
+
+#, fuzzy
+#~ msgid "Components"
+#~ msgstr "Yorum"
+
+#~ msgid "View Track Details"
+#~ msgstr "Parça Bilgilerini Göster"
+
+#~ msgid "Play File"
+#~ msgstr "Dosya Çal"
+
+#~ msgid "Load and play a file"
+#~ msgstr "Dosya yükle ve çal"
+
+#~ msgid "Play Location"
+#~ msgstr "Konum Çal"
+
+#~ msgid "Play media from the selected location"
+#~ msgstr "Seçilen konumdaki medyayı çal"
+
+#~ msgid "Plugin services"
+#~ msgstr "Eklenti hizmetleri"
+
+#~ msgid "Preferences"
+#~ msgstr "Seçenekler"
+
+#~ msgid "Open preferences window"
+#~ msgstr "Seçenekler penceresini aç"
+
+#~ msgid "_Quit"
+#~ msgstr "_Çık"
+
+#~ msgid "Quit MLPlayer"
+#~ msgstr "MLPlayer'tan Çık"
+
+#~ msgid "Set A-B"
+#~ msgstr "A-B Ayarla"
+
+#~ msgid "Clear A-B"
+#~ msgstr "A-B Temizle"
+
+#~ msgid "Jump to Playlist Start"
+#~ msgstr "Çalma Listesinin Başına Atla"
+
+#~ msgid "Jump to File"
+#~ msgstr "Dosyaya Atla"
+
+#~ msgid "Queue Toggle"
+#~ msgstr "Kuyruk Geçişi"
+
+#~ msgid "Enables/disables the entry in the playlist's queue."
+#~ msgstr "Çalma listesi kuyruğundaki girişleri etkinleştirir/kapatır."
+
+#~ msgid "Load"
+#~ msgstr "Yükle"
+
+#~ msgid "Import"
+#~ msgstr "İçe Aktar"
+
+#~ msgid "Save"
+#~ msgstr "Kaydet"
+
+#~ msgid "Delete"
+#~ msgstr "Sil"
+
+#~ msgid "Preset"
+#~ msgstr "Ayar"
+
+#~ msgid "Load preset"
+#~ msgstr "Ayarları yükle"
+
+#~ msgid "Auto-load preset"
+#~ msgstr "Ayarları otomatik yükle"
+
+#~ msgid "Load auto-load preset"
+#~ msgstr "Otomatik ayarları yükle"
+
+#~ msgid "Default"
+#~ msgstr "Öntanımlı"
+
+#~ msgid "Load default preset into equalizer"
+#~ msgstr "Öntanımlı ayarı ekolayzıra yükle"
+
+#~ msgid "Zero"
+#~ msgstr "Sıfır"
+
+#~ msgid "Set equalizer preset levels to zero"
+#~ msgstr "Ekolayzır ayar düzeyini sıfır olarak ayarla"
+
+#~ msgid "From file"
+#~ msgstr "Dosyadan"
+
+#~ msgid "Load preset from file"
+#~ msgstr "Dosyadan ayar yükle"
+
+#~ msgid "From WinAMP EQF file"
+#~ msgstr "WinAMP EQF dosyasından"
+
+#~ msgid "Load preset from WinAMP EQF file"
+#~ msgstr "WinAMP EQF dosyasından ayar yükle"
+
+#~ msgid "WinAMP Presets"
+#~ msgstr "WinAmp Ayarları"
+
+#~ msgid "Import WinAMP presets"
+#~ msgstr "WinAmp Ayarlarını içe aktar"
+
+#~ msgid "Save preset"
+#~ msgstr "Ayarları kaydet"
+
+#~ msgid "Save auto-load preset"
+#~ msgstr "Otomatik ayarları kaydet"
+
+#~ msgid "Save default preset"
+#~ msgstr "Öntanımlı ayarları kaydet"
+
+#~ msgid "To file"
+#~ msgstr "Dosyaya"
+
+#~ msgid "Save preset to file"
+#~ msgstr "Ayarları dosyaya kaydet"
+
+#~ msgid "To WinAMP EQF file"
+#~ msgstr "WinAMP EQF dosyasına"
+
+#~ msgid "Save preset to WinAMP EQF file"
+#~ msgstr "Ayarları WinAMP EQF dosyasına kaydet"
+
+#~ msgid "Delete preset"
+#~ msgstr "Ayarı sil"
+
+#~ msgid "Delete auto-load preset"
+#~ msgstr "Otomatik ayar yüklemeyi sil"
+
+#~ msgid ""
+#~ "<span size=\"small\">This is the amount of time to prebuffer audio "
+#~ "streams by, in milliseconds.\n"
+#~ "Increase this value if you are experiencing audio skipping.\n"
+#~ "Please note however, that high values will result in MLPlayer performing "
+#~ "poorly.</span>"
+#~ msgstr ""
+#~ "<span size=\"small\">Ses akışlarını tamponlamak için kullanılcak "
+#~ "milisaniye cinsinden miktar.\n"
+#~ "Ses atlamaları yaşıyorsanız bu değeri arttırın.\n"
+#~ "Ancak, yüksek bir değer MLPlayer'ın düşük performans göstermesine neden "
+#~ "olabilir.</span>"
+
+#~ msgid "Enable headless operation"
+#~ msgstr "Başsız uygulamaları etkinleştir"
+
+#~ msgid ""
+#~ "<b><big>Unable to load skin.</big></b>\n"
+#~ "\n"
+#~ "Check that skin at '%s' is usable and default skin is properly installed "
+#~ "at '%s'\n"
+#~ msgstr ""
+#~ "<b><big>Kabuk yüklenemiyor.</big></b>\n"
+#~ "\n"
+#~ "%s adresindeki kabuğun kullanılabilir olduğunu ve %s adresindeki "
+#~ "öntanımlı kabuğun doğru kurulduğunu gözden geçirin.\n"
+
+#, fuzzy
+#~ msgid "Headless operation enabled\n"
+#~ msgstr "Başsız uygulamaları etkinleştir"
+
+#~ msgid "MLPlayer core developers:"
+#~ msgstr "MLPlayer ana geliştiricileri:"
+
+#~ msgid "MLPlayer Equalizer"
+#~ msgstr "Audacios Ekolayzır"
+
+#~ msgid "Play files"
+#~ msgstr "Dosyaları çal"
+
+#~ msgid "Load files"
+#~ msgstr "Dosyaları yükle"
+
+#~ msgid "%s - MLPlayer"
+#~ msgstr "%s - MLPlayer"
+
+#~ msgid "VBR"
+#~ msgstr "VBR"
+
+#~ msgid "mono"
+#~ msgstr "mono"
+
+#~ msgid "MLPlayer - visibility warning"
+#~ msgstr "MLPlayer - görünürlük uyarısı"
+
+#~ msgid "Show main player window"
+#~ msgstr "Ana parça penceresini göster"
+
+#~ msgid "Ignore"
+#~ msgstr "Yoksay"
+
+#~ msgid ""
+#~ "MLPlayer has been started with all of its windows hidden.\n"
+#~ "You may want to show the player window again to control MLPlayer; "
+#~ "otherwise, you'll have to control it remotely via mlptool or enabled "
+#~ "plugins (such as the statusicon plugin)."
+#~ msgstr ""
+#~ "MLPlayer, tüm pencereleri gizli olarak başlatıldı.\n"
+#~ "MLPlayer'u kontrol edebilmek için oynatıcı penceresini görünür kılmak "
+#~ "isteyebilirsiniz; aksi takdirde, mlptool veya etkin eklentiler sayesinde "
+#~ "MLPlayer'u kontrol etmeniz gerekcektir. (durum simgesi eklentisi gibi)."
+
+#~ msgid "Always ignore, show/hide is controlled remotely"
+#~ msgstr "Her zaman yoksay, göster/gizle eylemleri uzaktan kontrol edilir"
+
+#~ msgid ""
+#~ "<big><b>Broken GTK engine in use</b></big>\n"
+#~ "\n"
+#~ "MLPlayer has detected that you are using a broken GTK engine.\n"
+#~ "\n"
+#~ "The theme engine you are using, <i>%s</i>, is incompatible with some of "
+#~ "the features used by modern skins. The incompatible features have been "
+#~ "disabled for this session.\n"
+#~ "\n"
+#~ "To use these features, please consider using a different GTK theme engine."
+#~ msgstr ""
+#~ "<big><b>Bozuk GTK motoru kullanımı</b></big>\n"
+#~ "\n"
+#~ "MLPlayer bozuk bir GTK motoru kullandığınızı tespit etti.\n"
+#~ "\n"
+#~ "Kullandığınız tema motoru, <i>%s</i>, modern kabuklar tarafından "
+#~ "kullanılan bazı özelliklere uygun değil. Uygun olmayan özellikler bu "
+#~ "oturum için iptal edildi.\n"
+#~ "\n"
+#~ "Bu özellekleri kullanabilmek için, lütfen farklı bir GTK motoru kullanın."
+
+#~ msgid "Seek to: %d:%-2.2d/%d:%-2.2d (%d%%)"
+#~ msgstr "Ara: %d:%-2.2d/%d:%-2.2d (%d%%)"
+
+#~ msgid "Volume: %d%%"
+#~ msgstr "Ses: %d%%"
+
+#~ msgid "Balance: %d%% left"
+#~ msgstr "Denge: %d%% sol"
+
+#~ msgid "Balance: center"
+#~ msgstr "Denge: merkez"
+
+#~ msgid "Balance: %d%% right"
+#~ msgstr "Denge: %d%% sağ"
+
+#~ msgid "Options Menu"
+#~ msgstr "Seçenekler Menüsü"
+
+#~ msgid "Disable 'Always On Top'"
+#~ msgstr "Diğer Pencerelerin Üzerinde Tutma"
+
+#~ msgid "Enable 'Always On Top'"
+#~ msgstr "Diğer Pencerelerin Üzerinde Tut"
+
+#~ msgid "File Info Box"
+#~ msgstr "Dosya Bilgisi Kutusu"
+
+#~ msgid "Visualization Menu"
+#~ msgstr "Görsellik Menüsü"
+
+#~ msgid ""
+#~ "<b><big>Couldn't open audio.</big></b>\n"
+#~ "\n"
+#~ "Please check that:\n"
+#~ "1. You have the correct output plugin selected.\n"
+#~ "2. No other programs is blocking the soundcard.\n"
+#~ "3. Your soundcard is configured properly.\n"
+#~ msgstr ""
+#~ "<b><big>Ses açılamadı.</big></b>\n"
+#~ "\n"
+#~ "Lütfen şunları gözden geçirin:\n"
+#~ "1- Doğru çıkış eklentisini seçtiniz mi?\n"
+#~ "2- Herhangi bir uygulama ses kartınızın kullanılmasını engelliyor mu?\n"
+#~ "3- Ses kartınız doğru olarak ayarlandı mı.\n"
+
+#~ msgid "Autoscroll Songname"
+#~ msgstr "Parça adını otomatik kaydır"
+
+#~ msgid "Show Player"
+#~ msgstr "Oynatıcıyı Göster"
+
+#~ msgid "Show Playlist Editor"
+#~ msgstr "Parça Listesi Düzenleyicisini Göster"
+
+#~ msgid "Always on Top"
+#~ msgstr "Her Zaman Üstte"
+
+#~ msgid "Put on All Workspaces"
+#~ msgstr "Tüm Masaüstlerinde Göster"
+
+#~ msgid "Roll up Player"
+#~ msgstr "Oynatıcıyı Üste Kaydır"
+
+#~ msgid "Roll up Playlist Editor"
+#~ msgstr "Parça Listesi Düzenleyicisini Üste Kaydır"
+
+#~ msgid "Roll up Equalizer"
+#~ msgstr "Ekolayzırı Üste Kaydır"
+
+#, fuzzy
+#~ msgid "Scale"
+#~ msgstr "Kaydet"
+
+#~ msgid "DoubleSize"
+#~ msgstr "Büyüt"
+
+#~ msgid "Easy Move"
+#~ msgstr "Kolay Taşı"
+
+#~ msgid "Analyzer"
+#~ msgstr "Çözümleyici"
+
+#~ msgid "Scope"
+#~ msgstr "Alan"
+
+#~ msgid "Voiceprint"
+#~ msgstr "Ses izi"
+
+#~ msgid "Off"
+#~ msgstr "Kapalı"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Fire"
+#~ msgstr "Ateş"
+
+#~ msgid "Vertical Lines"
+#~ msgstr "Dikey Çizgiler"
+
+#~ msgid "Lines"
+#~ msgstr "Çizgiler"
+
+#~ msgid "Bars"
+#~ msgstr "Çubuklar"
+
+#~ msgid "Dot Scope"
+#~ msgstr "Nokta Alanı"
+
+#~ msgid "Line Scope"
+#~ msgstr "Çizgi Alanı"
+
+#~ msgid "Solid Scope"
+#~ msgstr "Katı Alan"
+
+#~ msgid "Ice"
+#~ msgstr "Buz"
+
+#~ msgid "Smooth"
+#~ msgstr "Yumuşak"
+
+#~ msgid "Full (~50 fps)"
+#~ msgstr "Tam (~50 fps)"
+
+#~ msgid "Half (~25 fps)"
+#~ msgstr "Yarım (~25 fps)"
+
+#~ msgid "Quarter (~13 fps)"
+#~ msgstr "Çeyrek (~13 fps)"
+
+#~ msgid "Eighth (~6 fps)"
+#~ msgstr "Sekizde Bir (~6 fps)"
+
+#~ msgid "Slowest"
+#~ msgstr "En yavaş"
+
+#~ msgid "Slow"
+#~ msgstr "Yavaş"
+
+#~ msgid "Medium"
+#~ msgstr "Orta"
+
+#~ msgid "Fast"
+#~ msgstr "Hızlı"
+
+#~ msgid "Fastest"
+#~ msgstr "En hızlı"
+
+#~ msgid "Time Elapsed"
+#~ msgstr "Geçen Zaman"
+
+#~ msgid "Time Remaining"
+#~ msgstr "Kalan Zaman"
+
+#~ msgid "Plugin Services"
+#~ msgstr "Eklenti Hizmetleri"
+
+#~ msgid "Search entries in active playlist"
+#~ msgstr "Etkin parça listesindeki girdileri ara"
+
+#~ msgid ""
+#~ "Select entries in playlist by filling one or more fields. Fields use "
+#~ "regular expressions syntax, case-insensitive. If you don't know how "
+#~ "regular expressions work, simply insert a literal portion of what you're "
+#~ "searching for."
+#~ msgstr ""
+#~ "Bir veya daha fazla alan seçerek parça listesindeki girdileri seçin. "
+#~ "Alanlar, düzenli ifade sözdizimi kullanır ve küçük-büyük harf duyarlı "
+#~ "değildir. Eğer, düzenli ifadelerin nasıl çalıştığını bilmiyorsanız, "
+#~ "basitçe aradığınız kelimeyi girin."
+
+#~ msgid "Title: "
+#~ msgstr "Başlık: "
+
+#~ msgid "Artist: "
+#~ msgstr "Sanatçı: "
+
+#~ msgid "Filename: "
+#~ msgstr "Dosya Adı: "
+
+#~ msgid "Clear previous selection before searching"
+#~ msgstr "Aramadan önce, önceki seçimi temizle"
+
+#~ msgid "Automatically toggle queue for matching entries"
+#~ msgstr "Eşleşen girdiler için otomatik olarak kuyruğu düzenle"
+
+#~ msgid "MLPlayer Playlist Editor"
+#~ msgstr "MLPlayer Parça Listesi Düzenleyicisi"
+
+#~ msgid "Appearance"
+#~ msgstr "Görünüm"
+
+#~ msgid "<b>_Fonts</b>"
+#~ msgstr "<b>_Yazı Tipleri</b>"
+
+#~ msgid "_Player:"
+#~ msgstr "_Oynatıcı:"
+
+#~ msgid "Select main player window font:"
+#~ msgstr "Ana çalıcı penceresi yazı tipini seç:"
+
+#~ msgid "_Playlist:"
+#~ msgstr "_Parça Listesi:"
+
+#~ msgid "Select playlist font:"
+#~ msgstr "Çalma listesi yazı tipini seç:"
+
+#~ msgid "Use Bitmap fonts if available"
+#~ msgstr "Kullanılabilir ise Bitmap yazı tiplerini kullan"
+
+#~ msgid ""
+#~ "Use bitmap fonts if they are available. Bitmap fonts do not support "
+#~ "Unicode strings."
+#~ msgstr ""
+#~ "Kullanılabilir ise bitmap yazı tiplerini kullan. Bitmap yazı tipleri "
+#~ "Unicode yazıları desteklemez."
+
+#~ msgid "<b>_Miscellaneous</b>"
+#~ msgstr "<b>_Çeşitli</b>"
+
+#~ msgid "Show track numbers in playlist"
+#~ msgstr "Parça listesinde parça numaralarını göster"
+
+#~ msgid "Show separators in playlist"
+#~ msgstr "Parça listesinde ayıraçları göster"
+
+#~ msgid "Show window manager decoration"
+#~ msgstr "Pencere yöneticisi dekorasyonunu göster"
+
+#~ msgid "This enables the window manager to show decorations for windows."
+#~ msgstr "Pencere yöneticisini dekorasyonları göstermesi için etkinleştirir."
+
+#~ msgid "Use XMMS-style file selector instead of the default selector"
+#~ msgstr "Öntanımlı seçici yerine XMMS biçimi dosya seçicisi kullan"
+
+#~ msgid ""
+#~ "This enables the XMMS/GTK1-style file selection dialogs. This selector is "
+#~ "provided by MLPlayer itself and is faster than the default GTK2 selector "
+#~ "(but sadly not as user-friendly)."
+#~ msgstr ""
+#~ "Bu, XMMS/GTK1 biçimi dosya seçim pencerelerini etkinleştirir. Bu seçici, "
+#~ "MLPlayer tarafından sunulmaktadır ve öntanımlı GTK2 seçicisinden daha "
+#~ "hızlıdır (ancak kullanıcı dostu değildir)."
+
+#~ msgid "Use two-way text scroller"
+#~ msgstr "Çift yönlü metin kaydırıcıyı kullan"
+
+#~ msgid ""
+#~ "If selected, the file information text in the main window will scroll "
+#~ "back and forth. If not selected, the text will only scroll in one "
+#~ "direction."
+#~ msgstr ""
+#~ "Eğer, seçiliyse, dosya bilgisi ana pencerede ileri ve geri kayacaktır. "
+#~ "Eğer, seçili değilse, metin sadece tek yönde kayacaktır."
+
+#~ msgid "On load"
+#~ msgstr "Yüklendiğinde"
+
+#~ msgid "Load metadata when adding the file to the playlist or opening it"
+#~ msgstr ""
+#~ "Parça bilgisini, dosya parça listesine eklenirken veya açılırken yükle."
+
+#~ msgid "On display"
+#~ msgstr "Gösterildiğinde"
+
+#~ msgid ""
+#~ "Load metadata on demand when displaying the file in the playlist. You may "
+#~ "need to set \"Detect file formats on demand\" in Audio page for full "
+#~ "benefit."
+#~ msgstr ""
+#~ "Dosya, parça listesinde gösteriliyorken, istenildiğinde parça bilgisini "
+#~ "yükle. Etkin kullanım için, Ses sayfasındaki \"Dosya biçimlerini isteğe "
+#~ "göre tespit et\" seçeneğini işaretleyebilirsiniz."
+
+#~ msgid "Color Adjustment"
+#~ msgstr "Renk Düzenleme"
+
+#~ msgid ""
+#~ "MLPlayer allows you to alter the color balance of the skinned UI. The "
+#~ "sliders below will allow you to do this."
+#~ msgstr ""
+#~ "MLPlayer, arayüzün renk dengesini değiştirmenize olanak sağlar. Alttaki "
+#~ "kaydırıcılar sayesinde bunu yapabilirsiniz."
+
+#~ msgid "Blue"
+#~ msgstr "Mavi"
+
+#~ msgid "Green"
+#~ msgstr "Yeşil"
+
+#~ msgid "Red"
+#~ msgstr "Kırmızı"
+
+#~ msgid "<b>_Skin</b>"
+#~ msgstr "<b>_Kabuk</b>"
+
+#~ msgid "Refresh skin list"
+#~ msgstr "Kabuk listesini tazele"
+
+#~ msgid "PREAMP"
+#~ msgstr "PREAMP"
+
+#~ msgid "60HZ"
+#~ msgstr "60HZ"
+
+#~ msgid "170HZ"
+#~ msgstr "170HZ"
+
+#~ msgid "310HZ"
+#~ msgstr "310HZ"
+
+#~ msgid "600HZ"
+#~ msgstr "600HZ"
+
+#~ msgid "1KHZ"
+#~ msgstr "1KHZ"
+
+#~ msgid "3KHZ"
+#~ msgstr "3KHZ"
+
+#~ msgid "6KHZ"
+#~ msgstr "6KHZ"
+
+#~ msgid "12KHZ"
+#~ msgstr "12KHZ"
+
+#~ msgid "14KHZ"
+#~ msgstr "14KHZ"
+
+#~ msgid "16KHZ"
+#~ msgstr "16KHZ"
+
+#~ msgid "Archived Winamp 2.x skin"
+#~ msgstr "Winamp 2.x kabuğu arşive eklendi"
+
+#~ msgid "Unarchived Winamp 2.x skin"
+#~ msgstr "Winamp 2.x kabuğu arşivden çıkarıldı"
+
+#~ msgid "Show version and builtin features"
+#~ msgstr "Sürüm ve tümleşik özellikleri göster"
+
+#~ msgid "Use custom cursors"
+#~ msgstr "Özel imleçleri kullan"
+
+#~ msgid "Reload Plugins"
+#~ msgstr "Eklentileri yeniden yükle"
+
+#~ msgid ""
+#~ "Sorry, threads isn't supported on your platform.\n"
+#~ "\n"
+#~ "If you're on a libc5 based linux system and installed Glib & GTK+ before "
+#~ "you\n"
+#~ "installed LinuxThreads you need to recompile Glib & GTK+.\n"
+#~ msgstr ""
+#~ "Üzgünüm, threads sisteminizde desteklenmiyor.\n"
+#~ "\n"
+#~ "Libc5 yüklü linux sistemi kullanıyorsanız ve LinuxThreads yüklemeden önce "
+#~ "Glib & GTK+'yı yüklemişseniz, Glib & GTK+'yı yeniden derlemeniz "
+#~ "gerekmektedir.\n"
+
+#~ msgid "Error in MLPlayer."
+#~ msgstr "MLPlayer hata ile karşılaştı."
+
+#~ msgid "Select which MLPlayer session ID to use"
+#~ msgstr "Kullanılacak MLPlayer oturum ID'sini seçin"
+
+#~ msgid "Disable 'Doublesize'"
+#~ msgstr "'Büyük Boyutu' pasifleştir"
+
+#~ msgid "Enable 'Doublesize'"
+#~ msgstr "'Büyük Boyutu' etkinleştir"

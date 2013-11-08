@@ -1,0 +1,13 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+data_dir=@datadir@/@PACKAGE@
+
+version=@VERSION@
+mlplayer_include_dir=@includedir@
+lib_dir=@libdir@
+
+Name: MLPlayer Client Library
+Description: Remote control library for MLPlayer
+Version: @VERSION@
+Libs: -L${lib_dir} @LIBAUDCLIENT_LDFLAGS@
+Cflags: -I${mlplayer_include_dir}

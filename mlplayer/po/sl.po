@@ -1,0 +1,1205 @@
+# Slovenian translation for MLPlayer
+# Copyright (C) MLPlayer Translators
+# This file is distributed under the same license as the MLPlayer package.
+#
+# Translators:
+#   kv1dr <poznic.davor@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: MLPlayer\n"
+"Report-Msgid-Bugs-To: http://jira.atheme.org/browse/AUD\n"
+"POT-Creation-Date: 2011-10-19 21:32-0400\n"
+"PO-Revision-Date: 2011-10-20 10:45+0000\n"
+"Last-Translator: kv1dr <poznic.davor@gmail.com>\n"
+"Language-Team: Slovenian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3)\n"
+
+#: src/mlplayer/adder.c:71
+msgid "Searching ..."
+msgstr "Iščem ..."
+
+#: src/mlplayer/adder.c:97
+#, c-format
+msgid "%d file found"
+msgid_plural "%d files found"
+msgstr[0] "%d datoteka najdena"
+msgstr[1] "%d datoteki najdeni"
+msgstr[2] "%d datotek najdene"
+msgstr[3] "%d datotek najdenih"
+
+#: src/mlplayer/chardet.c:38
+msgid "  (invalid UTF-8)"
+msgstr "  (neveljaven UTF-8)"
+
+#: src/mlplayer/credits.c:35
+msgid "Core developers:"
+msgstr "Razvijalci jedra:"
+
+#: src/mlplayer/credits.c:49
+msgid "Graphics:"
+msgstr "Grafika:"
+
+#: src/mlplayer/credits.c:54
+msgid "Default skin:"
+msgstr "Privzeta obleka:"
+
+#: src/mlplayer/credits.c:60
+msgid "Plugin development:"
+msgstr "Razvijalci vtičnikov:"
+
+#: src/mlplayer/credits.c:83
+msgid "Patch authors:"
+msgstr "Avtorji popravkov:"
+
+#: src/mlplayer/credits.c:126
+msgid "1.x developers:"
+msgstr "Razvijalci različice 1.x:"
+
+#: src/mlplayer/credits.c:148
+msgid "BMP Developers:"
+msgstr "BMP razvijalci:"
+
+#: src/mlplayer/credits.c:180
+msgid "Belarusian:"
+msgstr "Beloruščina:"
+
+#: src/mlplayer/credits.c:183
+msgid "Basque:"
+msgstr ""
+
+#: src/mlplayer/credits.c:186
+msgid "Brazilian Portuguese:"
+msgstr "Brazilska portugalščina:"
+
+#: src/mlplayer/credits.c:191
+msgid "Breton:"
+msgstr ""
+
+#: src/mlplayer/credits.c:194
+msgid "Bulgarian:"
+msgstr "Bolgarščina:"
+
+#: src/mlplayer/credits.c:197
+msgid "Catalan:"
+msgstr "Katalonščina:"
+
+#: src/mlplayer/credits.c:200
+msgid "Chinese:"
+msgstr "Kitajščina:"
+
+#: src/mlplayer/credits.c:203
+msgid "Croatian:"
+msgstr "Hrvaščina:"
+
+#: src/mlplayer/credits.c:206
+msgid "Czech:"
+msgstr "Češčina:"
+
+#: src/mlplayer/credits.c:209
+msgid "Dutch:"
+msgstr "Nizozemščina:"
+
+#: src/mlplayer/credits.c:213
+msgid "Estonian:"
+msgstr "Estonščina:"
+
+#: src/mlplayer/credits.c:216
+msgid "Finnish:"
+msgstr "Finščina:"
+
+#: src/mlplayer/credits.c:221
+msgid "French:"
+msgstr "Francoščina:"
+
+#: src/mlplayer/credits.c:227
+msgid "German:"
+msgstr "Nemščina:"
+
+#: src/mlplayer/credits.c:234
+msgid "Georgian:"
+msgstr "Gruzijščina:"
+
+#: src/mlplayer/credits.c:237
+msgid "Greek:"
+msgstr "Grščina:"
+
+#: src/mlplayer/credits.c:242
+msgid "Hindi:"
+msgstr "Hindijščina:"
+
+#: src/mlplayer/credits.c:245
+msgid "Hungarian:"
+msgstr "Madžarščina:"
+
+#: src/mlplayer/credits.c:249
+msgid "Italian:"
+msgstr "Italijanščina:"
+
+#: src/mlplayer/credits.c:253
+msgid "Japanese:"
+msgstr "Japonščina:"
+
+#: src/mlplayer/credits.c:256
+msgid "Korean:"
+msgstr "Korejščina:"
+
+#: src/mlplayer/credits.c:259
+msgid "Latvian:"
+msgstr "Latvijščina:"
+
+#: src/mlplayer/credits.c:262
+msgid "Lithuanian:"
+msgstr "Litovščina:"
+
+#: src/mlplayer/credits.c:267
+msgid "Macedonian:"
+msgstr "Makedonščina:"
+
+#: src/mlplayer/credits.c:270
+msgid "Polish:"
+msgstr "Polščina:"
+
+#: src/mlplayer/credits.c:276
+msgid "Portuguese:"
+msgstr "Portugalščina:"
+
+#: src/mlplayer/credits.c:279
+msgid "Romanian:"
+msgstr "Romunščina:"
+
+#: src/mlplayer/credits.c:283
+msgid "Russian:"
+msgstr "Ruščina:"
+
+#: src/mlplayer/credits.c:287
+msgid "Serbian (Latin):"
+msgstr "Srbščina (latinsko):"
+
+#: src/mlplayer/credits.c:290
+msgid "Serbian (Cyrillic):"
+msgstr "Srbščina (cirilica):"
+
+#: src/mlplayer/credits.c:293
+msgid "Simplified Chinese:"
+msgstr "Poenostavljena kitajščina:"
+
+#: src/mlplayer/credits.c:296
+msgid "Slovak:"
+msgstr "Slovaščina:"
+
+#: src/mlplayer/credits.c:299
+msgid "Spanish:"
+msgstr "Španščina:"
+
+#: src/mlplayer/credits.c:306
+msgid "Swedish:"
+msgstr "Švedščina:"
+
+#: src/mlplayer/credits.c:309
+msgid "Traditional Chinese:"
+msgstr "Tradicionalna kitajščina:"
+
+#: src/mlplayer/credits.c:315
+msgid "Turkish:"
+msgstr "Turščina:"
+
+#: src/mlplayer/credits.c:319
+msgid "Ukrainian:"
+msgstr "Ukrajinščina:"
+
+#: src/mlplayer/credits.c:323
+msgid "Vietnamese:"
+msgstr "Vietnamščina:"
+
+#: src/mlplayer/credits.c:326
+msgid "Welsh:"
+msgstr "Valižanščina:"
+
+#: src/mlplayer/drct.c:234
+msgid "Temporary Playlist"
+msgstr "Začasni seznam predvajanja"
+
+#: src/mlplayer/equalizer_preset.c:186
+#, c-format
+msgid "Error importing Winamp EQF file '%s'"
+msgstr ""
+
+#: src/mlplayer/main.c:239
+msgid "Skip backwards in playlist"
+msgstr ""
+
+#: src/mlplayer/main.c:240
+msgid "Start playing current playlist"
+msgstr ""
+
+#: src/mlplayer/main.c:241
+msgid "Pause current song"
+msgstr ""
+
+#: src/mlplayer/main.c:242
+msgid "Stop current song"
+msgstr "Ustavi trenutno pesem"
+
+#: src/mlplayer/main.c:243
+msgid "Pause if playing, play otherwise"
+msgstr ""
+
+#: src/mlplayer/main.c:244
+msgid "Skip forward in playlist"
+msgstr ""
+
+#: src/mlplayer/main.c:245
+msgid "Display Jump to File dialog"
+msgstr ""
+
+#: src/mlplayer/main.c:246
+msgid "Add files to the playlist"
+msgstr ""
+
+#: src/mlplayer/main.c:247
+msgid "Add new files to a temporary playlist"
+msgstr ""
+
+#: src/mlplayer/main.c:248
+msgid "Display the main window"
+msgstr ""
+
+#: src/mlplayer/main.c:249
+msgid "Show version"
+msgstr "Prikaži različico"
+
+#: src/mlplayer/main.c:250
+msgid "Print debugging messages"
+msgstr ""
+
+#: src/mlplayer/main.c:251
+msgid "Headless mode (beta)"
+msgstr ""
+
+#: src/mlplayer/main.c:252
+msgid "FILE..."
+msgstr "DATOTEKA ..."
+
+#: src/mlplayer/main.c:264
+msgid "- play multimedia files"
+msgstr "- predvajaj večpredstavnostne datoteke"
+
+#: src/mlplayer/main.c:274
+#, c-format
+msgid ""
+"%s: %s\n"
+"Try `%s --help' for more information.\n"
+msgstr ""
+"%s: %s\n"
+"Poizkusi `%s --help' za več informacij.\n"
+
+#: src/mlplayer/main.c:547
+msgid "MLPlayer"
+msgstr "MLPlayer"
+
+#: src/mlplayer/playback.c:303
+#, c-format
+msgid "No decoder found for %s."
+msgstr ""
+
+#: src/mlplayer/playlist-new.c:315
+msgid "Untitled Playlist"
+msgstr "Neimenovan seznam predvajanja"
+
+#: src/mlplayer/playlist-new.c:1496
+msgid ""
+"The playlist cannot be sorted because metadata scanning is still in progress"
+" (or has been disabled)."
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:88
+msgid "Audio"
+msgstr "Zvok"
+
+#: src/mlplayer/ui_preferences.c:89
+msgid "Network"
+msgstr "Omrežje"
+
+#: src/mlplayer/ui_preferences.c:90 src/mlplayer/ui_preferences.c:1634
+msgid "Playlist"
+msgstr "Seznam predvajanja"
+
+#: src/mlplayer/ui_preferences.c:91
+msgid "Plugins"
+msgstr "Vtičniki"
+
+#: src/mlplayer/ui_preferences.c:97 src/libmlpgui/infopopup.c:203
+msgid "Artist"
+msgstr "Izvajalec"
+
+#: src/mlplayer/ui_preferences.c:98 src/libmlpgui/infopopup.c:205
+msgid "Album"
+msgstr "Album"
+
+#: src/mlplayer/ui_preferences.c:99 src/libmlpgui/infopopup.c:201
+#: src/libmlpgui/ui_playlist_manager.c:276
+msgid "Title"
+msgstr "Naslov"
+
+#: src/mlplayer/ui_preferences.c:100
+msgid "Tracknumber"
+msgstr "Št. skladbe"
+
+#: src/mlplayer/ui_preferences.c:101 src/libmlpgui/infopopup.c:207
+msgid "Genre"
+msgstr "Zvrst"
+
+#: src/mlplayer/ui_preferences.c:102
+msgid "Filename"
+msgstr "Ime datoteke"
+
+#: src/mlplayer/ui_preferences.c:103
+msgid "Filepath"
+msgstr "Pot datoteke"
+
+#: src/mlplayer/ui_preferences.c:104
+msgid "Date"
+msgstr "Datum"
+
+#: src/mlplayer/ui_preferences.c:105 src/libmlpgui/infopopup.c:209
+msgid "Year"
+msgstr "Leto"
+
+#: src/mlplayer/ui_preferences.c:106
+msgid "Comment"
+msgstr "Komentar"
+
+#: src/mlplayer/ui_preferences.c:107
+msgid "Codec"
+msgstr "Kodek"
+
+#: src/mlplayer/ui_preferences.c:108
+msgid "Quality"
+msgstr "Kvaliteta"
+
+#: src/mlplayer/ui_preferences.c:114
+msgid "None"
+msgstr "Ničesar"
+
+#: src/mlplayer/ui_preferences.c:115
+msgid "Arabic"
+msgstr "Arabščina"
+
+#: src/mlplayer/ui_preferences.c:116
+msgid "Baltic"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:117
+msgid "Chinese"
+msgstr "Kitajščina"
+
+#: src/mlplayer/ui_preferences.c:118
+msgid "Greek"
+msgstr "Grščina"
+
+#: src/mlplayer/ui_preferences.c:119
+msgid "Hebrew"
+msgstr "Hebrejščina"
+
+#: src/mlplayer/ui_preferences.c:120
+msgid "Japanese"
+msgstr "Japonščina"
+
+#: src/mlplayer/ui_preferences.c:121
+msgid "Korean"
+msgstr "Korejščina"
+
+#: src/mlplayer/ui_preferences.c:122
+msgid "Polish"
+msgstr "Polščina"
+
+#: src/mlplayer/ui_preferences.c:123
+msgid "Russian"
+msgstr "Ruščina"
+
+#: src/mlplayer/ui_preferences.c:124
+msgid "Taiwanese"
+msgstr "Tajvanščina"
+
+#: src/mlplayer/ui_preferences.c:125
+msgid "Turkish"
+msgstr "Turščina"
+
+#: src/mlplayer/ui_preferences.c:147
+msgid "Album mode"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:150
+msgid "<b>Output Settings</b>"
+msgstr "<b>Nastavitve odvoda</b>"
+
+#: src/mlplayer/ui_preferences.c:152
+msgid "Bit depth:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:155
+msgid "Buffer size:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:157
+msgid "ms"
+msgstr "ms"
+
+#: src/mlplayer/ui_preferences.c:158
+msgid "Use software volume control (not recommended)"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:160
+msgid "<b>Replay Gain</b>"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:161
+msgid "Enable Replay Gain"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:164
+msgid "Prevent clipping (recommended)"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:166
+msgid "<b>Adjust Levels</b>"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:167
+msgid "Amplify all files:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:169 src/mlplayer/ui_preferences.c:172
+msgid "dB"
+msgstr "dB"
+
+#: src/mlplayer/ui_preferences.c:170
+msgid "Amplify untagged files:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:175
+msgid "Proxy hostname:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:176
+msgid "Proxy port:"
+msgstr "Proxy vrata:"
+
+#: src/mlplayer/ui_preferences.c:179
+msgid "Proxy username:"
+msgstr "Proxy uporabniško ime:"
+
+#: src/mlplayer/ui_preferences.c:180
+msgid "Proxy password:"
+msgstr "Proxy geslo:"
+
+#: src/mlplayer/ui_preferences.c:184
+msgid "<b>Proxy Configuration</b>"
+msgstr "<b>Proxy konfiguracija</b>"
+
+#: src/mlplayer/ui_preferences.c:185
+msgid "Enable proxy usage"
+msgstr "Omogoči uporabi Proxy-ja"
+
+#: src/mlplayer/ui_preferences.c:188
+msgid "Use authentication with proxy"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:196
+msgid "Auto character encoding detector for:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:201
+msgid "Fallback character encodings:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:205
+msgid "<b>Behavior</b>"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:206
+msgid "Continue playback on startup"
+msgstr "Nadaljuj predvajanje ob zagonu programa"
+
+#: src/mlplayer/ui_preferences.c:208
+msgid "Advance when the current song is deleted"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:210
+msgid "Clear the playlist when opening files"
+msgstr "Počisti seznam predvajanja ob odpiranju datotek"
+
+#: src/mlplayer/ui_preferences.c:212
+msgid "Open files in a temporary playlist"
+msgstr "Odpri datoteke v začasnem seznamu predvajanja"
+
+#: src/mlplayer/ui_preferences.c:214
+msgid "<b>Metadata</b>"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:215
+msgid "Do not load metadata for songs until played"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:233
+msgid "TITLE"
+msgstr "NASLOV"
+
+#: src/mlplayer/ui_preferences.c:234
+msgid "ARTIST - TITLE"
+msgstr "IZVAJALEC - NASLOV"
+
+#: src/mlplayer/ui_preferences.c:235
+msgid "ARTIST - ALBUM - TITLE"
+msgstr "IZVAJALEC - ALBUM - NASLOV"
+
+#: src/mlplayer/ui_preferences.c:236
+msgid "ARTIST - ALBUM - TRACK. TITLE"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:237
+msgid "ARTIST [ ALBUM ] - TRACK. TITLE"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:238
+msgid "ALBUM - TITLE"
+msgstr "ALBUM - NASLOV"
+
+#: src/mlplayer/ui_preferences.c:577
+msgid "Category"
+msgstr "Kategorija"
+
+#: src/mlplayer/ui_preferences.c:801
+msgid "Popup Information Settings"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:810
+msgid "<b>Cover image retrieve</b>"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:815
+msgid ""
+"While searching for the album's cover, MLPlayer looks for certain words in "
+"the filename. You can specify those words in the lists below, separated "
+"using commas."
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:832
+msgid "Exclude:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:839
+msgid "Include:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:856
+msgid "Recursively search for cover"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:866
+msgid "Search depth: "
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:880
+msgid "Use per-file cover"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:883
+msgid "<b>Miscellaneous</b>"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:892
+msgid "Show Progress bar for the current track"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:902
+msgid "Delay until filepopup comes up: "
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1340
+msgid "Custom"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1383
+msgid "<b>Song Display</b>"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1392
+msgid "Show song numbers"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1403
+msgid "Show leading zeroes (02:00 instead of 2:00)"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1425
+msgid "Show information about titlestring format"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1441
+msgid "Custom string:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1448
+msgid "Title format:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1459
+msgid "<b>Popup Information</b>"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1474
+msgid "Show popup information for playlist entries"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1475
+msgid ""
+"Toggles popup information window for the pointed entry in the playlist. The "
+"window shows title of song, name of album, genre, year of publish, track "
+"number, track length, and artwork."
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1486
+msgid "Edit settings for popup information"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1575
+msgid "Output plugin:"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1634
+msgid "Transport"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1634
+msgid "Input"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1635
+msgid "Effect"
+msgstr "Efekti"
+
+#: src/mlplayer/ui_preferences.c:1635
+msgid "Visualization"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1635
+msgid "General"
+msgstr ""
+
+#: src/mlplayer/ui_preferences.c:1675
+msgid "MLPlayer Preferences"
+msgstr "Nastavitve MLPlayer"
+
+#: src/mlplayer/util.c:123
+#, c-format
+msgid "Could not create directory (%s): %s\n"
+msgstr ""
+
+#: src/mlptool/handlers_playlist.c:274
+msgid "Position not found."
+msgstr ""
+
+#: src/mlptool/handlers_vitals.c:64
+msgid "No song playing."
+msgstr "Nobena pesem se ne predvaja"
+
+#: src/libmlpcore/tuple.c:685
+msgid "Mono"
+msgstr "Mono"
+
+#: src/libmlpcore/tuple.c:687
+msgid "Stereo"
+msgstr "Stereo"
+
+#: src/libmlpcore/tuple.c:689
+#, c-format
+msgid "%d channel"
+msgid_plural "%d channels"
+msgstr[0] "%d kanal"
+msgstr[1] "%d kanala"
+msgstr[2] "%d kanali"
+msgstr[3] "%d kanalov"
+
+#: src/libmlpgui/confirm.c:78
+#, c-format
+msgid ""
+"Are you sure you want to close %s?  If you do, any changes made since the "
+"playlist was exported will be lost."
+msgstr ""
+
+#: src/libmlpgui/confirm.c:91
+msgid "_Don't show this message again"
+msgstr "_Ne prikaži več tega sporočila"
+
+#: src/libmlpgui/confirm.c:128
+msgid "Rename Playlist"
+msgstr "Preimenuj seznam predvajanja"
+
+#: src/libmlpgui/effects-menu.c:76
+msgid "settings ..."
+msgstr "nastavitve ..."
+
+#: src/libmlpgui/equalizer.c:52
+msgid "_Enable"
+msgstr "_Omogoči"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "31 Hz"
+msgstr "31 Hz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "63 Hz"
+msgstr "63 Hz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "125 Hz"
+msgstr "125 Hz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "250 Hz"
+msgstr "250 Hz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "500 Hz"
+msgstr "500 Hz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "1 kHz"
+msgstr "1 kHz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "2 kHz"
+msgstr "2 kHz"
+
+#: src/libmlpgui/equalizer.c:126
+msgid "4 kHz"
+msgstr "4 kHz"
+
+#: src/libmlpgui/equalizer.c:126
+msgid "8 kHz"
+msgstr "8 kHz"
+
+#: src/libmlpgui/equalizer.c:126
+msgid "16 kHz"
+msgstr "16 kHz"
+
+#: src/libmlpgui/equalizer.c:131
+msgid "Equalizer"
+msgstr ""
+
+#: src/libmlpgui/equalizer.c:147
+msgid "Preamp"
+msgstr ""
+
+#: src/libmlpgui/infopopup.c:211
+msgid "Track Number"
+msgstr "Številka skladbe"
+
+#: src/libmlpgui/infopopup.c:213
+msgid "Track Length"
+msgstr "Dolžina skladbe"
+
+#: src/libmlpgui/infowin.c:77
+msgid "Acid Jazz"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:78
+msgid "Acid Rock"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:79
+msgid "Ambient"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:80
+msgid "Bebop"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:81
+msgid "Bluegrass"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:82
+msgid "Blues"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:83
+msgid "Chamber Music"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:84
+msgid "Classical"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:85
+msgid "Country"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:86
+msgid "Death Metal"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:87
+msgid "Disco"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:88
+msgid "Easy Listening"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:89
+msgid "Folk"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:90
+msgid "Funk"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:91
+msgid "Gangsta Rap"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:92
+msgid "Gospel"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:93
+msgid "Grunge"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:94
+msgid "Hard Rock"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:95
+msgid "Heavy Metal"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:96
+msgid "Hip-hop"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:97
+msgid "House"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:98
+msgid "Jazz"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:99
+msgid "Jungle"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:100
+msgid "Metal"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:101
+msgid "New Age"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:102
+msgid "New Wave"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:103
+msgid "Noise"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:104
+msgid "Pop"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:105
+msgid "Punk Rock"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:106
+msgid "Rap"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:107
+msgid "Reggae"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:108
+msgid "Rock"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:109
+msgid "Rock and Roll"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:110
+msgid "Rhythm and Blues"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:111
+msgid "Ska"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:112
+msgid "Soul"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:113
+msgid "Swing"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:114
+msgid "Techno"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:115
+msgid "Trip-hop"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:175 src/libmlpgui/infowin.c:361
+#: src/libmlpgui/infowin.c:364 src/libmlpgui/infowin.c:367
+msgid "<span size=\"small\">n/a</span>"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:265
+msgid "Metadata updated successfully"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:270
+msgid "Metadata updating failed"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:318
+msgid "Track Information"
+msgstr "Podatk o skladbi"
+
+#: src/libmlpgui/infowin.c:350
+msgid "<span size=\"small\">Format:</span>"
+msgstr "<span size=\"small\">Format:</span>"
+
+#: src/libmlpgui/infowin.c:354
+msgid "<span size=\"small\">Quality:</span>"
+msgstr "<span size=\"small\">Kvaliteta:</span>"
+
+#: src/libmlpgui/infowin.c:357
+msgid "<span size=\"small\">Bitrate:</span>"
+msgstr ""
+
+#: src/libmlpgui/infowin.c:387
+msgid "<span size=\"small\">Title</span>"
+msgstr "<span size=\"small\">Naslov</span>"
+
+#: src/libmlpgui/infowin.c:399
+msgid "<span size=\"small\">Artist</span>"
+msgstr "<span size=\"small\">Izvajalec</span>"
+
+#: src/libmlpgui/infowin.c:411
+msgid "<span size=\"small\">Album</span>"
+msgstr "<span size=\"small\">Album</span>"
+
+#: src/libmlpgui/infowin.c:423
+msgid "<span size=\"small\">Comment</span>"
+msgstr "<span size=\"small\">Komentar</span>"
+
+#: src/libmlpgui/infowin.c:435
+msgid "<span size=\"small\">Genre</span>"
+msgstr "<span size=\"small\">Zvrst</span>"
+
+#: src/libmlpgui/infowin.c:456
+msgid "<span size=\"small\">Year</span>"
+msgstr "<span size=\"small\">Leto</span>"
+
+#: src/libmlpgui/infowin.c:467
+msgid "<span size=\"small\">Track Number</span>"
+msgstr "<span size=\"small\">Številka skladbe</span>"
+
+#: src/libmlpgui/infowin.c:549
+#, c-format
+msgid "%d kb/s"
+msgstr "%d kb/s"
+
+#: src/libmlpgui/infowin.c:579
+#, c-format
+msgid "No info available for %s.\n"
+msgstr ""
+
+#: src/libmlpgui/jump-to-time.c:75
+msgid "Jump to Time"
+msgstr ""
+
+#: src/libmlpgui/jump-to-time.c:90
+msgid "mm:ss"
+msgstr "mm:ss"
+
+#: src/libmlpgui/playlists.c:39
+msgid "Export Playlist"
+msgstr "Izvozi seznam predvajanja"
+
+#: src/libmlpgui/playlists.c:39
+msgid "Import Playlist"
+msgstr "Uvozi seznam predvajanja"
+
+#: src/libmlpgui/playlists.c:72
+#, c-format
+msgid "Overwrite %s?"
+msgstr ""
+
+#: src/libmlpgui/queue-manager.c:185
+msgid "Queue Manager"
+msgstr ""
+
+#: src/libmlpgui/ui_about.c:69
+msgid "About MLPlayer"
+msgstr "O MLPlayer"
+
+#: src/libmlpgui/ui_about.c:90 src/libmlpgui/ui_credits.c:122
+msgid "Credits"
+msgstr ""
+
+#: src/libmlpgui/ui_credits.c:126
+msgid "Translators"
+msgstr "Prevajalci"
+
+#: src/libmlpgui/ui_fileopener.c:109
+msgid "Open Files"
+msgstr "Odpri datoteke"
+
+#: src/libmlpgui/ui_fileopener.c:109
+msgid "Add Files"
+msgstr "Dodaj datoteke"
+
+#: src/libmlpgui/ui_fileopener.c:111
+msgid "Close dialog on Open"
+msgstr ""
+
+#: src/libmlpgui/ui_fileopener.c:111
+msgid "Close dialog on Add"
+msgstr ""
+
+#: src/libmlpgui/ui_jumptotrack.c:103 src/libmlpgui/ui_jumptotrack.c:111
+#: src/libmlpgui/ui_jumptotrack.c:322
+msgid "_Queue"
+msgstr ""
+
+#: src/libmlpgui/ui_jumptotrack.c:109
+msgid "Un_queue"
+msgstr ""
+
+#: src/libmlpgui/ui_jumptotrack.c:239
+msgid "Jump to Track"
+msgstr ""
+
+#: src/libmlpgui/ui_jumptotrack.c:277
+msgid "Filter: "
+msgstr ""
+
+#: src/libmlpgui/ui_jumptotrack.c:278
+msgid "_Filter:"
+msgstr ""
+
+#: src/libmlpgui/ui_jumptotrack.c:288
+msgid "Remember"
+msgstr ""
+
+#: src/libmlpgui/ui_jumptotrack.c:295
+msgid "Clea_r"
+msgstr ""
+
+#: src/libmlpgui/ui_jumptotrack.c:315
+msgid "Close on Jump"
+msgstr ""
+
+#: src/libmlpgui/ui_playlist_manager.c:250
+msgid "Playlist Manager"
+msgstr ""
+
+#: src/libmlpgui/ui_playlist_manager.c:277
+msgid "Entries"
+msgstr ""
+
+#: src/libmlpgui/ui_playlist_manager.c:298
+msgid "_Rename"
+msgstr ""
+
+#: src/libmlpgui/ui_playlist_manager.c:322
+msgid "_Close dialog on activating playlist"
+msgstr ""
+
+#: src/libmlpgui/ui_urlopener.c:51
+msgid "Open URL"
+msgstr ""
+
+#: src/libmlpgui/ui_urlopener.c:51
+msgid "Add URL"
+msgstr ""
+
+#: src/libmlpgui/util.c:95
+msgid ""
+"\n"
+"(Further messages have been hidden.)"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:165
+msgid "File is not a valid .desktop file"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:188
+#, c-format
+msgid "Unrecognized desktop file Version '%s'"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:967
+#, c-format
+msgid "Starting %s"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:1108
+msgid "Application does not accept documents on command line"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:1176
+#, c-format
+msgid "Unrecognized launch option: %d"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:1375
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr ""
+
+#: src/libeggsmclient/eggdesktopfile.c:1396
+msgid "Not a launchable item"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:226
+msgid "Disable connection to session manager"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:229
+msgid "Specify file containing saved configuration"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:229
+msgid "FILE"
+msgstr "DATOTEKA"
+
+#: src/libeggsmclient/eggsmclient.c:232
+msgid "Specify session management ID"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:232
+msgid "ID"
+msgstr "ID"
+
+#: src/libeggsmclient/eggsmclient.c:253
+msgid "Session management options:"
+msgstr ""
+
+#: src/libeggsmclient/eggsmclient.c:254
+msgid "Show session management options"
+msgstr ""
+
+

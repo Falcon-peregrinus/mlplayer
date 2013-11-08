@@ -1,0 +1,1220 @@
+# Estonian translation for MLPlayer
+# Copyright (C) MLPlayer translators
+# This file is distributed under the same license as the MLPlayer package.
+#
+# Translators:
+# Ivar Smolin <okul at linux ee>, 2007.
+# Ivar Smolin <okul@linux.ee>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: MLPlayer\n"
+"Report-Msgid-Bugs-To: http://redmine.mlplayer-media-player.org/\n"
+"POT-Creation-Date: 2012-01-11 08:54-0500\n"
+"PO-Revision-Date: 2012-04-21 04:05+0000\n"
+"Last-Translator: Ivar Smolin <okul@linux.ee>\n"
+"Language-Team: Estonian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: src/mlplayer/adder.c:77
+msgid "Searching ..."
+msgstr "Otsimine..."
+
+#: src/mlplayer/adder.c:113
+#, c-format
+msgid "%d file found"
+msgid_plural "%d files found"
+msgstr[0] "leiti %d fail"
+msgstr[1] "leiti %d faili"
+
+#: src/mlplayer/chardet.c:39
+msgid "  (invalid UTF-8)"
+msgstr "  (vigane UTF-8)"
+
+#: src/mlplayer/credits.c:37
+msgid "Core developers:"
+msgstr "Tuumikosa arendajad:"
+
+#: src/mlplayer/credits.c:51
+msgid "Graphics:"
+msgstr "Graafika:"
+
+#: src/mlplayer/credits.c:56
+msgid "Default skin:"
+msgstr "Vaikimisi rüü:"
+
+#: src/mlplayer/credits.c:62
+msgid "Plugin development:"
+msgstr "Pluginate arendus:"
+
+#: src/mlplayer/credits.c:85
+msgid "Patch authors:"
+msgstr "Paranduste autorid:"
+
+#: src/mlplayer/credits.c:131
+msgid "1.x developers:"
+msgstr "Versioonide 1.x arendajad:"
+
+#: src/mlplayer/credits.c:153
+msgid "BMP Developers:"
+msgstr "BMP arendajad"
+
+#: src/mlplayer/credits.c:185
+msgid "Belarusian:"
+msgstr "Valgevene:"
+
+#: src/mlplayer/credits.c:188
+msgid "Basque:"
+msgstr "Baski:"
+
+#: src/mlplayer/credits.c:191
+msgid "Brazilian Portuguese:"
+msgstr "Brasiilia portugali:"
+
+#: src/mlplayer/credits.c:196
+msgid "Breton:"
+msgstr "Bretooni:"
+
+#: src/mlplayer/credits.c:199
+msgid "Bulgarian:"
+msgstr "Bulgaaria:"
+
+#: src/mlplayer/credits.c:202
+msgid "Catalan:"
+msgstr "Katalaani:"
+
+#: src/mlplayer/credits.c:206
+msgid "Chinese:"
+msgstr "Hiina:"
+
+#: src/mlplayer/credits.c:209
+msgid "Croatian:"
+msgstr "Horvaatia:"
+
+#: src/mlplayer/credits.c:212
+msgid "Czech:"
+msgstr "Tšehhi:"
+
+#: src/mlplayer/credits.c:215
+msgid "Dutch:"
+msgstr "Hollandi:"
+
+#: src/mlplayer/credits.c:219
+msgid "Estonian:"
+msgstr "Eesti:"
+
+#: src/mlplayer/credits.c:222
+msgid "Finnish:"
+msgstr "Soome:"
+
+#: src/mlplayer/credits.c:227
+msgid "French:"
+msgstr "Prantsuse:"
+
+#: src/mlplayer/credits.c:233
+msgid "German:"
+msgstr "Saksa:"
+
+#: src/mlplayer/credits.c:240
+msgid "Georgian:"
+msgstr "Gruusia:"
+
+#: src/mlplayer/credits.c:243
+msgid "Greek:"
+msgstr "Kreeka:"
+
+#: src/mlplayer/credits.c:248
+msgid "Hindi:"
+msgstr "Hindi:"
+
+#: src/mlplayer/credits.c:251
+msgid "Hungarian:"
+msgstr "Ungari:"
+
+#: src/mlplayer/credits.c:255
+msgid "Italian:"
+msgstr "Itaalia:"
+
+#: src/mlplayer/credits.c:260
+msgid "Japanese:"
+msgstr "Jaapani:"
+
+#: src/mlplayer/credits.c:263
+msgid "Korean:"
+msgstr "Koera:"
+
+#: src/mlplayer/credits.c:266
+msgid "Latvian:"
+msgstr "Läti:"
+
+#: src/mlplayer/credits.c:269
+msgid "Lithuanian:"
+msgstr "Leedu:"
+
+#: src/mlplayer/credits.c:274
+msgid "Macedonian:"
+msgstr "Makedoonia:"
+
+#: src/mlplayer/credits.c:277
+msgid "Mexican Spanish:"
+msgstr "Mehhiko hispaania:"
+
+#: src/mlplayer/credits.c:280
+msgid "Polish:"
+msgstr "Poola:"
+
+#: src/mlplayer/credits.c:287
+msgid "Portuguese:"
+msgstr "Portugali:"
+
+#: src/mlplayer/credits.c:290
+msgid "Romanian:"
+msgstr "Rumeenia:"
+
+#: src/mlplayer/credits.c:294
+msgid "Russian:"
+msgstr "Vene:"
+
+#: src/mlplayer/credits.c:298
+msgid "Serbian (Latin):"
+msgstr "Serbia (ladina)"
+
+#: src/mlplayer/credits.c:301
+msgid "Serbian (Cyrillic):"
+msgstr "Serbia (kirillitsa)"
+
+#: src/mlplayer/credits.c:305
+msgid "Simplified Chinese:"
+msgstr "Hiina lihtsustatud:"
+
+#: src/mlplayer/credits.c:308
+msgid "Slovak:"
+msgstr "Slovaki:"
+
+#: src/mlplayer/credits.c:312
+msgid "Spanish:"
+msgstr "Hispaania:"
+
+#: src/mlplayer/credits.c:320
+msgid "Swedish:"
+msgstr "Rootsi:"
+
+#: src/mlplayer/credits.c:323
+msgid "Traditional Chinese:"
+msgstr "Hiina traditsiooniline:"
+
+#: src/mlplayer/credits.c:329
+msgid "Turkish:"
+msgstr "Türgi:"
+
+#: src/mlplayer/credits.c:333
+msgid "Ukrainian:"
+msgstr "Ukraina:"
+
+#: src/mlplayer/credits.c:338
+msgid "Vietnamese:"
+msgstr "Vietnami:"
+
+#: src/mlplayer/credits.c:341
+msgid "Welsh:"
+msgstr "Kõmri:"
+
+#: src/mlplayer/equalizer_preset.c:180
+#, c-format
+msgid "Error importing Winamp EQF file '%s'"
+msgstr "Viga Winampi EQF-faili '%s' importimisel"
+
+#: src/mlplayer/main.c:243
+msgid "Skip backwards in playlist"
+msgstr "Esitusnimekirjas eelmisele loole hüppamine"
+
+#: src/mlplayer/main.c:244
+msgid "Start playing current playlist"
+msgstr "Praeguse esitusnimekirja esitamise alustamine"
+
+#: src/mlplayer/main.c:245
+msgid "Pause current song"
+msgstr "Praeguse loo pausimine"
+
+#: src/mlplayer/main.c:246
+msgid "Stop current song"
+msgstr "Praeguse loo seiskamine"
+
+#: src/mlplayer/main.c:247
+msgid "Pause if playing, play otherwise"
+msgstr "Esitamise korral pausimine, pausi korral esitamine"
+
+#: src/mlplayer/main.c:248
+msgid "Skip forward in playlist"
+msgstr "Esitusnimekirjas järgmisele loole hüppamine"
+
+#: src/mlplayer/main.c:249
+msgid "Display Jump to File dialog"
+msgstr "Failile hüppamise dialoogi kuvamine"
+
+#: src/mlplayer/main.c:250
+msgid "Add files to the playlist"
+msgstr "Failide lisamine esitusnimekirja"
+
+#: src/mlplayer/main.c:251
+msgid "Add new files to a temporary playlist"
+msgstr "Uute failide lisamine ajutisse esitusnimekirja"
+
+#: src/mlplayer/main.c:252
+msgid "Display the main window"
+msgstr "Peaakna kuvamine"
+
+#: src/mlplayer/main.c:253
+msgid "Show version"
+msgstr "Versiooni näitamine"
+
+#: src/mlplayer/main.c:254
+msgid "Print debugging messages"
+msgstr "Silumisteadete väljastamine"
+
+#: src/mlplayer/main.c:255
+msgid "Headless mode (beta)"
+msgstr "Akendeta režiim (beeta)"
+
+#: src/mlplayer/main.c:256
+msgid "FILE..."
+msgstr "FAIL..."
+
+#: src/mlplayer/main.c:268
+msgid "- play multimedia files"
+msgstr "- multimeediafailide esitamine"
+
+#: src/mlplayer/main.c:278
+#, c-format
+msgid ""
+"%s: %s\n"
+"Try `%s --help' for more information.\n"
+msgstr "%s: %s\nTäiendava teabe saamiseks proovi `%s --help'.\n"
+
+#: src/mlplayer/main.c:573
+msgid "MLPlayer"
+msgstr "MLPlayer"
+
+#: src/mlplayer/playback.c:307
+#, c-format
+msgid "No decoder found for %s."
+msgstr "Failile %s ei leitud dekoodrit."
+
+#: src/mlplayer/playlist-files.c:53
+#, c-format
+msgid "Cannot %s %s: unsupported file extension."
+msgstr "Faili %2$s %1$s pole võimalik: faili laiend pole toetatud"
+
+#: src/mlplayer/playlist-files.c:54
+msgid "save"
+msgstr "salvestamine"
+
+#: src/mlplayer/playlist-files.c:54
+msgid "load"
+msgstr "laadimine"
+
+#: src/mlplayer/playlist-new.c:131
+msgid "New Playlist"
+msgstr "Uus esitusnimekiri"
+
+#: src/mlplayer/playlist-new.c:132
+msgid "Now Playing"
+msgstr "Praegu esitamisel"
+
+#: src/mlplayer/playlist-new.c:1630
+msgid ""
+"The playlist cannot be sorted because metadata scanning is still in progress"
+" (or has been disabled)."
+msgstr "Esitusnimekirja sortimine pole võimalik, kuna metaandmete laadimine on pooleli (või keelatud)."
+
+#: src/mlplayer/ui_preferences.c:85
+msgid "Audio"
+msgstr "Audio"
+
+#: src/mlplayer/ui_preferences.c:86
+msgid "Network"
+msgstr "Võrk"
+
+#: src/mlplayer/ui_preferences.c:87 src/mlplayer/ui_preferences.c:1603
+msgid "Playlist"
+msgstr "Esitusnimekiri"
+
+#: src/mlplayer/ui_preferences.c:88
+msgid "Plugins"
+msgstr "Pluginad"
+
+#: src/mlplayer/ui_preferences.c:94 src/libmlpgui/infopopup.c:199
+msgid "Artist"
+msgstr "Esitaja"
+
+#: src/mlplayer/ui_preferences.c:95 src/libmlpgui/infopopup.c:201
+msgid "Album"
+msgstr "Album"
+
+#: src/mlplayer/ui_preferences.c:96 src/libmlpgui/infopopup.c:197
+#: src/libmlpgui/ui_playlist_manager.c:279
+msgid "Title"
+msgstr "Pealkiri"
+
+#: src/mlplayer/ui_preferences.c:97
+msgid "Tracknumber"
+msgstr "Loo number"
+
+#: src/mlplayer/ui_preferences.c:98 src/libmlpgui/infopopup.c:203
+msgid "Genre"
+msgstr "Žanr"
+
+#: src/mlplayer/ui_preferences.c:99
+msgid "Filename"
+msgstr "Failinimi"
+
+#: src/mlplayer/ui_preferences.c:100
+msgid "Filepath"
+msgstr "Faili rada"
+
+#: src/mlplayer/ui_preferences.c:101
+msgid "Date"
+msgstr "Kuupäev"
+
+#: src/mlplayer/ui_preferences.c:102 src/libmlpgui/infopopup.c:205
+msgid "Year"
+msgstr "Aasta"
+
+#: src/mlplayer/ui_preferences.c:103
+msgid "Comment"
+msgstr "Kommentaar"
+
+#: src/mlplayer/ui_preferences.c:104
+msgid "Codec"
+msgstr "Koodek"
+
+#: src/mlplayer/ui_preferences.c:105
+msgid "Quality"
+msgstr "Kvaliteet"
+
+#: src/mlplayer/ui_preferences.c:111
+msgid "None"
+msgstr "Puudub"
+
+#: src/mlplayer/ui_preferences.c:112
+msgid "Arabic"
+msgstr "Araabia"
+
+#: src/mlplayer/ui_preferences.c:113
+msgid "Baltic"
+msgstr "Balti"
+
+#: src/mlplayer/ui_preferences.c:114
+msgid "Chinese"
+msgstr "Hiina"
+
+#: src/mlplayer/ui_preferences.c:115
+msgid "Greek"
+msgstr "Kreeka"
+
+#: src/mlplayer/ui_preferences.c:116
+msgid "Hebrew"
+msgstr "Heebrea"
+
+#: src/mlplayer/ui_preferences.c:117
+msgid "Japanese"
+msgstr "Jaapani"
+
+#: src/mlplayer/ui_preferences.c:118
+msgid "Korean"
+msgstr "Korea"
+
+#: src/mlplayer/ui_preferences.c:119
+msgid "Polish"
+msgstr "Poola"
+
+#: src/mlplayer/ui_preferences.c:120
+msgid "Russian"
+msgstr "Vene"
+
+#: src/mlplayer/ui_preferences.c:121
+msgid "Taiwanese"
+msgstr "Taivani"
+
+#: src/mlplayer/ui_preferences.c:122
+msgid "Turkish"
+msgstr "Türgi"
+
+#: src/mlplayer/ui_preferences.c:144
+msgid "Album mode"
+msgstr "Albumi kaupa"
+
+#: src/mlplayer/ui_preferences.c:147
+msgid "<b>Output Settings</b>"
+msgstr "<b>Väljundi sätted</b>"
+
+#: src/mlplayer/ui_preferences.c:149
+msgid "Bit depth:"
+msgstr "Bitisügavus:"
+
+#: src/mlplayer/ui_preferences.c:152
+msgid "Buffer size:"
+msgstr "Puhvri suurus:"
+
+#: src/mlplayer/ui_preferences.c:154
+msgid "ms"
+msgstr "ms"
+
+#: src/mlplayer/ui_preferences.c:155
+msgid "Use software volume control (not recommended)"
+msgstr "Tarkvaraline valjuse juhtimine (pole soovitatav)"
+
+#: src/mlplayer/ui_preferences.c:157
+msgid "<b>Replay Gain</b>"
+msgstr "<b>Helitugevuse korrektsioon</b>"
+
+#: src/mlplayer/ui_preferences.c:158
+msgid "Enable Replay Gain"
+msgstr "Helitugevuse korrektsioon on lubatud"
+
+#: src/mlplayer/ui_preferences.c:161
+msgid "Prevent clipping (recommended)"
+msgstr "Hoidutakse kärpimisest (soovitatav)"
+
+#: src/mlplayer/ui_preferences.c:163
+msgid "<b>Adjust Levels</b>"
+msgstr "<b>Valjuse kohendamine</b>"
+
+#: src/mlplayer/ui_preferences.c:164
+msgid "Amplify all files:"
+msgstr "Kõikide failide võimendamine:"
+
+#: src/mlplayer/ui_preferences.c:166 src/mlplayer/ui_preferences.c:169
+msgid "dB"
+msgstr "dB"
+
+#: src/mlplayer/ui_preferences.c:167
+msgid "Amplify untagged files:"
+msgstr "Sildistamata failide võimendamine:"
+
+#: src/mlplayer/ui_preferences.c:172
+msgid "Proxy hostname:"
+msgstr "Proksi hostinimi:"
+
+#: src/mlplayer/ui_preferences.c:173
+msgid "Proxy port:"
+msgstr "Proksi port:"
+
+#: src/mlplayer/ui_preferences.c:176
+msgid "Proxy username:"
+msgstr "Proksi kasutajanimi:"
+
+#: src/mlplayer/ui_preferences.c:177
+msgid "Proxy password:"
+msgstr "Proksi parool:"
+
+#: src/mlplayer/ui_preferences.c:181
+msgid "<b>Proxy Configuration</b>"
+msgstr "<b>Proksi sätted</b>"
+
+#: src/mlplayer/ui_preferences.c:182
+msgid "Enable proxy usage"
+msgstr "Proksi kasutamine on lubatud"
+
+#: src/mlplayer/ui_preferences.c:185
+msgid "Use authentication with proxy"
+msgstr "Proksi kasutatab autentimist"
+
+#: src/mlplayer/ui_preferences.c:193
+msgid "Auto character encoding detector for:"
+msgstr "Automaatne kooditabeli tuvastaja:"
+
+#: src/mlplayer/ui_preferences.c:198
+msgid "Fallback character encodings:"
+msgstr "Kooditabelite tagavara:"
+
+#: src/mlplayer/ui_preferences.c:202
+msgid "<b>Behavior</b>"
+msgstr "<b>Käitumine</b>"
+
+#: src/mlplayer/ui_preferences.c:203
+msgid "Continue playback on startup"
+msgstr "Käivitamisel jätkatakse esitamist"
+
+#: src/mlplayer/ui_preferences.c:205
+msgid "Advance when the current song is deleted"
+msgstr "Esitatava loo kustutamisel hakatakse järgmist lugu esitama"
+
+#: src/mlplayer/ui_preferences.c:207
+msgid "Clear the playlist when opening files"
+msgstr "Failide avamisel tühjendatakse esitusnimekiri"
+
+#: src/mlplayer/ui_preferences.c:209
+msgid "Open files in a temporary playlist"
+msgstr "Failid avatakse ajutises esitusnimekirjas"
+
+#: src/mlplayer/ui_preferences.c:211
+msgid "<b>Metadata</b>"
+msgstr "<b>Metaandmed</b>"
+
+#: src/mlplayer/ui_preferences.c:212
+msgid "Do not load metadata for songs until played"
+msgstr "Loo metaandmeid enne esitamist ei laadita"
+
+#: src/mlplayer/ui_preferences.c:230
+msgid "TITLE"
+msgstr "PEALKIRI"
+
+#: src/mlplayer/ui_preferences.c:231
+msgid "ARTIST - TITLE"
+msgstr "ESITAJA - PEALKIRI"
+
+#: src/mlplayer/ui_preferences.c:232
+msgid "ARTIST - ALBUM - TITLE"
+msgstr "ESITAJA - ALBUM - PEALKIRI"
+
+#: src/mlplayer/ui_preferences.c:233
+msgid "ARTIST - ALBUM - TRACK. TITLE"
+msgstr "ESITAJA - ALBUM - RADA. PEALKIRI"
+
+#: src/mlplayer/ui_preferences.c:234
+msgid "ARTIST [ ALBUM ] - TRACK. TITLE"
+msgstr "ESITAJA [ALBUM] - RADA. PEALKIRI"
+
+#: src/mlplayer/ui_preferences.c:235
+msgid "ALBUM - TITLE"
+msgstr "ALBUM - PEALKIRI"
+
+#: src/mlplayer/ui_preferences.c:556
+msgid "Category"
+msgstr "Kategooria"
+
+#: src/mlplayer/ui_preferences.c:780
+msgid "Popup Information Settings"
+msgstr "Hüpikandmete sätted"
+
+#: src/mlplayer/ui_preferences.c:789
+msgid "<b>Cover image retrieve</b>"
+msgstr "<b>Kaanepildi hankimine</b>"
+
+#: src/mlplayer/ui_preferences.c:794
+msgid ""
+"While searching for the album's cover, MLPlayer looks for certain words in "
+"the filename. You can specify those words in the lists below, separated "
+"using commas."
+msgstr "Albumi kaanepildi otsimise käigus otsib MLPlayer failinimedest eelnevalt kindlaksmääratud sõnu. Neid sõnu on võimalik allpool olevate nimekirjade abil määrata, eraldades sõnad üksteisest komadega."
+
+#: src/mlplayer/ui_preferences.c:811
+msgid "Exclude:"
+msgstr "Välistatud:"
+
+#: src/mlplayer/ui_preferences.c:818
+msgid "Include:"
+msgstr "Kaasatud:"
+
+#: src/mlplayer/ui_preferences.c:835
+msgid "Recursively search for cover"
+msgstr "Kaanepilti otsitakse sügavuti"
+
+#: src/mlplayer/ui_preferences.c:845
+msgid "Search depth: "
+msgstr "Otsingu sügavus: "
+
+#: src/mlplayer/ui_preferences.c:859
+msgid "Use per-file cover"
+msgstr "Kasutatakse failipõhist kaanepilti"
+
+#: src/mlplayer/ui_preferences.c:862
+msgid "<b>Miscellaneous</b>"
+msgstr "<b>Muu</b>"
+
+#: src/mlplayer/ui_preferences.c:871
+msgid "Show Progress bar for the current track"
+msgstr "Esitatava loo kohta näidatakse edenemisriba"
+
+#: src/mlplayer/ui_preferences.c:881
+msgid "Delay until filepopup comes up: "
+msgstr "Viivitus enne hüpikakna avanemist: "
+
+#: src/mlplayer/ui_preferences.c:1309
+msgid "Custom"
+msgstr "Kohandatud"
+
+#: src/mlplayer/ui_preferences.c:1352
+msgid "<b>Song Display</b>"
+msgstr "<b>Loo kuvamine</b>"
+
+#: src/mlplayer/ui_preferences.c:1361
+msgid "Show song numbers"
+msgstr "Näidatakse lugude numbreid"
+
+#: src/mlplayer/ui_preferences.c:1372
+msgid "Show leading zeroes (02:00 instead of 2:00)"
+msgstr "Alguses näidatakse nulle (2:00 asemel näidatakse 02:00)"
+
+#: src/mlplayer/ui_preferences.c:1394
+msgid "Show information about titlestring format"
+msgstr "Pealkirjastringi vormingu kohta andmete näitamine"
+
+#: src/mlplayer/ui_preferences.c:1410
+msgid "Custom string:"
+msgstr "Kohandatud string:"
+
+#: src/mlplayer/ui_preferences.c:1417
+msgid "Title format:"
+msgstr "Pealkirja vorming:"
+
+#: src/mlplayer/ui_preferences.c:1428
+msgid "<b>Popup Information</b>"
+msgstr "<b>Teabe hüpikaken</b>"
+
+#: src/mlplayer/ui_preferences.c:1443
+msgid "Show popup information for playlist entries"
+msgstr "Hüpikaknas näidatakse andmeid esitusnimekirja kirjete kohta"
+
+#: src/mlplayer/ui_preferences.c:1444
+msgid ""
+"Toggles popup information window for the pointed entry in the playlist. The "
+"window shows title of song, name of album, genre, year of publish, track "
+"number, track length, and artwork."
+msgstr "Teabe hüpikakna sisse- või väljalülitamine. Seda hüpikakent kuvatakse, kui hoida hiirekursorit esitusnimekirjas oleva loo kohal ja selles aknas kuvatakse andmeid loo pealkirja, numbri ja pikkuse; albumi nime, žanri, ja avaldamise aasta; ning kaanepildi kohta."
+
+#: src/mlplayer/ui_preferences.c:1455
+msgid "Edit settings for popup information"
+msgstr "Andmete hüpikakna sätete muutmine"
+
+#: src/mlplayer/ui_preferences.c:1544
+msgid "Output plugin:"
+msgstr "Väljundplugin:"
+
+#: src/mlplayer/ui_preferences.c:1603
+msgid "Transport"
+msgstr "Transport"
+
+#: src/mlplayer/ui_preferences.c:1603
+msgid "Input"
+msgstr "Sisend"
+
+#: src/mlplayer/ui_preferences.c:1604
+msgid "Effect"
+msgstr "Efekt"
+
+#: src/mlplayer/ui_preferences.c:1604
+msgid "Visualization"
+msgstr "Visualiseerimine"
+
+#: src/mlplayer/ui_preferences.c:1604
+msgid "General"
+msgstr "Üldine"
+
+#: src/mlplayer/ui_preferences.c:1644
+msgid "MLPlayer Preferences"
+msgstr "MLPlayere eelistused"
+
+#: src/mlplayer/util.c:120
+#, c-format
+msgid "Could not create directory (%s): %s\n"
+msgstr "Kataloogi pole võimalik luua (%s): %s\n"
+
+#: src/mlptool/handlers_playlist.c:273
+msgid "Position not found."
+msgstr "Asukohta ei leitud."
+
+#: src/mlptool/handlers_vitals.c:63
+msgid "No song playing."
+msgstr "Hetkel ei esitata ühtegi lugu."
+
+#: src/libmlpcore/mlpstrings.c:199
+#, c-format
+msgid "Audio CD, track %s"
+msgstr "Audio-CD, lugu %s"
+
+#: src/libmlpcore/tuple.c:536
+msgid "Mono"
+msgstr "Mono"
+
+#: src/libmlpcore/tuple.c:538
+msgid "Stereo"
+msgstr "Stereo"
+
+#: src/libmlpcore/tuple.c:540
+#, c-format
+msgid "%d channel"
+msgid_plural "%d channels"
+msgstr[0] "%d kanal"
+msgstr[1] "%d kanalit"
+
+#: src/libmlpgui/about.c:52 src/libmlpgui/about.c:115
+msgid "Credits"
+msgstr "Autorid"
+
+#: src/libmlpgui/about.c:52
+msgid "Translators"
+msgstr "Tõlkijad"
+
+#: src/libmlpgui/about.c:91
+msgid "About MLPlayer"
+msgstr "MLPlayer'est lähemalt"
+
+#: src/libmlpgui/confirm.c:76
+#, c-format
+msgid ""
+"Are you sure you want to close %s?  If you do, any changes made since the "
+"playlist was exported will be lost."
+msgstr "Kas soovid sulgeda esitusnimekirja \"%s\"?  Kõik pärast nimekirja viimast eksportimist tehtud muutused lähevad kaotsi."
+
+#: src/libmlpgui/confirm.c:89
+msgid "_Don't show this message again"
+msgstr "Seda teadet rohkem ei _näidata"
+
+#: src/libmlpgui/confirm.c:126
+msgid "Rename Playlist"
+msgstr "Esitusnimekirja nime muutmine"
+
+#: src/libmlpgui/effects-menu.c:74
+msgid "settings ..."
+msgstr "sätted..."
+
+#: src/libmlpgui/equalizer.c:51
+msgid "_Enable"
+msgstr "_Lubatud"
+
+#: src/libmlpgui/equalizer.c:123
+msgid "31 Hz"
+msgstr "31 Hz"
+
+#: src/libmlpgui/equalizer.c:123
+msgid "63 Hz"
+msgstr "63 Hz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "125 Hz"
+msgstr "125 Hz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "250 Hz"
+msgstr "250 Hz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "500 Hz"
+msgstr "500 Hz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "1 kHz"
+msgstr "1 kHz"
+
+#: src/libmlpgui/equalizer.c:124
+msgid "2 kHz"
+msgstr "2 kHz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "4 kHz"
+msgstr "4 kHz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "8 kHz"
+msgstr "8 kHz"
+
+#: src/libmlpgui/equalizer.c:125
+msgid "16 kHz"
+msgstr "16 kHz"
+
+#: src/libmlpgui/equalizer.c:130
+msgid "Equalizer"
+msgstr "Ekvalaiser"
+
+#: src/libmlpgui/equalizer.c:146
+msgid "Preamp"
+msgstr "Eelmoonutus"
+
+#: src/libmlpgui/infopopup.c:207
+msgid "Track Number"
+msgstr "Loo number"
+
+#: src/libmlpgui/infopopup.c:209
+msgid "Track Length"
+msgstr "Loo kestus"
+
+#: src/libmlpgui/infowin.c:75
+msgid "Acid Jazz"
+msgstr "Acid Jazz"
+
+#: src/libmlpgui/infowin.c:76
+msgid "Acid Rock"
+msgstr "Acid Rock"
+
+#: src/libmlpgui/infowin.c:77
+msgid "Ambient"
+msgstr "Ambient"
+
+#: src/libmlpgui/infowin.c:78
+msgid "Bebop"
+msgstr "Bebop"
+
+#: src/libmlpgui/infowin.c:79
+msgid "Bluegrass"
+msgstr "Bluegrass"
+
+#: src/libmlpgui/infowin.c:80
+msgid "Blues"
+msgstr "Bluus"
+
+#: src/libmlpgui/infowin.c:81
+msgid "Chamber Music"
+msgstr "Kammermuusika"
+
+#: src/libmlpgui/infowin.c:82
+msgid "Classical"
+msgstr "Klassikaline"
+
+#: src/libmlpgui/infowin.c:83
+msgid "Country"
+msgstr "Kantri"
+
+#: src/libmlpgui/infowin.c:84
+msgid "Death Metal"
+msgstr "Death Metal"
+
+#: src/libmlpgui/infowin.c:85
+msgid "Disco"
+msgstr "Disko"
+
+#: src/libmlpgui/infowin.c:86
+msgid "Easy Listening"
+msgstr "Ajaviitemuusika"
+
+#: src/libmlpgui/infowin.c:87
+msgid "Folk"
+msgstr "Folk"
+
+#: src/libmlpgui/infowin.c:88
+msgid "Funk"
+msgstr "Funk"
+
+#: src/libmlpgui/infowin.c:89
+msgid "Gangsta Rap"
+msgstr "Gangsta Rap"
+
+#: src/libmlpgui/infowin.c:90
+msgid "Gospel"
+msgstr "Gospel"
+
+#: src/libmlpgui/infowin.c:91
+msgid "Grunge"
+msgstr "Grunge"
+
+#: src/libmlpgui/infowin.c:92
+msgid "Hard Rock"
+msgstr "Raske rokk"
+
+#: src/libmlpgui/infowin.c:93
+msgid "Heavy Metal"
+msgstr "Heavy Metal"
+
+#: src/libmlpgui/infowin.c:94
+msgid "Hip-hop"
+msgstr "Hip-hop"
+
+#: src/libmlpgui/infowin.c:95
+msgid "House"
+msgstr "House"
+
+#: src/libmlpgui/infowin.c:96
+msgid "Jazz"
+msgstr "Džäss"
+
+#: src/libmlpgui/infowin.c:97
+msgid "Jungle"
+msgstr "Jungle"
+
+#: src/libmlpgui/infowin.c:98
+msgid "Metal"
+msgstr "Metal"
+
+#: src/libmlpgui/infowin.c:99
+msgid "New Age"
+msgstr "New Age"
+
+#: src/libmlpgui/infowin.c:100
+msgid "New Wave"
+msgstr "New Wave"
+
+#: src/libmlpgui/infowin.c:101
+msgid "Noise"
+msgstr "Müra"
+
+#: src/libmlpgui/infowin.c:102
+msgid "Pop"
+msgstr "Pop"
+
+#: src/libmlpgui/infowin.c:103
+msgid "Punk Rock"
+msgstr "Punkrokk"
+
+#: src/libmlpgui/infowin.c:104
+msgid "Rap"
+msgstr "Räpp"
+
+#: src/libmlpgui/infowin.c:105
+msgid "Reggae"
+msgstr "Rege"
+
+#: src/libmlpgui/infowin.c:106
+msgid "Rock"
+msgstr "Rokk"
+
+#: src/libmlpgui/infowin.c:107
+msgid "Rock and Roll"
+msgstr "Rock & Roll"
+
+#: src/libmlpgui/infowin.c:108
+msgid "Rhythm and Blues"
+msgstr "Rütmibluus"
+
+#: src/libmlpgui/infowin.c:109
+msgid "Ska"
+msgstr "Ska"
+
+#: src/libmlpgui/infowin.c:110
+msgid "Soul"
+msgstr "Soul"
+
+#: src/libmlpgui/infowin.c:111
+msgid "Swing"
+msgstr "Sving"
+
+#: src/libmlpgui/infowin.c:112
+msgid "Techno"
+msgstr "Tehno"
+
+#: src/libmlpgui/infowin.c:113
+msgid "Trip-hop"
+msgstr "Trip-hop"
+
+#: src/libmlpgui/infowin.c:177 src/libmlpgui/infowin.c:363
+#: src/libmlpgui/infowin.c:366 src/libmlpgui/infowin.c:369
+msgid "<span size=\"small\">n/a</span>"
+msgstr "<span size=\"small\">puudub</span>"
+
+#: src/libmlpgui/infowin.c:267
+msgid "Metadata updated successfully"
+msgstr "Metaandmed edukalt uuendatud"
+
+#: src/libmlpgui/infowin.c:272
+msgid "Metadata updating failed"
+msgstr "Metaandmete uuendamine nurjus"
+
+#: src/libmlpgui/infowin.c:320
+msgid "Track Information"
+msgstr "Loo andmed"
+
+#: src/libmlpgui/infowin.c:352
+msgid "<span size=\"small\">Format:</span>"
+msgstr "<span size=\"small\">Vorming:</span>"
+
+#: src/libmlpgui/infowin.c:356
+msgid "<span size=\"small\">Quality:</span>"
+msgstr "<span size=\"small\">Kvaliteet:</span>"
+
+#: src/libmlpgui/infowin.c:359
+msgid "<span size=\"small\">Bitrate:</span>"
+msgstr "<span size=\"small\">Bitikiirus:</span>"
+
+#: src/libmlpgui/infowin.c:389
+msgid "<span size=\"small\">Title</span>"
+msgstr "<span size=\"small\">Pealkiri</span>"
+
+#: src/libmlpgui/infowin.c:401
+msgid "<span size=\"small\">Artist</span>"
+msgstr "<span size=\"small\">Esitaja</span>"
+
+#: src/libmlpgui/infowin.c:413
+msgid "<span size=\"small\">Album</span>"
+msgstr "<span size=\"small\">Album</span>"
+
+#: src/libmlpgui/infowin.c:425
+msgid "<span size=\"small\">Comment</span>"
+msgstr "<span size=\"small\">Kommentaar</span>"
+
+#: src/libmlpgui/infowin.c:437
+msgid "<span size=\"small\">Genre</span>"
+msgstr "<span size=\"small\">Žanr</span>"
+
+#: src/libmlpgui/infowin.c:458
+msgid "<span size=\"small\">Year</span>"
+msgstr "<span size=\"small\">Aasta</span>"
+
+#: src/libmlpgui/infowin.c:469
+msgid "<span size=\"small\">Track Number</span>"
+msgstr "<span size=\"small\">Loo number</span>"
+
+#: src/libmlpgui/infowin.c:548
+#, c-format
+msgid "%d kb/s"
+msgstr "%d kb/s"
+
+#: src/libmlpgui/infowin.c:575
+#, c-format
+msgid "No info available for %s.\n"
+msgstr "Faili %s kohta puuduvad andmed.\n"
+
+#: src/libmlpgui/jump-to-time.c:72
+msgid "Jump to Time"
+msgstr "Ajahetkele hüppamine"
+
+#: src/libmlpgui/jump-to-time.c:87
+msgid "mm:ss"
+msgstr "mm:ss"
+
+#: src/libmlpgui/playlists.c:33
+msgid "Export Playlist"
+msgstr "Esitusnimekirja eksportimine"
+
+#: src/libmlpgui/playlists.c:33
+msgid "Import Playlist"
+msgstr "Esitusnimekirja importimine"
+
+#: src/libmlpgui/playlists.c:66
+#, c-format
+msgid "Overwrite %s?"
+msgstr "Kas kirjutada fail %s üle?"
+
+#: src/libmlpgui/queue-manager.c:196
+msgid "Queue Manager"
+msgstr "Esitusjärjekorra haldamine"
+
+#: src/libmlpgui/ui_fileopener.c:109
+msgid "Open Files"
+msgstr "Failide avamine"
+
+#: src/libmlpgui/ui_fileopener.c:109
+msgid "Add Files"
+msgstr "Failide lisamine"
+
+#: src/libmlpgui/ui_fileopener.c:111
+msgid "Close dialog on Open"
+msgstr "Dialoog suletakse pärast faili avamist"
+
+#: src/libmlpgui/ui_fileopener.c:111
+msgid "Close dialog on Add"
+msgstr "Dialoog suletakse pärast faili lisamist"
+
+#: src/libmlpgui/ui_jumptotrack.c:109 src/libmlpgui/ui_jumptotrack.c:117
+#: src/libmlpgui/ui_jumptotrack.c:326
+msgid "_Queue"
+msgstr "Pane _järjekorda"
+
+#: src/libmlpgui/ui_jumptotrack.c:115
+msgid "Un_queue"
+msgstr "Eemalda _järjekorrast"
+
+#: src/libmlpgui/ui_jumptotrack.c:258
+msgid "Jump to Song"
+msgstr "Loo vahetamine"
+
+#: src/libmlpgui/ui_jumptotrack.c:281
+msgid "Filter: "
+msgstr "Filter: "
+
+#: src/libmlpgui/ui_jumptotrack.c:282
+msgid "_Filter:"
+msgstr "_Filter:"
+
+#: src/libmlpgui/ui_jumptotrack.c:292
+msgid "Remember"
+msgstr "Jätetakse meelde"
+
+#: src/libmlpgui/ui_jumptotrack.c:299
+msgid "Clea_r"
+msgstr "_Puhasta"
+
+#: src/libmlpgui/ui_jumptotrack.c:319
+msgid "Close on Jump"
+msgstr "Pärast loo vahetust suletakse aken"
+
+#: src/libmlpgui/ui_playlist_manager.c:253
+msgid "Playlist Manager"
+msgstr "Esitusnimekirjade haldur"
+
+#: src/libmlpgui/ui_playlist_manager.c:280
+msgid "Entries"
+msgstr "Kirjeid"
+
+#: src/libmlpgui/ui_playlist_manager.c:301
+msgid "_Rename"
+msgstr "_Muuda nime"
+
+#: src/libmlpgui/ui_playlist_manager.c:325
+msgid "_Close dialog on activating playlist"
+msgstr "Esitusnimekirja _aktiveerimisel dialoog suletakse"
+
+#: src/libmlpgui/ui_urlopener.c:48
+msgid "Open URL"
+msgstr "URL-i avamine"
+
+#: src/libmlpgui/ui_urlopener.c:48
+msgid "Add URL"
+msgstr "URL-i lisamine"
+
+#: src/libmlpgui/util.c:95
+msgid ""
+"\n"
+"(Further messages have been hidden.)"
+msgstr "\n(Ülejäänud sõnumid peidetakse.)"
+
+#: src/libeggsmclient/eggdesktopfile.c:165
+msgid "File is not a valid .desktop file"
+msgstr "Fail pole korrektne .desktop-fail"
+
+#: src/libeggsmclient/eggdesktopfile.c:191
+#, c-format
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "Töölauafaili tundmatu versioon '%s'"
+
+#: src/libeggsmclient/eggdesktopfile.c:974
+#, c-format
+msgid "Starting %s"
+msgstr "Faili %s käivitamine"
+
+#: src/libeggsmclient/eggdesktopfile.c:1116
+msgid "Application does not accept documents on command line"
+msgstr "Rakendus ei toeta käsurealt määratud dokumente"
+
+#: src/libeggsmclient/eggdesktopfile.c:1184
+#, c-format
+msgid "Unrecognized launch option: %d"
+msgstr "Arusaamatu käivitusvõti: %d"
+
+#: src/libeggsmclient/eggdesktopfile.c:1391
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "Dokumendi URI-sid pole võimalik 'Liik=Viit' tüüpi töölauakirjele edastada"
+
+#: src/libeggsmclient/eggdesktopfile.c:1412
+msgid "Not a launchable item"
+msgstr "Pole käivitatav kirje"
+
+#: src/libeggsmclient/eggsmclient.c:226
+msgid "Disable connection to session manager"
+msgstr "Seansihalduriga ühendumise keelamine"
+
+#: src/libeggsmclient/eggsmclient.c:229
+msgid "Specify file containing saved configuration"
+msgstr "Salvestatud seadistusi sisaldava faili määramine"
+
+#: src/libeggsmclient/eggsmclient.c:229
+msgid "FILE"
+msgstr "FAIL"
+
+#: src/libeggsmclient/eggsmclient.c:232
+msgid "Specify session management ID"
+msgstr "Seandihalduse ID määramine"
+
+#: src/libeggsmclient/eggsmclient.c:232
+msgid "ID"
+msgstr "ID"
+
+#: src/libeggsmclient/eggsmclient.c:253
+msgid "Session management options:"
+msgstr "Seansihalduse valikud:"
+
+#: src/libeggsmclient/eggsmclient.c:254
+msgid "Show session management options"
+msgstr "Seansihalduse valikute näitamine"

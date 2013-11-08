@@ -1,0 +1,178 @@
+/*
+ * MLPlayer - a cross-platform multimedia player
+ * Copyright (c) 2008 Tomasz Moń
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; under version 3 of the License.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses>.
+ *
+ * The MLPlayer team does not consider modular code linking to
+ * MLPlayer or using our public API to be a derived work.
+ */
+
+#include <stdlib.h>
+
+#include <mlplayer/drct.h>
+#include <mlplayer/i18n.h>
+#include <mlplayer/plugin.h>
+#include <libmlpgui/libmlpgui.h>
+#include <libmlpgui/libmlpgui-gtk.h>
+
+#include "config.h"
+#include "plugin.h"
+#include "skins_cfg.h"
+#include "ui_equalizer.h"
+#include "ui_main.h"
+#include "ui_main_evlisteners.h"
+#include "ui_manager.h"
+#include "ui_playlist.h"
+#include "ui_skin.h"
+
+gchar * skins_paths[SKINS_PATH_COUNT];
+
+static gboolean skins_init (void);
+static void skins_cleanup (void);
+static gboolean ui_is_shown (void);
+static gboolean ui_is_focused (void);
+static void show_error_message (const gchar * text);
+
+AUD_IFACE_PLUGIN
+(
+    .name = "Winamp Classic Interface",
+    .init = skins_init,
+    .cleanup = skins_cleanup,
+    .configure = skins_configure,
+    .show = mainwin_show,
+    .is_shown = ui_is_shown,
+    .is_focused = ui_is_focused,
+    .show_error = show_error_message,
+    .show_filebrowser = mlpgui_run_filebrowser,
+    .show_jump_to_track = mlpgui_jump_to_track,
+)
+
+static gboolean plugin_is_active = FALSE;
+
+static gint update_source;
+static GtkWidget * error_win;
+
+static void skins_free_paths(void) {
+    int i;
+
+    for (i = 0; i < SKINS_PATH_COUNT; i++)  {
+        g_free(skins_paths[i]);
+        skins_paths[i] = NULL;
+    }
+}
+
+static void skins_init_paths() {
+    char *xdg_data_home;
+    char *xdg_cache_home;
+
+    xdg_data_home = (getenv("XDG_DATA_HOME") == NULL
+        ? g_build_filename(g_get_home_dir(), ".local", "share", NULL)
+        : g_strdup(getenv("XDG_DATA_HOME")));
+    xdg_cache_home = (getenv("XDG_CACHE_HOME") == NULL
+        ? g_build_filename(g_get_home_dir(), ".cache", NULL)
+        : g_strdup(getenv("XDG_CACHE_HOME")));
+
+    skins_paths[SKINS_PATH_USER_SKIN_DIR] =
+        g_build_filename(xdg_data_home, "mlplayer", "Skins", NULL);
+    skins_paths[SKINS_PATH_SKIN_THUMB_DIR] =
+        g_build_filename(xdg_cache_home, "mlplayer", "thumbs", NULL);
+
+    g_free(xdg_data_home);
+    g_free(xdg_cache_home);
+}
+
+static gboolean update_cb (void * unused)
+{
+    mainwin_update_song_info ();
+    return TRUE;
+}
+
+static gboolean skins_init (void)
+{
+    plugin_is_active = TRUE;
+    g_log_set_handler(NULL, G_LOG_LEVEL_WARNING, g_log_default_handler, NULL);
+
+    skins_init_paths();
+    skins_cfg_load();
+
+    mlpgui_set_default_icon();
+    mlpgui_register_stock_icons();
+
+    ui_manager_init();
+    ui_manager_create_menus();
+
+    init_skins(config.skin);
+    mainwin_setup_menus();
+
+    if (mlp_drct_get_playing ())
+    {
+        ui_main_evlistener_playback_begin (NULL, NULL);
+        if (mlp_drct_get_paused ())
+            ui_main_evlistener_playback_pause (NULL, NULL);
+    }
+    else
+        mainwin_update_song_info ();
+
+    mainwin_show (config.player_visible);
+
+    update_source = g_timeout_add (250, update_cb, NULL);
+
+    return TRUE;
+}
+
+static void skins_cleanup (void)
+{
+    if (plugin_is_active)
+    {
+        skins_configure_cleanup ();
+
+        mainwin_unhook ();
+        playlistwin_unhook ();
+        g_source_remove (update_source);
+
+        skins_cfg_save();
+
+        cleanup_skins();
+        skins_free_paths();
+        skins_cfg_free();
+        ui_manager_destroy();
+
+        if (error_win)
+            gtk_widget_destroy (error_win);
+
+        plugin_is_active = FALSE;
+    }
+}
+
+static gboolean ui_is_shown (void)
+{
+    return config.player_visible;
+}
+
+static gboolean ui_is_focused (void)
+{
+/* gtk_window_is_active() is too unreliable, unfortunately. --jlindgren */
+#if 0
+    return gtk_window_is_active ((GtkWindow *) mainwin) || gtk_window_is_active
+     ((GtkWindow *) equalizerwin) || gtk_window_is_active ((GtkWindow *)
+     playlistwin);
+#else
+    return ui_is_shown ();
+#endif
+}
+
+static void show_error_message (const gchar * text)
+{
+    mlpgui_simple_message (& error_win, GTK_MESSAGE_ERROR, _("Error"), _(text));
+}
