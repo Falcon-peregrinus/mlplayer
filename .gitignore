@@ -54,8 +54,10 @@
 *.jar
 *.rar
 *.tar
+*.tgz
 *.zip
-
+*.deb
+.deps
 # Logs and databases #
 ######################
 *.log
@@ -71,3 +73,13 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.mk
+config.h
+*.status
+*.mo
+*.1
+*.pc
+dbus-client-bindings.h
+dbus-server-bindings.h
+mlplayer/src/mlplayer/mlplayer
+mlplayer/src/mlptool/mlptool
